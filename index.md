@@ -43,8 +43,8 @@ This site contains online resources for music theory and aural skills created by
 
 [Introduction to musical functions.][functions]  
 [Harmonic functions.][harmFunc]  
-[Harmonic syntax - part 1.][harmonicSyntax1.html]  
-[Harmonic syntax - part 2.][harmonicSyntax2.html]  
+[Harmonic syntax - part 1.](harmonicSyntax1.html)  
+[Harmonic syntax - part 2.](harmonicSyntax2.html)  
 [Performing a harmonic analysis.](harmonicAnalysis.html)
 
 [Classical cadence types.][cadenceTypes]  
