@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to this "textbook" (for instructors & scholars)
+title: Introduction to OMT (for instructors & scholars)
 ---
 
 {{ page.title }}
