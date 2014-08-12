@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Musicianship resources
+title: Open Music Theory
 ---
-
-
-This site contains online resources for music theory and aural skills created by Kris Shaffer (unless otherwise stated).	
 
 # Introduction #
 
