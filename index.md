@@ -30,9 +30,6 @@ title: Open Music Theory
 [Realizing a figured bass line in melodic keyboard style (video).][melKB]  
 [Realizing an unfigured bass line (video).][unfiguredBass]  
 
-[Voice-leading in contemporary Christian worship music.][popRockVL]  
-
-
 # Harmony #
 
 [Introduction to thoroughbass.][thoroughbass]  
