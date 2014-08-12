@@ -3,8 +3,6 @@ layout: post
 title: Open Music Theory
 ---
 
-<iframe src="https://dev.trinket.io/embed/music/fccb4089aa" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
 # Introduction #
 
 [Introduction to this "textbook" (for instructors & scholars).][introSite]  
