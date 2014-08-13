@@ -14,15 +14,15 @@ In contemporary pop/rock music, syncopation typically involves taking a series o
 
 For example, a series of four quarter notes, all sounding on the beat, can be transformed in this way by making the first note into an eighth note, and sounding each successive quarter note on eighth note early—all on the *offbeats*.
 
-![Four straight quarter notes transformed to a syncopated pattern.][quarterToEighth]
+[![Four straight quarter notes transformed to a syncopated pattern.][quarterToEighth]][quarterToEighth]
 
 (Note the use of a tie to make beat three clear. Always do this when notating simple quadruple meter in order to make it easy to read.)
 
 This process can occur on any metrical level. If the duration of the series of "straight" notes is two beats, they will be syncopated by changing the first note to a single beat and shifting each other note early by a beat. If the duration of the straight notes, like the figure above, is a beat, they will be syncopated by a division (one half beat in simple meter). If the straight notes are each divisions, they will be syncopated by shifting each note by a subdivision. The unit of syncopation (the duration of the first note, and the amount of shift applied to the following notes) is always half of the duration of the straight notes. All of these syncopations are realtively common in contemporary pop/rock music.
 
-![Two-beat notes transformed to a syncopated pattern.][halfToQuarter]
+[![Two-beat notes transformed to a syncopated pattern.][halfToQuarter]][halfToQuarter]
 
-![Division notes transformed to a syncopated pattern.][eighthToSixteenth]
+[![Division notes transformed to a syncopated pattern.][eighthToSixteenth]][eighthToSixteenth]
 
 (Note the use of ties to make each beat clear. Always do this in order to make it easy to read.)
 
@@ -46,6 +46,6 @@ In the following video, I walk through this process in the song "Shh" by Frou Fr
 <iframe src="http://player.vimeo.com/video/52491312?badge=0" width="500" height="281" class="aligncenter" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 
-[quarterToEighth]: Graphics/syncopation/quarterToEighth.png width="75%"
-[halfToQuarter]: Graphics/syncopation/halfToQuarter.png width="75%"
-[eighthToSixteenth]: Graphics/syncopation/eighthToSixteenth.png width="75%"
+[quarterToEighth]: Graphics/syncopation/quarterToEighth.png
+[halfToQuarter]: Graphics/syncopation/halfToQuarter.png
+[eighthToSixteenth]: Graphics/syncopation/eighthToSixteenth.png
