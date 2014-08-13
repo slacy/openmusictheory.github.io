@@ -10,7 +10,7 @@ In third-species counterpoint, the counterpoint line moves in quarter notes agai
 
 ## The counterpoint line ##
 
-As in first and species, the counterpoint line should be singable, have a good shape, with a single climax that does not coincide with the climax of the cantus firmus, and primarily stepwise motion (with some small leaps and an occasional large leap for variety). Like second species, a third-species counterpoint should be even *more dominated by stepwise motion* than in first species, because there are less sticky situations that would require a leap. If the counterpoint must leap, prefer to do so within the bar rather than across the barline. Also like second species, there should usually be one or two *secondary climaxes*—notes lower than the overall climax that serve as "local" climaxes for portions of the line.
+As in first and second species, the counterpoint line should be singable, have a good shape, with a single climax that does not coincide with the climax of the cantus firmus, and primarily stepwise motion (with some small leaps and an occasional large leap for variety). Like second species, a third-species counterpoint should be even *more dominated by stepwise motion* than in first species, because there are less sticky situations that would require a leap. If the counterpoint must leap, prefer to do so within the bar rather than across the barline. Also like second species, there should usually be one or two *secondary climaxes*—notes lower than the overall climax that serve as "local" climaxes for portions of the line.
 
 ### Beginning a third-species counterpoint ###
 
