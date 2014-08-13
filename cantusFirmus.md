@@ -8,7 +8,7 @@ title: Composing a cantus firmus
 
 Exercises in strict voice-leading, or species counterpoint, begin with a single, well formed musical line called the *cantus firmus* (fixed voice, or fixed melody; pl. *cantus firmi*). Our first exercises in strict voice-leading will be to compose good, well formed *cantus firmi*.
 
-The first step is to sing and analyze model *cantus firmi*, such as the following *cantus firmus* in C major, composed by Hinrich Schenker.
+The first step is to sing and analyze model *cantus firmi*, such as the following *cantus firmus* in C major, composed by Heinrich Schenker.
 
 [![](Graphics/counterpoint/CF-Schenker.png)](Graphics/counterpoint/CF-Schenker.png)
 
