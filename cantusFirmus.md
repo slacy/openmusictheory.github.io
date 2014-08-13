@@ -6,9 +6,13 @@ title: Composing a cantus firmus
 {{ page.title }}
 ================
 
-Exercises in strict voice-leading, or species counterpoint, begin with a single, well formed musical line called the *cantus firmus* (fixed voice, or fixed melody; pl. *cantus firmi*). Our first exercises in strict voice-leading will be to compose a good *cantus firmus*.
+Exercises in strict voice-leading, or species counterpoint, begin with a single, well formed musical line called the *cantus firmus* (fixed voice, or fixed melody; pl. *cantus firmi*). Our first exercises in strict voice-leading will be to compose good, well formed *cantus firmi*.
 
-The first step is to sing and analyze model *cantus firmi*. A number of them are provided [here][CFs]. (These models will also be used as the starting points for our two-voice exercises.)
+The first step is to sing and analyze model *cantus firmi*, such as the following *cantus firmus* in C major, composed by Hinrich Schenker.
+
+[![](Graphics/counterpoint/CF-Schenker.png)](Graphics/counterpoint/CF-Schenker.png)
+
+A number of others are provided [here][CFs]. Performing these is a helpful practice to develop an internal sense of the sound and feel of a well formed *cantus*, and many of the characteristics of well formed *cantus firmi* carry over into other musical styles. (These model *cantus firmi* can also be used as the starting points for our two-voice exercises.)
 
 From these *cantus*, notice the following general characteristics, which are typical of all well formed *cantus firmi*:
 
@@ -23,8 +27,12 @@ From these *cantus*, notice the following general characteristics, which are typ
 - mostly stepwise motion, but with some leaps (mostly small leaps)  
 - no repetition of "motives" or "licks"  
 - any large leaps (fourth or larger) are followed by step in opposite direction  
-- no more than two leaps in a row; no consecutive leaps in the same direction  
+- no more than two leaps in a row; no consecutive leaps in the same direction (Fux's F-major *cantus* is an exception, where the back-to-back descending leaps outline a consonant triad.)  
 - the leading tone progresses to the tonic  
 - in minor, the leading tone only appears in the penultimate bar; the raised submediant is only used when progressing to that leading tone
+
+Before composing a *cantus firmus* from scratch, try building a well formed *cantus* around the following skeleton. Length, starting pitch, penultimate pitch, ending pitch, and climax have been provided. Create a smooth, consonant melodic line that exemplifies the characteristics listed above.
+
+***insert Trinket example: Key of D, d s s s b s s s e d***
 
 [CFs]: Graphics/counterpoint/cantusFirmi.pdf
