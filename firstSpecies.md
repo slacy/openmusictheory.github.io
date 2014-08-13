@@ -59,11 +59,11 @@ Because similar and parallel motion diminish variety and melodic independence, t
 
 In the following video, I illustrate the process of composing a first-species counterpoint. This video provides new information about the compositional process, as well as concrete examples of the above rules and principles.
 
-<iframe src="http://player.vimeo.com/video/56828309" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="http://player.vimeo.com/video/56828309" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/><br/>
 
 ## Practice ##
 
-Before composing a first-species exercise from scratch, try the following practice exercises. Each has one or two errors. Try to find the error(s), and recompose the exercise to create a well formed exercise. Be sure to listen to and perform the exercises, both as they are written, and as you make changes. Your ear may already be able to direct you to errors. If not, use the principles outlined above one-by-one to search for errors. Once you identify it, be sure to listen several times, singing along with one line or the other, to train your ear to recognize the problem.
+Before composing a first-species exercise from scratch, try the following practice exercises. Each has one or two errors. Try to find the error(s), and recompose the exercise to create a well formed exercise. Be sure to listen to and perform the exercises, both as they are written, and as you make changes. Your ear may already be able to direct you to errors. If not, use the principles outlined above one-by-one to search for errors. Once you identify an error, be sure to listen several times, singing along with one line or the other, to train your ear to recognize the problem.
 
 ***Insert trinkets: one minor, one major, one above, one below, with errors***
 
