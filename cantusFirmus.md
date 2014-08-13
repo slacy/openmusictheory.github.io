@@ -6,15 +6,20 @@ title: Composing a cantus firmus
 {{ page.title }}
 ================
 
-Exercises in strict voice-leading, or species counterpoint, begin with a single, well formed musical line called the *cantus firmus* (fixed voice, or fixed melody; pl. *cantus firmi*). Our first exercises in strict voice-leading will be to compose good, well formed *cantus firmi*.
+Exercises in strict voice-leading, or species counterpoint, begin with a single, well formed musical line called the *cantus firmus* (fixed voice, or fixed melody; pl. *cantus firmi*). *Cantus firmus* composition gives us the opportunity to engage the following fundamental musical traits:
 
-The first step is to sing and analyze model *cantus firmi*, such as the following *cantus firmus* in C major, composed by Heinrich Schenker.
+- smoothness  
+- independence and integrity or melodic lines  
+- variety  
+- motion (towards a goal)
+
+Our first exercises in strict voice-leading will be to compose good, well formed *cantus firmi*. The first step is to perform and analyze model *cantus firmi*, such as the following *cantus firmus* in C major, composed by Heinrich Schenker.
 
 [![](Graphics/counterpoint/CF-Schenker.png)](Graphics/counterpoint/CF-Schenker.png)
 
 A number of others are provided [here][CFs]. Performing these is a helpful practice to develop an internal sense of the sound and feel of a well formed *cantus*, and many of the characteristics of well formed *cantus firmi* carry over into other musical styles. (These model *cantus firmi* can also be used as the starting points for our two-voice exercises.)
 
-From these *cantus*, notice the following general characteristics, which are typical of all well formed *cantus firmi*:
+From these *cantus*, notice how the general musical characteristics of smoothness, melodic integrity, variety, and motion towards a goal are worked out in specific characteristics. The following characteristics are typical of all well formed *cantus firmi*:
 
 - length of about 8–16 notes  
 - arhythmic (all whole notes; no long or short notes)  

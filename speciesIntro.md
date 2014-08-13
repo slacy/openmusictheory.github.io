@@ -26,7 +26,7 @@ The study of counterpoint will help us to engage several important musical "prob
 - independence and integrity or melodic lines  
 - tonal fusion (the preference for simultaneous notes to form a consonant unity)  
 - variety  
-- motion
+- motion (towards a goal)
 
 These traits are based in human perception and cognition, but they are often in conflict in specific musical moments, and need to be balanced over the course of larger passages and complete works. Counterpoint will help us begin to practice mediating these conflicts.
 
