@@ -38,8 +38,8 @@ From these *cantus*, notice how the general musical characteristics of smoothnes
 
 ## Practice exercise 
 
-Before composing a *cantus firmus* from scratch, try building a well formed *cantus* around the following skeleton. Length, starting pitch, penultimate pitch, ending pitch, and climax have been provided. Create a smooth, consonant melodic line that exemplifies the characteristics listed above.
+Before composing a *cantus firmus* from scratch, try building a well formed *cantus* around the following skeleton. Length, starting pitch, penultimate pitch, ending pitch, and climax have been provided. Create a smooth, consonant melodic line that exemplifies the characteristics listed above. Click the staff to hear the melody. Be sure to listen each time you make a change.
 
-<iframe src="https://dev.trinket.io/embed/music/5adbd69734" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://dev.trinket.io/embed/music/6bf731fc1f" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 [CFs]: Graphics/counterpoint/cantusFirmi.pdf
