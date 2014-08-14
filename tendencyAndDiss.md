@@ -6,11 +6,13 @@ title: Tendency tones and functional harmonic dissonances
 {{ page.title }}
 ================
 
+***Add intro/explanation of the why and how it builds on shortest-way.***
+
 ## Tendency tones ##
 
 *Ti* (not *te*) and *le* (not *la*) are *tendency tones*. 
 
-Generally speaking, when *ti* appears in an upper voice of a dominant-functioning chord, it should be followed by *do* in the same voice upon change of function (to T, Tx, or S).
+Generally speaking, when *ti* appears in an upper voice of a dominant-functioning chord, it should be followed by *do* in the same voice upon change of function (to T or S).
 
 Likewise, when *le* appears in an upper voice of a subdominant-functioning chord, it should be followed by *sol* in the same voice upon change of function.
 
@@ -25,7 +27,7 @@ Exceptions to these tendencies include:
 Following are the scale degrees which act as dissonances for their respective functions:
 
 | function	| dissonances	|
-| --------:	| :----------:	|
+| -: | :-: |
 | T or Tx	| 7, 5 when 6 is also present	
 | S	| 3, 1 when 2 is also present
 | D	| 4, 6
