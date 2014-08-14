@@ -36,8 +36,10 @@ From these *cantus*, notice how the general musical characteristics of smoothnes
 - the leading tone progresses to the tonic  
 - in minor, the leading tone only appears in the penultimate bar; the raised submediant is only used when progressing to that leading tone
 
+## Practice exercise 
+
 Before composing a *cantus firmus* from scratch, try building a well formed *cantus* around the following skeleton. Length, starting pitch, penultimate pitch, ending pitch, and climax have been provided. Create a smooth, consonant melodic line that exemplifies the characteristics listed above.
 
-***insert Trinket example: Key of D, d s s s b s s s e d***
+<iframe src="https://dev.trinket.io/embed/music/5adbd69734" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 [CFs]: Graphics/counterpoint/cantusFirmi.pdf
