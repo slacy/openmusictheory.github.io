@@ -22,14 +22,22 @@ title: Table of Contents
 ## Voice-leading and model composition ##
 
 [Introduction to strict voice-leading.][speciesIntro]  
+
+### Strict two-voice composition (species counterpoint)
+
 [Composing a cantus firmus.][CF]  
 [Composing a first-species counterpoint.][firstSpecies]  
 [Composing a second-species counterpoint.][secondSpecies]  
 [Composing a third-species counterpoint.][thirdSpecies]  
 [Composing a fourth-species counterpoint.][fourthSpecies]  
 
-[Strict keyboard-style voice-leading (includes video).][strictKeyboardStyle]  
-[Melodic keyboard-style voice-leading schemata.][KBVLschemata]  
+### Strict four-voice composition
+
+[A brief history of *basso continuo*.](bassoContinuo-history.html)  
+[Composing in *basso-continuo* style.](bassoContinuo.html)  
+[Tendency tones and functional harmonic dissonances.](tendencyAndDiss.html)  
+[*Melodic keyboard style voice-leading* (includes video).](melodicKeyboardStyle.html)  
+[Melodic keyboard-style voice-leading schemata.](KBVLschemata.html)  
 [Realizing a figured bass line in melodic keyboard style (video).][melKB]  
 [Realizing an unfigured bass line (video).][unfiguredBass]  
 
