@@ -11,7 +11,7 @@ Passing Tone (PT)
 
 ![][passing]
 
-A passing tone is a non-chord tone (dissonance) that occurs between two chord tones, creating stepwise motion. The typical figure is *chord tone – passing tone – chord tone*, filling in a third (see example to the right), but two adjacent passing tones can also be used to fill in the space between two chord tones a fourth apart. A passing tone can be either accented (occurring on a strong beat or strong part of the beat) or unaccented (weak beat or weak part of the beat).
+A passing tone is a non-chord tone (dissonance) that occurs between two chord tones, creating stepwise motion. The typical figure is *chord tone – passing tone – chord tone*, filling in a third (see example), but two adjacent passing tones can also be used to fill in the space between two chord tones a fourth apart. A passing tone can be either accented (occurring on a strong beat or strong part of the beat) or unaccented (weak beat or weak part of the beat).
 
 Complete Neighbor Tone (NT)
 ---------------------------

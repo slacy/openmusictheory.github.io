@@ -39,9 +39,15 @@ title: Table of Contents
 [Realizing a figured bass line in melodic keyboard style (video).](melodicKB.html)  
 [Realizing an unfigured bass line (video).][unfiguredBass]  
 
+[Embellishing tones.][embellishingTones]  
+
 ## Harmony ##
 
 [Introduction to musical functions.][functions]  
+Harmonic functions  
+[Harmonic syntax - part 1.](harmonicSyntax1.html)  
+[Harmonic syntax - part 2.](harmonicSyntax2.html)  
+Performing a harmonic analysis.  
 
 #### Handouts and charts
 
