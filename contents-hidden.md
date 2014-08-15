@@ -99,9 +99,9 @@ Sonata Theory
 ## Post-tonal music ##
 
 Basics
-- [Pitch (class).](pitch(Class).html)
-- [Interval (class).](interval(Class.html)
-- [Modular 12 arithmetic](mod12.html)
+- [Pitch (class).](pitch(Class))
+- [Interval (class).](interval(Class))
+- [Modular 12 arithmetic](mod12)
 
 [Analyzing atonal music.][atonal]  
 [Analyzing 12-tone music.][twelveTone]  
