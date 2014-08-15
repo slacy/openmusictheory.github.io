@@ -87,9 +87,22 @@ The first progression through the **T–S–D–T** cycle does not produce a cad
 > **I IV V<sup>4/2</sup> I<sup>6</sup> II<sup>6</sup> V I**  
 **T———— S D T**
 
+## Plagal progressions ##
+
+As a rule, **T** is used for contrapuntal prolongation of **S**, **S** prolongs **D**, and **D** prolongs **T**. However, there are some common patterns in which **S** is used to prolong **D**.
+
+The *champagne progression* (**I–IV<sup>6</sup>–I<sup>6</sup>** or **I–IV<sup>6</sup>–III**) described in the [Keyboard-style voice-leading schemata](KBVLschemata.html) resource is one, which has been described above. Another is the **S4** divider, as well as the related **S4** embellishing chord—both described above.
+
+One other common figure is to use **IV** (**S**) as a complete or incomplete neighbor to **I<sup>6</sup>** (**T**). Common progressions include:
+
+- **I IV I<sup>6</sup>**  
+- **I<sup>6</sup> IV I<sup>6</sup>**
+
+Also common is a *change-of-figure* prolongation of **T1**: 5/3 to 6/4 to 5/3 (**I–IV–I**). The 6/4 chord (**IV**) can be considered an **S** chord, but it is more appropriate simply to consider the sixth and fourth above the bass in that chord to be neighbor tones to the fifth and third. Simply label such a progression **T———**.
+
 ## Prolonging a progression ##
 
 Occasionally, a contrapuntal chord is used not to prolong a single function, but to connect chords of different functions—in other words, to prolong a progression.
 
-The most common occurrence is when a bass line moves down by step from *do* to *sol*, which is especially common in minor. The bass line *do*–*te*–*le*–*sol* is harmonized by **T1 D7 S6 D5** (usually **i v<sup>6</sup> iv<sup>6</sup> V**—the chord qualities are important in this progression, called the "lament"). In this progression, the **S6** is functional subdominant leading to the cadential **D5**. The **D7** chord, then, is simply a passing chord that connects **T1** with **S6**. To notate this, draw and arrow between **T** and **S**. 
+The most common occurrence is when a bass line moves down by step from *do* to *sol*, which is especially common in minor. The bass line *do*–*te*–*le*–*sol* is harmonized by **T1 D7 S6 D5** (usually **i v<sup>6</sup> iv<sup>6</sup> V**—the chord qualities are important in this progression, called the "lament"). In this progression, the **S6** is a functional subdominant leading to the cadential **D5**. The **D7** chord, then, is simply a passing chord that connects **T1** with **S6**. To notate this, draw and arrow between **T** and **S**. 
 

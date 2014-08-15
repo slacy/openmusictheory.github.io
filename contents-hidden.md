@@ -39,9 +39,10 @@ title: Table of Contents
 [Style and tendency.](tendency.html)  
 [Tendency tones and functional harmonic dissonances.](tendencyTonesFunctionalDissonances.html)  
 [Realizing a figured bass in strict basso continuo style (video).](TBDemo.html)  
-[*Melodic keyboard style voice-leading* (includes video).](melodicKeyboardStyle.html)  
+
+[*Melodic keyboard style voice-leading*.](melodicKeyboardStyle.html)  
+[Realizing a figured bass line in melodic keyboard style (video).](melodicKB.html)  
 [Melodic keyboard-style voice-leading schemata.](KBVLschemata.html)  
-[Realizing a figured bass line in melodic keyboard style (video).][melKB]  
 [Realizing an unfigured bass line (video).][unfiguredBass]  
 
 ## Harmony ##
