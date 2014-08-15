@@ -36,9 +36,21 @@ From these *cantus*, notice how the general musical characteristics of smoothnes
 - the leading tone progresses to the tonic  
 - in minor, the leading tone only appears in the penultimate bar; the raised submediant is only used when progressing to that leading tone
 
+## Melodic tendencies
+
+The characteristics listed above are fairly detailed, and some of them are specific to strict species counterpoint. However, taken together, they express in detail some general tendencies of melodies in a variety of styles.
+
+[David Huron](https://openlibrary.org/works/OL5851060W/Sweet_Anticipation) identifies five general properties of melodies in Western music that connect to the basic principles of perception and cognition listed above, but play out in slightly different specific ways in musical styles. They are:
+
+- **pitch proximity** – the tendency for melodies to progress by steps more than leaps and by small leaps more than large leaps. An expression of smoothness and melodic integrity.  
+- **step declination** – the tendency for melodies to move by *descending* step more than ascending. Possibly an expression of goal-oriented motion, as we tend to perceive a move down as a decrease in energy (movement towards a state of rest).  
+- **step inertia** – the tendency for melodies to change direction less frequently than they continue in the same direction. (I.e., the majority of melodic progressions are in the same direction as the previous one.) An expression of smoothness and, at times, goal-oriented motion.  
+- **melodic regression** – the tendency for melodic notes in extreme registers to progress back towards the middle. An expression of motion towards a position of rest (with non-extreme notes representing "rest"). Also an expression simply of the statistical distribution of notes in a melody: the higher a note is, the more notes there are below it for a composer to choose from, and the less notes there are above it.  
+- **melodic arch** – the tendency for melodies to ascend in the first half of a phrase, reach a climax, and descend in the second half. An expression of goal-orientation and the rest–motion–rest pattern. Also, a combination of the above rules in the context of a musical phrase.
+
 ## Practice exercise 
 
-Before composing a *cantus firmus* from scratch, try building a well formed *cantus* around the following skeleton. Length, starting pitch, penultimate pitch, ending pitch, and climax have been provided. Create a smooth, consonant melodic line that exemplifies the characteristics listed above. Click the staff to hear the melody. Be sure to listen each time you make a change.
+Before composing a *cantus firmus* from scratch, try building a well formed *cantus* around the following skeleton. Length, starting pitch, penultimate pitch, ending pitch, and climax have been provided. Create a smooth, consonant melodic line that exemplifies the characteristics listed above—both the specific characteristics of strict species *cantus firmi* and the general characteristics of tonal melodies. Click the staff to hear the melody. Be sure to listen each time you make a change.
 
 <iframe src="https://dev.trinket.io/embed/music/6bf731fc1f" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
