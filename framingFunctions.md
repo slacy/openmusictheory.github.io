@@ -21,9 +21,9 @@ Here, a one-measure accompanimental introduction sits in front of a four-measure
 
 ##Post-Cadential Function##
 
-The function of a post-cadential passage is described according to what kind of cadence—-PAC or HC--ended the theme.
+The function of a post-cadential passage is described according to what kind of cadence—PAC or HC—ended the theme.
 
-*Closing sections* follow themes that end PACs. They are variable in length—-maybe as short as a single measure or as long as eight. A closing sections functions to confirm the PAC that ended the theme, perhaps centering melodic action around scale degree 1, prolonging tonic with a pedal, alternating tonic and dominant harmonies, or repeating a cadential progression.
+*Closing sections* follow themes that end PACs. They are variable in length—maybe as short as a single measure or as long as eight. A closing sections functions to confirm the PAC that ended the theme, perhaps centering melodic action around scale degree 1, prolonging tonic with a pedal, alternating tonic and dominant harmonies, or repeating a cadential progression.
 
 [![](Graphics/form/cadentialextension.png)](Graphics/form/cadentialextension.png)
 
