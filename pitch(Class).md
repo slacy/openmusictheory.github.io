@@ -23,6 +23,7 @@ In post-tonal music, enharmonic equivalence is often assumed—with exceptions o
 Pitch classes are *pitches* under octave equivalence that are also spelled the same. A4, A3, A2, etc. are all members of the pitch class A.
 
 **Pitch Space**
+
 [![](Graphics/postTonal/Pitch-Space.jpg)](Graphics/postTonal/Pitch-Space.jpg)
 
 ##Integer notation##
@@ -31,6 +32,7 @@ When analyzing post-tonal music where assuming octave equivalence and enharmonic
 This type of pitch-class, which assumes octave and enharmonic equivalence is easily visualized on a clock-face diagram, like the one below.
 
 **Pitch-Class Space**
+
 [![](Graphics/postTonal/Pitch-class-Space.jpg)](Graphics/postTonal/Pitch-class-Space.jpg)
 
 ##Disclaimer!##
