@@ -98,6 +98,11 @@ Sonata Theory
 
 ## Post-tonal music ##
 
+Basics
+- [Pitch (class).][pitch(Class).html]
+- [Interval (class).][interval(Class.html]
+- [Modular 12 arithmetic][mod12.html]
+
 [Analyzing atonal music.][atonal]  
 [Analyzing 12-tone music.][twelveTone]  
 [Glossary of atonal musical terms.][atonalGloss]  
