@@ -19,7 +19,7 @@ In post-tonal music, enharmonic equivalence is often assumed—with exceptions o
 ##Pitch##
 *Pitches* are discrete tones with individual frequencies. The concept of pitch, then, does not imply octave equivalence. C4 is a pitch, and it is not the same pitch as C3.
 
-##Pitch-class##
+##Pitch class##
 Pitch classes are *pitches* under octave equivalence that are also spelled the same. A4, A3, A2, etc. are all members of the pitch class A.
 
 **Pitch Space**
