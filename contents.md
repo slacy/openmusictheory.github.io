@@ -45,8 +45,8 @@ title: Table of Contents
 
 [Introduction to musical functions.][functions]  
 Harmonic functions  
-[Harmonic syntax - part 1.](harmonicSyntax1.html)  
-[Harmonic syntax - part 2.](harmonicSyntax2.html)  
+[Harmonic syntax - the idealized phrase.](harmonicSyntax1.html)  
+[Harmonic syntax - prolongation.](harmonicSyntax2.html)  
 Performing a harmonic analysis.  
 
 #### Handouts and charts
