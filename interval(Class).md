@@ -22,14 +22,17 @@ These intervals can be calculated with respect to their *order* (G4 to A-sharp5 
 Ordered intervals should always have a “+” or “-” sign appended to them, representing the direction we have to travel. The ordered pitch interval from G4 to B-flat5 is +15, but the ordered pitch interval from A-sharp5 to G4 is -15. Ordered pitch-class intervals are measured going around the “clock” in clockwise fashion. Thus, from G to A-sharp = 3, and from A-sharp to G = 9.
 
 **Ordered Pitch Interval**
+
 [![](Graphics/postTonal/Ordered-Pitch-Interval.jpg)](Graphics/postTonal/Ordered-Pitch-Interval.jpg)
 
 **Ordered Pitch-Class Interval**
+
 [![](Graphics/postTonal/Pitch-Class-Interval.jpg)](Graphics/postTonal/Pitch-Class-Interval.jpg)
 
 Unordered intervals represent the *shortest distance* between two pitches or pitch classes, without any reference to the order they are in. To determine the unordered interval, simply find the shortest distance between two pitches. The unordered pitch interval from G4 to A-sharp5 is 15. The unordered pitch-class interval from G to A-sharp is 3.
 
 **Un-ordered Pitch Interval (Interval Class)**
+
 [![](Graphics/postTonal/Unordered-Pitch-Interval.jpg)](Graphics/postTonal/Unordered-Pitch-Interval.jpg)
 
 **[![](Graphics/postTonal/unorderedPitchClassInt.jpg)](Graphics/postTonal/unorderedPitchClassInt.jpg)
