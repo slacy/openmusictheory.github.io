@@ -6,7 +6,7 @@ title: Framing Functions
 {{ page.title }}
 ================
 
-Often, themes are surrounded by material that exists outside its boundaries, but does not belong to another theme. As they depend on the theme to which they are attached, William Caplin has described these passages as “before-the-beginning,” an *introductory* function or “after-the-end," a *post-cadential function.*
+Often, a theme is surrounded by material that exists outside its boundaries, but which is clearly dependent on the theme itself. This material is, as William Caplin has noted, “before-the-beginning,” an *introductory* *(prefix)* function or “after-the-end," a *post-cadential* *(suffix)* function 
 
 ## Introduction ##
 
