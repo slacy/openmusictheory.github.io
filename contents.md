@@ -33,6 +33,7 @@ title: Table of Contents
 
 ### Strict four-voice composition
 
+[Introduction to thoroughbass.][thoroughbass]  
 [A brief history of *basso continuo*.](bassoContinuo-history.html)  
 [Composing in *basso-continuo* style.](bassoContinuo.html)  
 [Tendency tones and functional harmonic dissonances.](tendencyAndDiss.html)  
@@ -43,7 +44,6 @@ title: Table of Contents
 
 ## Harmony ##
 
-[Introduction to thoroughbass.][thoroughbass]  
 [Embellishing tones.][embellishingTones]  
 
 [Introduction to musical functions.][functions]  

@@ -8,23 +8,28 @@ title: Introduction to thoroughbass
 
 A *thoroughbass* (It. *Basso continuo*, Ger. *Generalbaß*, also called a *figured bass*) is a harmonic shorthand of a musical passage or work. It is composed of a bass line, and chord symbols—called *figures*. It is called a "thorough" bass or "continuous" bass line because it includes the lowest sounding note at any given moment, *regardless of the instrument or voice sounding the note*. It usually corresponds to a single instrument or vocal part, but not always.
 
-The historical origin of the thoroughbass part was in church settings where a piece for 6–8 singers was to be performed by one or two voices with a keyboard instrument. The keyboardist, rather than play the 4–7 remaining parts, would transcribe the lowest note and shorthand figures to remind himself of the (simple) intervals present above that lowest voice. This would allow the keyboardist to play one or two of the more important lines, and fill the rest of the texture with blocked or arpeggiated chords. (Think seventeenth-century lead sheet.) A good keyboardist, who knew his harmony and voice-leading, could simply follow the bass line without figures (an *unfigured bass*) and listen to the melody, improvising the rest. Less experienced keyboardists, however, could manage otherwise complicated pieces by reading a bass line and memorizing a small number of figures and basic voice-leading rules.
+***insert graphic example***
+
+The historical origin of the thoroughbass part was in church settings where a piece for 6–8 singers was to be performed by one or two voices with a keyboard instrument. The keyboardist, rather than play the 4–7 remaining parts, would transcribe the lowest note and shorthand figures to remind himself of the (simple) intervals present above that lowest voice. This would allow the keyboardist to play one or two of the more important lines, and fill the rest of the texture with blocked or arpeggiated chords. (Think seventeenth-century lead sheet.) A good keyboardist, who knew his harmony and voice-leading, could simply follow the bass line without figures (an *unfigured bass*) and listen to the melody, improvising the rest. Less experienced keyboardists, however, could manage otherwise complicated pieces by reading a bass line and memorizing a small number of figures and basic voice-leading rules. (You can read a more detailed explanation of its history [here](bassoContinuo-history).)
+
+Coming after species counterpoint in our studies, *basso continuo* exercises provide a new, more complicated environment in which to practice mediating the demands of smoothness, independence of lines, tonal fusion (now considering triads and seventh chords), variety, and motion. New considerations of performability are introduced, and the presence of dissonances within the core harmonies themselves will call for new approaches to harmonic dissonance in this style.
+
 
 We will use thoroughbass lines for a number of purposes in this class:
 
-- Harmonic "reductions" of pieces and passages with dense textures or complicated voice-leading  
-- Shorthand representations of stock harmonic patterns  
-- The harmonic basis for model composition exercises (akin to the *cantus firmus* of species counterpoint)
+- harmonic "reductions" of pieces and passages with dense textures or complicated voice-leading  
+- shorthand representations of stock harmonic patterns  
+- the harmonic basis for model composition exercises (akin to the *cantus firmus* of species counterpoint)
 
 Thoroughbass is a simple, and foundational, concept. Master it early, and subsequent activities will be much easier.
 
 Note on figure placement: Thoroughbass figures can appear above or below the bass line. Both are common, but for this class, we will always place them *above* the bass line. This connects them to our habits of interval analysis during species counterpoint, keeps figures separate from other harmonic symbols we will place below the bass line, and make typesetting in notation software easier when both figures and other symbols are in play simultaneously.
 
-# Figures #
+## Figures 
 
 In general, a thoroughbass figure indicates the *simple intervals above the bass* for all pitch classes present in the chord. 
 
-Note that the largest number typically found in thoroughbass figures is 7. In general, *compound intervals* (an octave or larger) are reduced to their *simple interval* equivalent. A tenth becomes a third, a thirteenth becomes a sixth, etc.
+The largest number typically found in thoroughbass figures is 7. In general, *compound intervals* (an octave or larger) are reduced to their *simple interval* equivalent. A tenth becomes a third, a thirteenth becomes a sixth, etc.
 
 The most common chords in tonal music are [*triads* and *seventh chords*][triadsSevenths]. The following figures apply to these chords:
 
@@ -57,7 +62,7 @@ Other shortcuts generally follow two simple rules:
 
 ## Unfamiliar figures and chords ##
 
-Only seven figures are given above. If you see a figure you do not recognize, simply follow the intervals. Likewise, if analyzing a chord that is not a triad or seventh chord, simply label the *simple* intervals you see/hear above the bass, from top to bottom in descending order: 7/6/3 or 5/4, for example. In time, you will become familiar with a number of other harmonic possibilities, and their corresponding figures.
+Only seven figures are given above. If you see a figure you do not recognize, simply follow the intervals (using the two shortcut rules). Likewise, if analyzing a chord that is not a triad or seventh chord, simply label the *simple* intervals you see/hear above the bass, from top to bottom in descending order: 7/6/3 or 5/4, for example. In time, you will become familiar with a number of other harmonic possibilities, and their corresponding figures.
 
 ## Chords of the fifth and chords of the sixth ##
 
