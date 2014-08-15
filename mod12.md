@@ -13,7 +13,7 @@ Modular arithmetic is like regular arithmetic, except that the numbers “wrap a
 While we are used to thinking of numbers on an infinite line, modular thinking wraps them into a finite number, generally represented by a circle. On this circle, all values are a number from 0 to 11.
 
 **Pitch-Class Space**
-[![](Graphics/postTonal/Pitch-class-Spacejpg)](Graphics/postTonal/Pitch-class-Space.jpg)
+[![](Graphics/postTonal/Pitch-Class-Space.jpg)](Graphics/postTonal/Pitch-Class-Space.jpg)
 
 ##Addition and Subtraction##
 To add or subtract in mod 12, perform the calculation in the usual manner (7 + 15 = 22) and then add or subtract 12′s until you get a number from 0 to 11 (22 - 12 = 10).
