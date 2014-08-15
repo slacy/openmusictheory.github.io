@@ -31,9 +31,11 @@ Ordered intervals should always have a “+” or “-” sign appended to them,
 
 Unordered intervals represent the *shortest distance* between two pitches or pitch classes, without any reference to the order they are in. To determine the unordered interval, simply find the shortest distance between two pitches. The unordered pitch interval from G4 to A-sharp5 is 15. The unordered pitch-class interval from G to A-sharp is 3.
 
-**Unordered Pitch Interval (Interval Class)**
+**Unordered Pitch Interval**
 
 [![](Graphics/postTonal/Unordered-Pitch-Interval.jpg)](Graphics/postTonal/Unordered-Pitch-Interval.jpg)
+
+**Unordered Pitch-Class Interval (Interval Class)**
 
 [![](Graphics/postTonal/unorderedPitchClassInt.jpg)](Graphics/postTonal/unorderedPitchClassInt.jpg)
 
