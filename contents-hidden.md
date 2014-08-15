@@ -41,8 +41,8 @@ title: Table of Contents
 [Realizing a figured bass in strict basso continuo style (video).](TBDemo.html)  
 
 [Melodic keyboard style voice-leading.](melodicKeyboardStyle.html)  
-[Realizing a figured bass line in melodic keyboard style (video).](melodicKB.html)  
 [Melodic keyboard-style voice-leading schemata.](KBVLschemata.html)  
+[Realizing a figured bass line in melodic keyboard style (video).](melodicKB.html)  
 [Realizing an unfigured bass line (video).][unfiguredBass]  
 
 ## Harmony ##
