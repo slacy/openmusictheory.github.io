@@ -41,6 +41,7 @@ title: Table of Contents
 
 ## Harmony ##
 
+[Introduction to musical functions.][functions]  
 
 #### Handouts and charts
 
@@ -50,7 +51,6 @@ title: Table of Contents
 
 ## Form ##
 
-<<<<<<< HEAD
 [Introduction to musical functions.][functions]  
 
 [Classical theme functions.](themeFunctions.html)  
@@ -74,8 +74,6 @@ Sonata Theory
 
 [Form in pop/rock music.][popRockForm]
 
-=======
->>>>>>> FETCH_HEAD
 
 ## Post-tonal music ##
 
