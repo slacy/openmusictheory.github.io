@@ -36,7 +36,8 @@ title: Table of Contents
 [Introduction to thoroughbass.][thoroughbass]  
 [A brief history of *basso continuo*.](bassoContinuo-history.html)  
 [Composing in *basso-continuo* style.](bassoContinuo.html)  
-[Tendency tones and functional harmonic dissonances.](tendencyAndDiss.html)  
+[Style and tendency.](tendency.html)  
+[Tendency tones and functional harmonic dissonances.](tendencyTonesFunctionalDissonances.html)  
 [Realizing a figured bass in strict basso continuo style (video).](TBDemo.html)  
 [*Melodic keyboard style voice-leading* (includes video).](melodicKeyboardStyle.html)  
 [Melodic keyboard-style voice-leading schemata.](KBVLschemata.html)  
