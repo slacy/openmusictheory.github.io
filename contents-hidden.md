@@ -99,22 +99,22 @@ Sonata Theory
 ## Post-tonal music ##
 
 Basics
-- [Pitch (class).](pitch(Class))
-- [Interval (class).](interval(Class))
-- [Modular 12 arithmetic](mod12)
+[Pitch (class).](pitch(Class))
+[Interval (class).](interval(Class))
+[Modular 12 arithmetic](mod12)
 
 Organizing forces
-- [Collections and Scales](scales)
-- [Symmetry and Centricity](symmetryAndCentricity)
+[Collections and Scales](scales)
+[Symmetry and Centricity](symmetryAndCentricity)
 
 Set Theory
-- [Normal Order](normalorder)
-- [Tranposition](transposition)
-- [Inversion](inversion)
-- [Set Class and Prime Form (1)](setClassAndPrimeForm1)
-- [Set Class and Prime Form (2)](setClassAndPrimeForm2)
-- [Complements](complements)
-- [Common Tones under Transposition](commonTonesUnderTransposition)
+[Normal Order](normalOrder)
+[Tranposition](transposition)
+[Inversion](inversion)
+[Set Class and Prime Form (1)](setClassAndPrimeForm1)
+[Set Class and Prime Form (2)](setClassAndPrimeForm2)
+[Complements](complements)
+[Common Tones under Transposition](commonTonesUnderTransposition)
 
 [Analyzing atonal music.][atonal]  
 [Analyzing 12-tone music.][twelveTone]  
