@@ -103,6 +103,10 @@ Basics
 - [Interval (class).](interval(Class))
 - [Modular 12 arithmetic](mod12)
 
+Organizing forces
+- [Collections and Scales](scales)
+- [Symmetry and Centricity](symmetryAndCentricity)
+
 [Analyzing atonal music.][atonal]  
 [Analyzing 12-tone music.][twelveTone]  
 [Glossary of atonal musical terms.][atonalGloss]  
