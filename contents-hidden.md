@@ -81,9 +81,13 @@ title: Table of Contents
 - [The period](period.html)  
 - [Hybrid themes](hybridThemes.html)  
 - [Compound themes](compoundThemes.html)
-- [Framing functions](framingFunctions.html)
 
-[Classical minuet form.][MinuetForm]  
+- [External Expansions](externalExpansions.html)
+- [Internal Expansions](internalExpansions.html)
+
+[Classical minuet form.][MinuetForm]
+
+  
 [Galant schemata.][Schemata]  
 
 Sonata Theory
