@@ -72,10 +72,9 @@ title: Table of Contents
 
 ## Form ##
 
-[Introduction to musical functions.][functions]  
+  
 
-[Classical theme functions.](themeFunctions.html)  
-[Classical theme types.][classicalThemes]  
+[Thematic Structure in the Classical Style.](thematicStructureInTheClassicalStyle.html) 
 
 - [The sentence](sentence.html)  
 - [The period](period.html)  
@@ -85,11 +84,8 @@ title: Table of Contents
 - [External Expansions](externalExpansions.html)
 - [Internal Expansions](internalExpansions.html)
 
-[Classical minuet form.][MinuetForm]
-
+[Minuet form.][MinuetForm]
   
-[Galant schemata.][Schemata]  
-
 Sonata
 
 - [Introduction to Sonata Theory.][SonataIntro]  
@@ -104,6 +100,9 @@ Sonata
 
 [Form in pop/rock music.][popRockForm]
 
+[Classical theme types.][classicalThemes] 
+[Introduction to musical functions.](functions.html)
+[Galant schemata.][Schemata]  
 
 ## Post-tonal music ##
 
