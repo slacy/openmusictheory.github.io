@@ -90,12 +90,17 @@ title: Table of Contents
   
 [Galant schemata.][Schemata]  
 
-Sonata Theory
+Sonata
 
 - [Introduction to Sonata Theory.][SonataIntro]  
 - [Sonata form: exposition types.][SonataExpo]  
 - [Sonata form: expositional modules and cadences.](SonataTheory-modules.html)  
 - [Sonata form: the recapitulation.][SonataRecap]
+
+[Rondo Form](rondo.html)
+- [Thematic Function in Rondo Form](thematicFunctionInRondo.html)
+- [Five-Part Rondo](fivePartRondo.html)
+- [Sonata Rondo](sonataRondo.html)
 
 [Form in pop/rock music.][popRockForm]
 
