@@ -84,7 +84,7 @@ title: Table of Contents
 - [External Expansions](externalExpansions.html)
 - [Internal Expansions](internalExpansions.html)
 
-[Minuet form.][MinuetForm]
+[Minuet form.][minuet.html]
   
 Sonata
 
@@ -92,6 +92,7 @@ Sonata
 - [Sonata form: exposition types.][SonataExpo]  
 - [Sonata form: expositional modules and cadences.](SonataTheory-modules.html)  
 - [Sonata form: the recapitulation.][SonataRecap]
+- [Sonata form: the development.](sonataDevelopment.html)
 
 [Rondo Form](rondo.html)
 - [Thematic Function in Rondo Form](thematicFunctionInRondo.html)
