@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phrase Expansions
+title: Internal Expansions
 ---
 
 {{ page.title }}
