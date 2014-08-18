@@ -1,6 +1,11 @@
 ---
 layout: post
 title: About Open Music Theory
+image:
+  feature: openBooksOnPath.jpg
+  thumb: openBooksOnPath-square.jpg
+  credit: muffin9101985
+  creditlink: 
 ---
 
 {{ page.title }}
