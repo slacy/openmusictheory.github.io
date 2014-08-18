@@ -72,32 +72,34 @@ title: Table of Contents
 
 ## Form ##
 
-  
+Thematic Structure in the Classical Style
 
-[Thematic Structure in the Classical Style.](thematicStructureInTheClassicalStyle.html) 
+- [Introduction to Thematic Structure in the Classical Style.](thematicStructureInTheClassicalStyle.html) 
+- [The sentence.](sentence.html)  
+- [The period.](period.html)  
+- [Hybrid themes.](hybridThemes.html)  
+- [Compound themes.](compoundThemes.html)
 
-- [The sentence](sentence.html)  
-- [The period](period.html)  
-- [Hybrid themes](hybridThemes.html)  
-- [Compound themes](compoundThemes.html)
-
-- [External Expansions](externalExpansions.html)
-- [Internal Expansions](internalExpansions.html)
+- [External Expansions.](externalExpansions.html)
+- [Internal Expansions.](internalExpansions.html)
 
 [Minuet form.][minuet.html]
   
-Sonata
+Sonata Form
 
 - [Introduction to Sonata Theory.][SonataIntro]  
 - [Sonata form: exposition types.][SonataExpo]  
-- [Sonata form: expositional modules and cadences.](SonataTheory-modules.html)  
+	[Structural Points of Arrival.](sonataStructuralPointsOfArrival.html)
+	[Thematic Zones.](sonataThematicZones.html)
 - [Sonata form: the recapitulation.][SonataRecap]
 - [Sonata form: the development.](sonataDevelopment.html)
 
-[Rondo Form](rondo.html)
-- [Thematic Function in Rondo Form](thematicFunctionInRondo.html)
-- [Five-Part Rondo](fivePartRondo.html)
-- [Sonata Rondo](sonataRondo.html)
+Rondo Form
+
+- [Introduction to Rondo form.](rondo.html)
+- [Thematic Function in Rondo Form.](thematicFunctionInRondo.html)
+- [Five-Part Rondo.](fivePartRondo.html)
+- [Sonata Rondo.](sonataRondo.html)
 
 [Form in pop/rock music.][popRockForm]
 
