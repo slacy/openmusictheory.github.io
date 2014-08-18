@@ -83,7 +83,7 @@ Thematic Structure in the Classical Style
 - [External Expansions.](externalExpansions.html)
 - [Internal Expansions.](internalExpansions.html)
 
-[Minuet form.][minuet.html]
+[Minuet form.](minuet.html)
   
 Sonata Form
 
