@@ -29,6 +29,7 @@ title: Table of Contents
 
 [Introduction to thoroughbass.][thoroughbass]  
 [A brief history of *basso continuo*.](bassoContinuo-history.html)  
+[Generating Roman numerals from a figured bass line.][RNfromFB]  
 [Composing in *basso-continuo* style.](bassoContinuo.html)  
 [Style and tendency.](tendency.html)  
 [Tendency tones and functional harmonic dissonances.](tendencyTonesFunctionalDissonances.html)  
@@ -48,6 +49,10 @@ Harmonic functions
 [Harmonic syntax - the idealized phrase.](harmonicSyntax1.html)  
 [Harmonic syntax - prolongation.](harmonicSyntax2.html)  
 Performing a harmonic analysis.  
+
+[Classical cadence types.][cadenceTypes]  
+[Chromatically altered subdominant chords.][altSub]  
+[Applied chords.][applied]  
 
 #### Handouts and charts
 
