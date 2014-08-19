@@ -3,9 +3,6 @@ layout: post
 title: Table of Contents
 ---
 
-{{ page.title }}
-================
-
 ## Introduction ##
 
 [Introduction to this "textbook" (for instructors & scholars).][introSite]  
