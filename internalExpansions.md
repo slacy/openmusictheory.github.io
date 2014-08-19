@@ -29,7 +29,7 @@ The contrasting idea that comprises the three remaining measures of the antecede
 Like sub-phrase expansion, phrases are generally expanded through repetition. Most often, this repetition happens in the terminating phrase of a theme (either consequent or continuation). Such expansions are quite expressive because they delay the expected cadence.
 		
 **Beethoven, Piano Sonata, Op. 2, No. 3** 
-[![](Graphics/form/cadentialDefferal.png)](Graphics/form/cadentialDefferal.png)
+[![](Graphics/form/cadentialDeferral.png)](Graphics/form/cadentialDeferral.png)
 	
 <iframe src="https://embed.spotify.com/?uri=spotify:track:5wi0p2gHWFYSwnjgHSYEP3" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 	
