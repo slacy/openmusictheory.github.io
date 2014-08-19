@@ -55,9 +55,11 @@ small {
 blockquote, blockquote p {
     font-style: italic;
     line-height: 1.3em;
-    text-align: center;
+    text-align: left;
+	margin-left: 1em;
     color: lighten($black, .2);
     margin-bottom: $lh;
+	font-size: $fsp;
 }
 
 
@@ -665,11 +667,11 @@ h1 {
 }
 
 blockquote, blockquote p {
-    font-size: $fs3;
+    font-size: $fsp;
 }
 
 footer {
-    font-size: $fs5;
+    font-size: $fs6;
     
     .prev-posts {
         li  {
