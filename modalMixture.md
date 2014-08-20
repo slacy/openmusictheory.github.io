@@ -3,9 +3,6 @@ layout: post
 title: Modal mixture
 ---
 
-{{ page.title }}
-================
-
 *Modal mixture* (also called *modal borrowing*) refers to the use of chords belonging to a parallel key—for example, a passage in F major incorporating one or more chords from F minor. Note that, like with the use of applied chords, this does not necessarily constitute modulation. Only a cadence can confirm a new key. Without a cadence in a new key, the non-diatonic chords are simply "borrowed."
 
 Note that the use of the leading-tone in place of the subtonic, or a melodic-minor figure (*sol–la–ti–do*) in a minor key does *not* constitute modal mixture. Those are considered "native" to the minor mode.
@@ -13,7 +10,7 @@ Note that the use of the leading-tone in place of the subtonic, or a melodic-min
 
 ## Thoroughbass notation ##
 
-A chord borrowed from the parallel major or minor will take the same thoroughbass figure as the "native" chord. However, it will require at least one chromatic alteration (flat, natural, sharp, or slash). Be careful to account for abbreviated figures: a 4/3 figure, for example, is short for 6/4/3. If the sixth above the bass is altered, that needs to be included in the figure (just like in a French augmented sixth chord, or a D2 chord in minor).
+A chord borrowed from the parallel major or minor will take the same thoroughbass figure as the "native" chord. However, it will usually require a chromatic alteration (flat, natural, sharp, or slash). Be careful to account for abbreviated figures: a 4/3 figure, for example, is short for 6/4/3. If the sixth above the bass is altered, that needs to be included in the figure (just like in a French augmented sixth chord, or a **V<sup>4/3</sup>** in minor).
 
 ## Functional bass notation ##
 
@@ -24,6 +21,6 @@ If the bass note is chromatically altered, that must be reflected in the functio
 
 ## Roman numeral notation ##
 
-When the root of a borrowed chord belongs to the home key (e.g., using an E-minor chord instead of an E-major chord), the Roman numeral remains the same, since the Roman numeral simply represents the scale-degree of the chordal root. For example, if a piece in minor ends with a *Picardy third* (a major tonic triad), the Roman numeral is still **I**. (The thoroughbass will be altered to reflect the chromatic change.)
+When the root of a borrowed chord belongs to the home key (e.g., using an E-minor chord instead of an E-major chord), the Roman numeral remains the same, since the Roman numeral simply represents the scale-degree of the chordal root. If chord quality is reflected in the Roman numeral, then adjustments must be made to ensure that the borrowed chord's quality is reflected. For example, if a piece in minor ends with a *Picardy third* (a major tonic triad), the Roman numeral is **I** instead of **i**. (The thoroughbass will also be altered to reflect the chromatic change.)
 
-If the root is altered relative to the home key, use a flat or sharp in front of the Roman numeral to designate the alteration: flat to designate *lowered* (that is, a semitone below normal), sharp to designate *raised* (a semitone above normal). For example, a *le–do–me* chord in a major key is bVI. (Again, alter the thoroughbass as necessary.)
+If the root is altered relative to the home key, use a flat or sharp in front of the Roman numeral to designate the alteration: flat to designate *lowered* (that is, a semitone below normal), sharp to designate *raised* (a semitone above normal). For example, a *le–do–me* chord in a major key is **bVI**. (Again, alter the thoroughbass as necessary.)

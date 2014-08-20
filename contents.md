@@ -49,6 +49,8 @@ title: Table of Contents
 [Classical cadence types.][cadenceTypes]  
 [Chromatically altered subdominant chords.][altSub]  
 [Applied chords.][applied]  
+[Modal mixture.][mixture]  
+[Modulation.][Modulation]  
 
 #### Handouts and charts
 
