@@ -1,6 +1,6 @@
 title:            Open Music Theory
-tagline:          
-description:      
+tagline:          Hybrid Pedagogy Publishing
+description:      "an open, interactive, online textbook for college music theory"
 #Comment out url when working locally to resolve base urls correctly
 url: http://hybrid-pedagogy.github.io/openmusictheory
 baseurl: http://hybrid-pedagogy.github.io/openmusictheory
@@ -9,12 +9,12 @@ baseurl: http://hybrid-pedagogy.github.io/openmusictheory
 
 # Owner/author information
 owner:
-  name:           Kris Shaffer
+  name:           Hybrid Pedagogy Publishing
   avatar:         
   bio:            
   email:          kris@hybridpedagogy.org
-  twitter:        krisshaffer        
-  github:         kshaffer       
+  twitter:        HybridPub        
+  github:         hybrid-pedagogy       
   instagram:           
   dribbble:       
   disqus:         

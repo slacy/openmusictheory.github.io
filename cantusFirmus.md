@@ -49,6 +49,5 @@ The characteristics listed above are fairly detailed, and some of them are speci
 
 Before composing a *cantus firmus* from scratch, try building a well formed *cantus* around the following skeleton. Length, starting pitch, penultimate pitch, ending pitch, and climax have been provided. Create a smooth, consonant melodic line that exemplifies the characteristics listed above—both the specific characteristics of strict species *cantus firmi* and the general characteristics of tonal melodies. Click the staff to hear the melody. Be sure to listen each time you make a change.
 
-<iframe src="https://dev.trinket.io/embed/music/6bf731fc1f" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 [CFs]: Graphics/counterpoint/cantusFirmi.pdf

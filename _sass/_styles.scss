@@ -66,12 +66,14 @@ blockquote, blockquote p {
 	font-size: $fsp;
 }
 
-iframe.spotify {
-	margin: 0 auto $fsp*2 auto;
-	width: 300px;
-	height: 80px;
-	}
+iframe {
+	display: block;
+	margin: 0 auto 0 auto;
+}
 
+.trinket {
+	padding: 0 auto $fsp*2 auto;
+}
 
 /* Tables */
 
