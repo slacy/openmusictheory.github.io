@@ -42,7 +42,7 @@ title: Table of Contents
 ## Harmony ##
 
 [Introduction to musical functions.][functions]  
-Harmonic functions  
+[Harmonic functions.][harmFunc]  
 [Harmonic syntax - the idealized phrase.](harmonicSyntax1.html)  
 [Harmonic syntax - prolongation.](harmonicSyntax2.html)  
 Performing a harmonic analysis.  
