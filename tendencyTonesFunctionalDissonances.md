@@ -3,9 +3,6 @@ layout: post
 title: Tendency tones and functional harmonic dissonances
 ---
 
-{{ page.title }}
-================
-
 In strict keyboard style, there are two main types of pitch tendency to keep in mind: *tendency tones* and *functional dissonances*.
 
 ## Tendency tones ##

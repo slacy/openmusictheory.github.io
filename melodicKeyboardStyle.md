@@ -3,9 +3,6 @@ layout: post
 title: Melodic keyboard-style voice-leading
 ---
 
-{{ page.title }}
-================
-
 Strict melodic keyboard-style voice-leading involves the composition of two primary musical lines—the melody and the bass line. The inner voices are secondary and serve largely as harmonic "filler." *All principles of good basso continuo voice-leading hold* for melodic keyboard-style writing. However, because of the inclusion of a melody, several additional principles of composition must be observed.
 
 The *outer voices* (melody and bass) draw the most attention, and therefore they should make good counterpoint with each other. The melody should largely follow the principles of composing a cantus firmus or a first-species counterpoint line. In a strict keyboard-style melody that means:

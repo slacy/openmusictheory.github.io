@@ -53,7 +53,7 @@ title: Table of Contents
 [Harmonic functions.][harmFunc]  
 [Harmonic syntax - the idealized phrase.](harmonicSyntax1.html)  
 [Harmonic syntax - prolongation.](harmonicSyntax2.html)  
-[Performing a harmonic analysis.](harmonicAnalysis.html)
+<!-- [Performing a harmonic analysis.](harmonicAnalysis.html) -->
 
 [Classical cadence types.][cadenceTypes]  
 [Generating Roman numerals from a figured bass line.][RNfromFB]  

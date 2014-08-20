@@ -3,9 +3,6 @@ layout: post
 title: Composing a cantus firmus
 ---
 
-{{ page.title }}
-================
-
 Exercises in strict voice-leading, or species counterpoint, begin with a single, well formed musical line called the *cantus firmus* (fixed voice, or fixed melody; pl. *cantus firmi*). *Cantus firmus* composition gives us the opportunity to engage the following fundamental musical traits:
 
 - smoothness  

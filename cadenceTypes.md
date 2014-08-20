@@ -3,12 +3,9 @@ layout: post
 title: Classical cadence types
 ---
 
-{{ page.title }}
-================
-
 A *cadence* is a point of arrival that punctuates the end of a musical unit, such as a phrase, theme, large formal section, or movement. A cadence is at once a harmonic, melodic, rhythmic, and formal event, but cadences tend to be grouped according to different ways in which harmony and melody articulate that point of arrival.
 
-# Authentic and half cadences #
+## Authentic and half cadences
 
 These unit-ending points of arrival are first grouped into *authentic cadences* and *half cadences*. An authentic cadence occurs when a formal unit ends with the progression **D5–T1** (**V<sup>(7)</sup>–I**, *sol* to *do* in the bass voice). If the melody accompanying this harmonic progression arrives on *do*, it is called a *perfect authentic cadence*; it the melody ends on *mi* or *me* (or more rarely *sol*), it is called an *imperfect authentic cadence*.
 
@@ -17,7 +14,7 @@ Phrases that end on **V** without progressing to **I** are called *half cadences
 Differentiating between *perfect authentic cadences* (PAC), *imperfect authentic cadences* (IAC), and *half cadences* (HC) by ear and with a score is essential both to formal analysis and model composition.
 
 
-# Simple, compound, and double cadences #
+## Simple, compound, and double cadences
 
 Writers of Italian keyboard treatises like [Furno][Furno] and [Fenaroli][Fenaroli] (and, more recently, American historical theorists like [Robert O. Gjerdingen][Gjerdingen]) differentiate cadences according to the voice-leading found over the dominant harmony. These distinctions do not replace the above PAC/IAC/HC distinctions; rather they add another level of detail that is particularly helpful in model composition. These voice-leading distinctions provide three more cadence categories to complement PAC, IAC, and HC: the *simple cadence*, the *compound cadence*, and the *double cadence*.
 
@@ -45,7 +42,7 @@ A *double cadence* is a four-stage pattern over the cadential dominant used almo
 
 ![Double cadence.][Double]
 
-# Voice-leading in strict keyboard style #
+## Voice-leading in strict keyboard style
 
 In strict melodic keyboard style, always end an idealized phrase with a perfect authentic cadence (PAC). Approach the melody's final *do* by step whenever possible, from *re* or *ti*, preferably from *re*. When using compound or double cadences, use the orientation of upper voices shown in the above figures (transposed to the appropriate key, of course).
 

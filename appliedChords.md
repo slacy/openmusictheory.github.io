@@ -3,9 +3,6 @@ layout: post
 title: Applied chords
 ---
 
-{{ page.title }}
-================
-
 *Tonicization* is the process of momentarily emphasizing a non-tonic chord by using chords borrowed from the key in which that chord is tonic. Unlike *modulation*, there is no cadence in a new key, only a short progression of chords borrowed from another key. 
 
 The chord that is tonicized is typically a chord that belongs to the present key. The chords that emphasize it are usually the chords borrowed from another key. And these chords are usually chromatic alterations of chords native to the present key. 

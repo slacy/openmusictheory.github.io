@@ -3,10 +3,7 @@ layout: post
 title: Harmonic syntax - prolongation
 ---
 
-{{ page.title }}
-================
-
-# Triggering and prolonging harmonic functions in an idealized phrase #
+## Triggering and prolonging harmonic functions in an idealized phrase
 
 To establish, or trigger, a harmonic functional zone, *a fixed scale degree must appear in the bass*. In other words, tonic can be triggered by **T1** (always **I**), subdominant by **S2** or **S4** (including a variety of **II** and **IV** chords, in inversions, with and without sevenths), and dominant by **D5** (**V**, with or without a seventh, or any initial chord of a *compound cadence*). These are called *functional chords* (because they trigger the function) or *cadential chords* (because they can participate in a cadence). Other chords are called *contrapuntal chords*, and are used to *prolong* a function throughout the zone.
 

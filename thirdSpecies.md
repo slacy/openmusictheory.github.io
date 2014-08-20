@@ -3,9 +3,6 @@ layout: post
 title: Composing a third-species counterpoint
 ---
 
-{{ page.title }}
-================
-
 In third-species counterpoint, the counterpoint line moves in quarter notes against a cantus firmus in whole notes. This 4:1 rhythmic ratio creates a still greater differentiation between beats than in second species: *strong beats* (downbeats), *moderately strong beats* (the third quarter note of each bar), and *weak beats* (the second and fourth quarter notes of each bar). Third species also introduces the *neighbor tone* dissonance, and two related figures in which dissonances can participate in leaps.
 
 ## The counterpoint line ##

@@ -3,9 +3,6 @@ layout: post
 title: A brief history of basso continuo keyboard-style voice-leading
 ---
 
-{{ page.title }}
-================
-
 *Basso continuo* emerged in the seventeenth century as a shorthand notation for keyboardists (typically church organists) who were accompanying a soloist or small ensemble performing a work originally composed for a larger group. For example, if two or three singers were tasked with performing an eight-voice choral work, they could select the most prominent parts to sing, while an organist could cover the rest. Performing five or six lines of contrapuntal choral music could be a significant challenge, so organists needed a way to condense the texture while still preserving the core musical structure to support the vocalists.
 
 The *thorough bass* emerged as that shortcut. The "thorough" or "continuous" bass is a musical line that includes the lowest note at any given time. Usually, works would not include a single part that could function as this line, so the organist would alternate between voices, as they exchanged registers or took rests. The resulting line, unline the regular "bass" part, was "continuous" (or "thorough")—hence the name *thoroughbass* or *basso continuo*.

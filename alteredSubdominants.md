@@ -3,9 +3,6 @@ layout: post
 title: Chromatically altered subdominant chords
 ---
 
-{{ page.title }}
-================
-
 The most common chromatically altered subdominant chords (aside from the applied dominant of V) are the *Neapolitan chord* and the various *augmented-sixth chords*. 
 
 ![][altSub]

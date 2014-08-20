@@ -3,9 +3,6 @@ layout: post
 title: Composing a first-species counterpoint
 ---
 
-{{ page.title }}
-================
-
 Counterpoint is the mediation of two or more musical *lines* into a meaningful and pleasing *whole*. In first-species counterpoint, we not only write a smooth melody that has its own integrity of shape, variety, and goal-directed motion, but we also write a second melody that contains these traits. Further, and most importantly, we combine these melodies to create a whole texture that is smooth, exhibits variety and goal-oriented motion, and in which these melodies both maintain their independence and fuse together into consonant *simultaneities* (the general term for two or more notes sounding at the same time).
 
 In first species counterpoint, we begin with a *cantus firmus* (new or existing) and compose a single new line—called the *counterpoint*—above or below the cantus firmus. That new line contains one note for every note in the cantus: both the cantus firmus and the counterpoint will be all whole notes. Thus, first species is sometimes called one-against-one or 1:1 counterpoint.

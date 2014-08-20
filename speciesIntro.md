@@ -3,9 +3,6 @@ layout: post
 title: Introduction to strict voice-leading
 ---
 
-{{ page.title }}
-================
-
 The study of the theory of Western music involves three main components: voice-leading, harmony, and form. *Voice-leading* deals with the relationship of two or more musical lines (or melodies) combined into a single musical idea. *Harmony* addresses the rules or norms for combining chords into successions. *Form* addresses the rules or norms for the combination of phrases and other small musical units into larger units—including whole movements and works. 
 
 We will address all three of these facets of musical theory. However, of the three, voice-leading is the most fundamental. Thus, we begin our study of music theory, then, with *strict voice-leading*, or *counterpoint*. 

@@ -3,9 +3,6 @@ layout: post
 title: Composing a fourth-species counterpoint
 ---
 
-{{ page.title }}
-================
-
 In fourth-species counterpoint, the counterpoint line and cantus firmus both move once per bar, but they are rhythmically offset from each other by a half note. (Think syncopation on the bar level.) The counterpoint line will be notated in half notes, with each weak-beat half note tied across the bar line to the following strong beat. This arrangement means that in pure fourth-species counterpoint, the two lines always move in oblique motion. It also introduces a new kind of dissonance: the *suspension*. 
 
 ## The suspension ##

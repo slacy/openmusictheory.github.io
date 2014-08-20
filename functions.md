@@ -3,9 +3,6 @@ layout: post
 title: Introduction to musical functions
 ---
 
-{{ page.title }}
-================
-
 The concept of musical functions is foundational to musical analysis, and essential to the understanding of musical styles.
 
 A musical *function* describes the role that a particular musical element plays in the creation of a larger musical unit. Function is tied very much to the idea of expectation: given a certain element in a certain context, what element(s) is/are likely to come next? Likewise, how does a given element fulfill or deny the expectations set by what came before it?

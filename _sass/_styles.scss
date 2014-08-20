@@ -20,6 +20,10 @@ p {
     margin-bottom: $lh;
 }
 
+sup {
+	vertical-align: super;
+}
+
 a, a:visited, a:active {
     color: $link;
     @include transit(all,0.25s,ease-in-out);
@@ -505,7 +509,7 @@ header.site-header nav {
     }
     
     img {
-        width: 100%;
+        max-width: 100%;
         height: auto;
         display: block;
         margin: $lh auto;

@@ -3,9 +3,6 @@ layout: post
 title: Keyboard-style voice-leading schemata
 ---
 
-{{ page.title }}
-================
-
 Following are a number of *schemata* for keyboard-style voice-leading. Some of these are patterns that are common enough to warrant special attention (and memorization). Others require non-default voice-leading or doublings. In any case, these are worth memorizing to assist both in composition/arranging and in recognition of standard patterns. (Some will also come in handy for chorale-style voice-leading.)
 
 

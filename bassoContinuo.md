@@ -3,12 +3,9 @@ layout: post
 title: Composing in basso-continuo style
 ---
 
-{{ page.title }}
-================
-
 *Basso continuo* (It. for "continuous bass" or "thoroughbass") is essentially a chordal version of first-species counterpoint. However, instead of composing a single line above a cantus firmus, one composes a succession of chords (performed in the right hand) above a bass line (performed in the left hand). *Basso continuo* writing, also referred to as *realizing a figured bass*, gives no consideration to melody, only to the use of proper chords and the smoothest voice-leading possible. Thus, *basso continuo* style is a simple place to begin engaging the "fundamental musical problems" that arise when more than two lines are combined. 
 
-### Chord voicing
+## Chord voicing
 
 In strict keyboard-style writing, there are four voices: the bass line (which is usually a given in *basso continuo* style), and three *upper voices*: the *melody* or *soprano*, the *alto*, and the *tenor* (from highest to lowest). Since all three upper voices must be played by a single hand, they should never span more than an octave.
 
