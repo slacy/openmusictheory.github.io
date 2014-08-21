@@ -87,13 +87,7 @@ Sonata Theory
 ## Post-tonal music ##
 
 
-## Technology ##
-
-
-## Performance ##
-
-
-## Listening ##
+## Pop/rock music ##
 
 
 ## Text and music ##

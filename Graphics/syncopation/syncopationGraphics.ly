@@ -74,6 +74,9 @@ lower = <<
 			
 			c8 c c c c c c c \break c16 c8 c16~ c16 c8 c16~ c16 c8 c16~ c16 c8 r16 \break
 			
+			c4. c8~ c4 c \break c8. c16~ c8 c c8. c16~ c8 c \break
+			
+			c8. c16~ c8 c~ c16 c8. c8 c \break
 			
 			}
 				>>
