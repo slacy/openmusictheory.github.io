@@ -60,8 +60,14 @@ In the following video, I illustrate the process of composing a first-species co
 
 ## Practice ##
 
-Before composing a first-species exercise from scratch, try the following practice exercises. Each has one or two errors. Try to find the error(s), and recompose the exercise to create a well formed exercise. Be sure to listen to and perform the exercises, both as they are written, and as you make changes. Your ear may already be able to direct you to errors. If not, use the principles outlined above one-by-one to search for errors. Once you identify an error, be sure to listen several times, singing along with one line or the other, to train your ear to recognize the problem.
+Before composing a first-species exercise from scratch, try the following practice exercises. Each has one or two errors. Try to find the error(s), and recompose the exercise to create a well formed exercise. (Note: the alto-clef part is the *cantus firmus*. Only change the counterpoint line.) Be sure to listen to and perform the exercises, both as they are written, and as you make changes. Your ear may already be able to direct you to errors. If not, use the principles outlined above one-by-one to search for errors. Once you identify an error, be sure to listen several times, singing along with one line or the other, to train your ear to recognize the problem.
 
-***Insert trinkets: one minor, one major, one above, one below, with errors***
+### Minor key practice, counterpoint above
+
+<iframe class="trinket" src="https://trinket.io/embed/music/a089e987ca" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+
+### Major key practice, counterpoint below
+
+<iframe class="trinket" src="https://trinket.io/embed/music/585810f762" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
 [CF]: cantusFirmus.html
