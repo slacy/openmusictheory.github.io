@@ -56,7 +56,7 @@ Because similar and parallel motion diminish variety and melodic independence, t
 
 In the following video, I illustrate the process of composing a first-species counterpoint. This video provides new information about the compositional process, as well as concrete examples of the above rules and principles.
 
-<iframe src="http://player.vimeo.com/video/56828309" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/><br/>
+<iframe src="http://player.vimeo.com/video/56828309" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/>
 
 ## Practice ##
 
