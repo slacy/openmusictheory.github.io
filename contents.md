@@ -89,6 +89,7 @@ Sonata Theory
 
 ## Pop/rock music ##
 
+[Syncopation in pop/rock music.](syncopation.html)  
 
 ## Text and music ##
 
