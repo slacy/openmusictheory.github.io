@@ -3,9 +3,6 @@ layout: post
 title: Inversion
 ---
 
-{{ page.title }}
-================
-
 Inversion, like transposition, is often associated with motion that connects similar objects. You need to be able to (1) invert a collection of pitches and (2) determine the inversional relationship between two collections of pitches.
 
 [![](Graphics/postTonal/inversion.png)](Graphics/postTonal/inversion.png)

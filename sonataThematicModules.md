@@ -3,10 +3,6 @@ layout: post
 title: Sonata form – thematic modules
 ---
 
-{{ page.title }}
-================
-
-
 The four thematic modules that comprise a typical sonata exposition (P, TR, S, and C) create a thematic rotation that is found again in the recapitulation and often referenced in the development.
 
 ## Primary theme module (P)

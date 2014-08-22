@@ -3,9 +3,6 @@ layout: post
 title: Symmetry and Centricity
 ---
 
-{{ page.title }}
-================
-
 Centricity in post-tonal music can be established in a variety of ways, often simply by emphasis. When a particular pitch-class is regularly the lowest, highest, loudest, or longest in a passage, that pitch-class becomes something like a tonic.
 
 Apart from these means, pitch and/or pitch-class symmetry represents a novel method by which post-tonal composers created centricity in their music. And the study of symmetry in general takes us far afield of the compositional techniques generally associated with common-practice tonal music.

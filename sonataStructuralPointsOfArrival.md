@@ -3,9 +3,6 @@ layout: post
 title: Sonata form – structural points of arrival
 ---
 
-{{ page.title }}
-================
-
 A sonata exposition has two structural arrival points, all associated with, but not equivalent to, cadential arrivals.
 
 ## Medial caesura (MC)

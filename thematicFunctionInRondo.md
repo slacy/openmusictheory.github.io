@@ -3,9 +3,6 @@ layout: post
 title: Thematic Function in Rondo Form
 ---
 
-{{ page.title }}
-================
-
 Rondos are characterized by the alternation of *refrains* and *episodes*. Each return of the refrain is in the tonic key, and presents the same melodic/motivic material, while episodes contrast melodically and tonally.
 
 *Refrains* are generally simple, tight-knit themes that end with a PAC in the tonic key. Thematically, a rondo's refrain is most commonly constructed in one of two ways: (1) as a simple (usually tight-knit, often periodic) theme type, or (2) as a rounded binary.
@@ -42,7 +39,9 @@ A second-theme complex resembles—but is not always identical to—the TR, S, C
 2. **No TR appear:** Following the PAC that ended the refrain, S appears with no intervening TR. In this case, a direct modulation has occurred.
 3. **S does not lead to a PAC, but merges => into a retransition (RT)**: Typically, the episodes S theme will lead to a PAC that confirms the subordinate key. In this case, the cadence never materializes. Instead, the music more or less seamlessly becomes a retransition, S=>RT.
 
-**Analytical Tips: **Cadential structure is *absolutely necessary* to determining a theme's function. This is even more the case with the rondo's second-theme complex. Here are some analytical tips, oriented around cadential structure, that you should use to guide your analysis.
+**Analytical Tips:**  
+
+Cadential structure is *absolutely necessary* to determining a theme's function. This is even more the case with the rondo's second-theme complex. Here are some analytical tips, oriented around cadential structure, that you should use to guide your analysis.
 
 1. S themes begin in a subordinate key, end with a PAC in a subordinate key, or both. That is, a phrase that ends with a PAC in the subordinate key expresses S function even if the phrase did not begin in the subordinate key, and vice versa.
 2. TR function is given to phrases that modulate. When TR doesn't merge with S, it usually ends with a HC in the subordinate key.

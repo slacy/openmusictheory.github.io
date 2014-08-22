@@ -89,7 +89,7 @@ title: Table of Contents
 [Introduction to Sonata Theory.][SonataIntro]    
 [Sonata form: exposition types.][SonataExpo]  
 - [Structural Points of Arrival.](sonataStructuralPointsOfArrival.html)  
-- [Thematic Zones.](sonataThematicZones.html)  
+- [Thematic Modules.](sonataThematicModules.html)  
 [Sonata form: the recapitulation.][SonataRecap]  
 [Sonata form: the development.](sonataDevelopment.html) 
 
@@ -102,7 +102,7 @@ title: Table of Contents
 
 [**Form in pop/rock music.**][popRockForm]  
 
-[Classical theme types.][classicalThemes] 
+[Classical theme types.][classicalThemes]   
 [Introduction to musical functions.](functions.html)  
 [Galant schemata.][Schemata]  
 

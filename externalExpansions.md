@@ -3,9 +3,6 @@ layout: post
 title: External Expansions
 ---
 
-{{ page.title }}
-================
-
 Often, a theme is surrounded by material that exists outside its boundaries, but which is clearly dependent on the theme itself. This function of this material is **external* to the theme itself— “before-the-beginning” or “after-the-end," as William Caplin as termed it.
 
 ## Prefix ##

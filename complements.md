@@ -3,9 +3,6 @@ layout: post
 title: Complements
 ---
 
-{{ page.title }}
-================
-
 The *literal complement* of a pitch-class set is every pitch not included in that set. For example, the complement of the seven-note C major scale is the five-note pentatonic scale: F-sharp, G-sharp, A-sharp, C-sharp, and D-sharp.
 
 The complement of any *n-chord* is always a *12-n*  chord. Thus, a trichord's compliment will be a nonachord, a tetrachords an octachord, and so on.

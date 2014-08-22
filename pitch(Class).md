@@ -3,9 +3,6 @@ layout: post
 title: Pitch (class)
 ---
 
-{{ page.title }}
-================
-
 Tonality is highly charged system where *scale degrees* are endowed with a magnetic or gravitational pull towards other tones. Within the key of C major, B-natural is attracted to the tonic C, other members of the dominant triad are attracted to the tonic triad, and other scale degrees have functions as well. *Spelling* is extremely important within common-practice tonality. A-flat—as lowered scale degree 6—leads to G, but G-sharp—as raised scale degree 5—leads to A. Underlying “scale degree” and “spelling” are two important concepts that will influence our study of post-tonal music.
 
 ##Octave Equivalence##

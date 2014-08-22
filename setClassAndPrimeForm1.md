@@ -3,9 +3,6 @@ layout: post
 title: Set Class and Prime Form (1)
 ---
 
-{{ page.title }}
-================
-
 Lots of concepts in pitch-class set theory are best viewed along a sliding scale of "concreteness" or "abstractness." A concept like _pitch_, for example, is very concrete, while _pitch class_ is somewhat more abstract. We can perform a pitch, but we can't really perform a pitch class. We've seen similar examples in the intervallic realm. Ordered pitch intervals are associated with a very specific sound (e.g., +15); unordered pitch-class intervals (e.g., interval class 1) are less vivid or real. A basic concept in pitch-class set theory is that these levels of concreteness and abstractness encompass not only pitch and interval, but groups of pitch classes as well. These groups of pitch classes are called _pitch-class sets_.
 
 We've already seen sets of pitch-classes, though we haven't really been calling them that. When we extract a group of notes from a passage of music and put them in "[normal order][1]," that group of notes is a pitch-class set. As we've seen in class, one very interesting way of looking at a lot of post-tonal music is by studying the [transpositional][2] and [inversional][3] relationships between pitch-class sets. In the short example below (from Bartók's "Subject and Reflection") you'll notice that the right hand of the two passages is _T5_-related, as is the left-hand. Within each passage, the right and left hands are _T8I _and _T6I_ related, respectively.

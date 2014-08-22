@@ -3,9 +3,6 @@ layout: post
 title: Collections and Scales
 ---
 
-{{ page.title }}
-================
-
 As composers sought new sounds, many of them turned to novel scales as replacements for the hegemonic major/minor system that characterizes most functional tonal music. To be sure, major and minor scales maintained currency in the twentieth century, but they were but one variety of scale amongst many.
 
 When characterizing many of these new musical resources, the word “collection” is often more appropriate than "scale." A *collection* is a group of notes—usually five or more. Imagine a collection as a source from which a composer can draw musical material—a kind of “soup” within which pitch-classes float freely. Collections by themselves do not imply a tonal center. But in a composition a composer may establish a tonal center by privileging one note of the collection, which we then call a scale. 

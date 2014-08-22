@@ -3,9 +3,6 @@ layout: post
 title: The sentence
 ---
 
-{{ page.title }}
-================
-
 A *sentence* is type of theme. Like the [*period*](period.html), the prototypical sentence is eight measures long and contains two four-measure phrases. The first of these is called the *presentation phrase* and the second is the *continuation phrase*.
 
 ![](Graphics/ClassicalThemes/sentence.png)
@@ -62,6 +59,3 @@ In a sentence, *the continuation phrase always contains both continuation and ca
 ## Phrase length ##
 
 Note the length of the phrases in this example: four-bar presentation phrase followed by six-bar continuation phrase. The prototypical phrase is four measures, but this is commonly altered by Classical composers. However, as this theme exemplifies, phrases are more often expanded to something longer than four measures than compressed to something less than four measures. Also, as exemplified by this theme, continuation phrases of non-standard lengths are more common than presentation phrases of non-standard lengths.
-
-
-*This page is based on a resource [originally created by Brian Moseley](http://futheory.briancmoseley.com/2013/10/02/sentence/).*

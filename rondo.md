@@ -3,9 +3,6 @@ layout: post
 title: Rondo
 ---
 
-{{ page.title }}
-================
-
 Like sonata form, rondo forms have a long history. Where sonata emanates from Baroque dance movements (coming mostly from Italy), rondo has a longer history whose origins are in a French instrumental genre—the rondeaux—that was characterized by an alternation of refrains and contrasting couplets. Within an instrumental sonata or symphonic work, rondos are generally found in fast finales or in slow second movements. Probably because rondos are lighter in character, they are almost never found as a first movement.
 
 Conceptually, rondo is quite simple. The form consists of refrains that alternate with episodes. The refrain material is *the same* throughout the course of a movement—sometimes slightly embellished or abbreviated—and is always heard in the tonic key. Episodes contrast with refrains tonally, and usually thematically as well. Unlike refrains, a rondo’s episodes do not have to be the same in the course of a movement. So on a large scale, a typical rondo will articulate an ABAC … A form; A stands for refrain, B and C indicate episodes containing unique thematic material. The ellipsis mark (…) indicates that the precise number of refrains and episodes is variable, though the 5-part (ABACA) rondo is certainly the most common.

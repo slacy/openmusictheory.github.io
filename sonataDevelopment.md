@@ -3,9 +3,6 @@ layout: post
 title: Sonata Form – the development
 ---
 
-{{ page.title }}
-================
-
 The development section, the second large-scale section of a sonata form, succeeds the exposition's second part. It is by far the least conventional section of the sonata. Its relatively unstable tonal and phrase-structural characteristics motivate the return to stability in the recapitulation.
 
 That said, developments should not be understood as completely unstructured or lacking conventional schematic routines. When analyzing a development section, you should keep track of at least three types of organization, outlined below. Rarely will a development section follow these models of organization precisely. Rather, you should treat them as [heuristic][http://en.wikipedia.org/wiki/Heuristic] tools to help reveal the individuality of a composition.

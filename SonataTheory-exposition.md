@@ -3,9 +3,6 @@ layout: post
 title: Sonata form – exposition types
 ---
 
-{{ page.title }}
-================
-
 The exposition module of a sonata movement comes at or near the beginning of a sonata-form movement. Only an *introduction* (technically, a large [*prefix*](externalExpansions.html)) might precede it. It exhibits exposition function, and thus has three jobs: *establish the home key*, *move to and establish a secondary key with a cadence*, and *lay out the thematic cycle* that will serve as the foundation for the development and recapitulation.
 
 There are two main types of sonata expositions: the *two-part* exposition and the *continuous* exposition.

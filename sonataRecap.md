@@ -3,9 +3,6 @@ layout: post
 title: Sonata form – the recapitulation
 ---
 
-{{ page.title }}
-================
-
 The _recapitulation_ is the goal of the sonata, coming after the _exposition_ and the _development_ (anything that precedes the exposition is _introduction_ and anything that follows the recapitulation is _coda_). It answers the expectations set forth by the exposition, and it brings the _essential sonata closure_. Thus, the relationship between the exposition and the recapitulation is the a central focus of a sonata analysis.
 
 In light of the importance of this relationship, an analysis of a recapitulation should always take place in light of the exposition.

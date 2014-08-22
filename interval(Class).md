@@ -3,9 +3,6 @@ layout: post
 title: Interval (class)
 ---
 
-{{ page.title }}
-================
-
 Because intervals are dependent upon the pitches that create them, the consonance and dissonance of intervals in tonal music is determined by tonality itself. Imagine the interval create by G and B-flat, a minor third. In the context of G minor, this is a consonant interval. Respelled as G and A-sharp, it creates a dissonant augmented second. From a tonal perspective, the two intervals are different even though they are the same in isolation.
 
 ##Pitch interval##

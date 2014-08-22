@@ -2,10 +2,6 @@
 layout: post
 title: Compound themes
 ---
-
-{{ page.title }}
-================
-
 ## Compound period ##
 
 The compound period (also called the *16-bar period* because its typical form is 16 bars long), is made of two themes instead of two phrases. Just as in a regular [period](period.html), the first theme ends in a weak cadence (most often HC) and the second theme ends in a strong(er) cadence (most often PAC). Also like in a regular period, the two themes begin with the same basic idea (BI), possibly with some variation between the two.

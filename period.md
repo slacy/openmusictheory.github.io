@@ -3,9 +3,6 @@ layout: post
 title: The period
 ---
 
-{{ page.title }}
-================
-
 
 A period is one type of theme, like the [sentence](sentence.html), common to the Classical style.
 
@@ -58,6 +55,3 @@ Harmonically, the consequent closes with a strong cadence, in this case (and alm
 The BI from the antecedent is restated at the beginning of the phrase. The concluding CI resembles the CI from the antecedent phrase, but is altered so that the phrase ends with a PAC.
 
 The formal functional progression in this example is identical to the antedecent (which is often the case): the BI exhibits presentation function, and the CI exhibits continuation–cadential function. Note that Haydn uses a single subdominant chord in the consequent (the applied chord from the antecdent has been dropped) and moves to the dominant one beat earlier so that the PAC's tonic arrival can come on the downbeat of the last bar of the phrase. This compression of the cadential progression to accomodate the additional tonic chord at the end is common.
-
-
-*This page is based on a resource [originally created by Brian Moseley](http://futheory.briancmoseley.com/2013/11/06/period/).*

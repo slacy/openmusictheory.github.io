@@ -3,9 +3,6 @@ layout: post
 title: Sonata Rondo
 ---
 
-{{ page.title }}
-================
-
 A sonata rondo (ABACABA) features the same refrain-episode alternation that we find in the five-part rondo, but certain aspects of sonata form are infiltrate this alternation.
 
 **Exposition**						**Development**		**Recapitulation**

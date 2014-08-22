@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Symmetry and Centricity
+title: Normal Order
 ---
-
-{{ page.title }}
-================
 
 Normal order (sometimes called normal form) has a lot in common with the concept of triad “root position.” Among other things, root position is a standard way to order the pitch-classes of triads and seventh chords so that we can classify and compare them easily. Normal order does the same, but in a more generalized way so as to apply to chords containing a variety of notes and intervals.
 

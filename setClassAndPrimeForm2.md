@@ -3,9 +3,6 @@ layout: post
 title: Set Class and Prime Form (2)
 ---
 
-{{ page.title }}
-================
-
 _Analytically_, the concept of set class is useful because it can show coherence in a composition. Bartók's "[Subject and Reflection][1]," for example, uses the (02357) set class nearly exclusively—though it appears in many transpositions and inversions.
 
 _Theoretically_, the concept is useful because it provides a prism through which we can begin to study the _possibilities_ provided to us by the twelve pitch-class universe. For almost 500 years, composers mostly used only a small subset of those possibilities (triads, seventh chords, and so forth). Set class lists reveals all of the other possibilities. They also give us hints as to why tonal composers used only a small portion of them and suggest entire worlds organized through other means. Fortunately for us, we don't need to create such a list because many others have! A particularly good list is found [here][2], and I'll give you another to keep in class.

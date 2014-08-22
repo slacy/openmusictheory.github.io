@@ -3,9 +3,6 @@ layout: post
 title: Transposition
 ---
 
-{{ page.title }}
-================
-
 In post-tonal music, transposition is often associated with motion: Take a chord, motive, melody, and when it is transposed, the aural effect is of *moving* that chord, motive, or melody in some direction. That’s the effect here, in two disconnected passages from Debussy's, *La cathédrale engloutie*:
 
 [![](Graphics/postTonal/transposition.png)](Graphics/postTonal/transposition.png)
