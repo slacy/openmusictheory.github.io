@@ -72,36 +72,35 @@ title: Table of Contents
 
 ## Form ##
 
-Thematic Structure in the Classical Style
+**Thematic Structure in the Classical Style**
 
-- [Introduction to Thematic Structure in the Classical Style.](thematicStructureInTheClassicalStyle.html) 
-- [The sentence.](sentence.html)  
-- [The period.](period.html)  
-- [Hybrid themes.](hybridThemes.html)  
-- [Compound themes.](compoundThemes.html)
+[Introduction to Thematic Structure in the Classical Style.](thematicStructureInTheClassicalStyle.html) 
+[The sentence.](sentence.html)  
+[The period.](period.html)  
+[Hybrid themes.](hybridThemes.html)  
+[Compound themes.](compoundThemes.html)
+[External Expansions.](externalExpansions.html)
+[Internal Expansions.](internalExpansions.html)
 
-- [External Expansions.](externalExpansions.html)
-- [Internal Expansions.](internalExpansions.html)
-
-[Minuet form.](minuet.html)
+[**Minuet form**.](minuet.html)
   
-Sonata Form
+**Sonata Form**
 
-- [Introduction to Sonata Theory.][SonataIntro]  
-- [Sonata form: exposition types.][SonataExpo]  
-	[Structural Points of Arrival.](sonataStructuralPointsOfArrival.html)
-	[Thematic Zones.](sonataThematicZones.html)
-- [Sonata form: the recapitulation.][SonataRecap]
-- [Sonata form: the development.](sonataDevelopment.html)
+[Introduction to Sonata Theory.][SonataIntro]  
+[Sonata form: exposition types.][SonataExpo]  
+- [Structural Points of Arrival.](sonataStructuralPointsOfArrival.html)
+- [Thematic Zones.](sonataThematicZones.html)
+[Sonata form: the recapitulation.][SonataRecap]
+[Sonata form: the development.](sonataDevelopment.html)
 
-Rondo Form
+**Rondo Form**
 
-- [Introduction to Rondo form.](rondo.html)
-- [Thematic Function in Rondo Form.](thematicFunctionInRondo.html)
-- [Five-Part Rondo.](fivePartRondo.html)
-- [Sonata Rondo.](sonataRondo.html)
+[Introduction to Rondo form.](rondo.html)
+[Thematic Function in Rondo Form.](thematicFunctionInRondo.html)
+[Five-Part Rondo.](fivePartRondo.html)
+[Sonata Rondo.](sonataRondo.html)
 
-[Form in pop/rock music.][popRockForm]
+[**Form in pop/rock music.**][popRockForm]
 
 [Classical theme types.][classicalThemes] 
 [Introduction to musical functions.](functions.html)
@@ -109,26 +108,37 @@ Rondo Form
 
 ## Post-tonal music ##
 
-Basics
+**Basics**
 
-[Pitch (class).](pitch(Class))
-[Interval (class).](interval(Class))
-[Modular 12 arithmetic](mod12)
+[Pitch (class).](pitch(Class).html)
+[Interval (class).](interval(Class).html)
+[Modular 12 arithmetic.](mod12.html)
 
-Organizing forces
+**Organizing Forces**
 
-[Collections and Scales](scales)
-[Symmetry and Centricity](symmetryAndCentricity)
+[Collections and Scales.](scales.html)
+[Symmetry and Centricity.](symmetryAndCentricity.html)
 
-Set Theory
+**Set Theory**
 
-[Normal Order](normalOrder)
-[Tranposition](transposition)
-[Inversion](inversion)
-[Set Class and Prime Form (1)](setClassAndPrimeForm1)
-[Set Class and Prime Form (2)](setClassAndPrimeForm2)
-[Complements](complements)
-[Common Tones under Transposition](commonTonesUnderTransposition)
+Pitch-Class Sets.
+[Normal Order.](normalOrder.html)
+[Tranposition.](transposition.html)
+[Inversion.](inversion.html)
+[Set Class and Prime Form (1).](setClassAndPrimeForm1.html)
+[Set Class and Prime Form (2).](setClassAndPrimeForm2.html)
+[Complements.](complements.html)
+[Common Tones under Transposition.](commonTonesUnderTransposition.html)
+Common Tones under Inversion.
+Tranpositional Symmetry.
+
+**Twelve-Tone Theory**
+[Basics.](twelveToneBasics.html)
+[Operations.](twelveToneOperations.html)
+[Intervallic Structure.](twelveToneIntervallicStructure.html)
+[Derivation.](twelveToneMusicDerivation.html)
+[Invariance.](twelveToneMusicInvariance.html)
+
 
 [Analyzing atonal music.][atonal]  
 [Analyzing 12-tone music.][twelveTone]  

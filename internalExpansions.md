@@ -3,9 +3,6 @@ layout: post
 title: Internal Expansions
 ---
 
-{{ page.title }}
-================
-
 For historical reasons, and perhaps biological ones as well, the length of sub-phrases and phrases are generally duple. But plenty of classical music displays irregular lengths. This topic has been the subject of a great deal of musical theoretical exploration, for more than two centuries. Those interested will find a great deal more about *expansion* and *compression* in writings by William Rothstein, William Caplin, Janet Schmalfeldt, and Dinuta Mirka, among many others. 
 
 Here, we will concentrate on a simple, common type of expansion. These expansions occur when a sub-phrase or phrase is made larger through simple repetition *within itself.* Notably, irregular sub-phrase and phrase lenghts are not always the result of expansion. When in doubt, try to recompose the passage in question without destroying its melodic, harmonic, and motivic structure. If you can, there is a case to be made that an *expansion* is present.
