@@ -17,13 +17,7 @@ Notes *still* can't convey their pitch information if the staff doesn't include 
 
 Here is the pitch C4 placed on the treble, bass, alto, and tenor clefs.
 
-*Treble Clef*. <img src="Graphics/trebleClef.png" width="18%" height="18%">
-
-*Bass Clef*. <img src ="Graphics/bassClef.png" width="18%" height="18%">
-
-*Alto Clef*. <img src ="Graphics/altoClef.png" width="18%" height="18%">
-
-*Tenor Clef*. <img src ="Graphics/tenorClef.png" width="18%" height="18%">
+<img src="Graphics/clefs.png" width="20%" height="20%">
 
 **Grand staff**
 
@@ -31,11 +25,10 @@ The grand staff consists of two staves, one that uses a treble clef, and one tha
 
 **Ledger lines**
 
-When the music's range exceeds what can be written on the staff, extra lines are drawn so that we can still clearly read the pitch. These extra lines are called *ledger lines.*
+When the music's range exceeds what can be written on the staff, extra lines are drawn so that we can still clearly read the pitch. These extra lines are called *ledger lines.* In the example below, From Haydn's Piano Sonata in G (Hob. XVI: 39), Ab5 occurs just above the treble staff in the right hand, and G3 and B3 occur just below the treble staff in the left hand.
 
 <img src ="Graphics/ledgerLines.png" width="80%" height="80%">
 
-
-
 **Accidentals**
 
+Accidentals are used to indicate when a pitch has been raised or lowered. They are written to the *left* of the pitch. 
