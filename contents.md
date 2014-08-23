@@ -9,6 +9,7 @@ title: Table of Contents
 
 ## Fundamentals ##
 
+[Meter.][meter]
 
 ## Voice-leading and model composition ##
 
