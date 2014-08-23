@@ -17,7 +17,7 @@ Notes *still* can't convey their pitch information if the staff doesn't include 
 
 Here is the pitch C4 placed on the treble, bass, alto, and tenor clefs.
 
-<img src="Graphics/clefs.png" width="20%" height="20%">
+<img src="Graphics/clefs.png" width="50%" height="50%">
 
 **Grand staff**
 
