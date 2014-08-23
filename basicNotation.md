@@ -17,17 +17,13 @@ Notes *still* can't convey their pitch information if the staff doesn't include 
 
 Here is the pitch C4 placed on the treble, bass, alto, and tenor clefs.
 
-*Treble Clef*
-<img src="Graphics/trebleClef.png" width="18%" height="18%">
+*Treble Clef*. <img src="Graphics/trebleClef.png" width="18%" height="18%">
 
-*Bass Clef*
-<img src ="Graphics/bassClef.png" width="18%" height="18%">
+*Bass Clef*. <img src ="Graphics/bassClef.png" width="18%" height="18%">
 
-*Alto Clef*
-<img src ="Graphics/altoClef.png" width="18%" height="18%">
+*Alto Clef*. <img src ="Graphics/altoClef.png" width="18%" height="18%">
 
-*Tenor Clef*
-<img src ="Graphics/tenorClef.png" width="18%" height="18%">
+*Tenor Clef*. <img src ="Graphics/tenorClef.png" width="18%" height="18%">
 
 **Grand staff**
 
