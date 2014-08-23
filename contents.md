@@ -9,7 +9,7 @@ title: Table of Contents
 
 ## Fundamentals ##
 
-[Basic notation.][basicNotation]
+[Basic notation.][basicNotation]  
 [Meter.][meter]
 
 
