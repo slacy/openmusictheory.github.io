@@ -15,7 +15,7 @@ Notes are can't convey their pitch information without being placed on a staff. 
 
 Notes *still* can't convey their pitch information if the staff doesn't include a clef. A clef indicates which pitches are assigned to the lines and spaces on a staff. The two most commonly used clefs are the *treble* and *bass* clef; others that you'll see relatively frequently are *alto* and *tenor* clef. 
 
-<img src="Graphics/trebleClef.png" width="50%" height="50%">
+<img src="Graphics/trebleClef.png" width="25%" height="25%">
 
 **Grand staff**
 
