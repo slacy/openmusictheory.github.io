@@ -31,6 +31,10 @@ The grand staff consists of two staves, one that uses a treble clef, and one tha
 
 **Ledger lines**
 
+When the music's range exceeds what can be written on the staff, extra lines are drawn so that we can still clearly read the pitch. These extra lines are called *ledger lines.*
+
+<img src ="Graphics/ledgerLines.png" width="80%" height="80%">
+
 
 
 **Accidentals**
