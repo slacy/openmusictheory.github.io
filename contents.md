@@ -9,7 +9,9 @@ title: Table of Contents
 
 ## Fundamentals ##
 
+[Basic notation.][basicNotation]
 [Meter.][meter]
+
 
 ## Voice-leading and model composition ##
 
@@ -147,6 +149,7 @@ Tranpositional Symmetry.
 
 [introSite]: about.html
 
+[basicNotation]: basicNotation.html
 [meter]: meter.html
 [pitches]: pitches.html
 [intervals]: Intervals.html
