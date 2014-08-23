@@ -7,7 +7,7 @@ title: Basic notation
 
 When written on a staff, a note indicates a pitch and rhythmic value. The notation consists of a *notehead* (either empty or filled in), and optionally can include a stem, beam, dot, or flag. 
 
-<img src="Grahpics/notes.png" width="40%" height="40%">
+<img src="Grahpics/notes.png" width="20%" height="20%">
 
 **Staff**
 
