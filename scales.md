@@ -7,15 +7,19 @@ A scale is a succession of pitches ascending or descending in steps. A half step
 
 ### The Chromatic Scale ###
 
-A scale consisting entirely of half steps.
+A scale consisting entirely of half steps. The chromatic scale uses every pitch on the keyboard within a single octave. Here is the chromatic scale that spans the pitches C4 through C5.
 
 ![The chromatic scale][chromaticscale]
 
 ### The major scale ###
 
-A major scale, a sound with which you are undoubtedly familiar, consists of eight whole (W) and half (H) steps in the following succession: W-W-H-W-W-W-H. The first pitch of the scale, called the *tonic*, is the pitch upon which the rest of the scale is based. When the scale ascends, the tonic heard an octave higher at the end. 
+A major scale, a sound with which you are undoubtedly familiar, consists of eight whole (W) and half (H) steps in the following succession: W-W-H-W-W-W-H. The first pitch of the scale, called the *tonic*, is the pitch upon which the rest of the scale is based. When the scale ascends, the tonic is repeated at the end an octave higher.
+
+Here is the D major scale. It is called the "D major scale" because the pitch D is the *tonic* and is heard at both ends of the scale. 
 
 ![The major scale][majorscale]
+
+### Scale degrees and solfège ###
 
 ### The natural minor scale ###
 
