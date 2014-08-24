@@ -31,11 +31,11 @@ Scale degrees are labeled with Arabic numerals and carets (^). The illustration 
 
 Another scale with which you are likely very familiar is the minor scale. There are several scales that one might describe as *minor*, all of which have a characteristic third scale degree that is lower than the one found in the major scale. The minor scale most frequently used in tonal music from the Common Practice period is based on the *aeolian mode* (you'll read more about modes later), which is sometimes referred to as the *natural minor* scale. 
 
-The natural minor scale consists of seven whole (W) and half (H) steps in the following succession: W-H-W-W-H-W-W.
+The natural minor scale consists of seven whole (W) and half (H) steps in the following succession: W-H-W-W-H-W-W. Note the changes in solfège syllables.
 
-![The minor scale][minorscale]
+<a href="Graphics/sdsf-naturalMinor.png"><img src="Graphics/sdsf-naturalMinor.png" width="80%"></a>
 
-If you play through the above example on the keyboard, you'll notice that the ending lacks the same sense of closure you heard in the major scale. This closure is created in the major scale, in part, by the ascending semitone between *ti* and *do*. Composers often want to have this sense of closure when using the minor mode, too. They're able to achieve this by applying an accidental to the seventh scale degree, raising it by a semitone. If you do this within the context of the natural minor scale, you get something called the *harmonic minor* scale.
+If you sing through the above example, you'll notice that the ending lacks the same sense of closure you heard in the major scale. This closure is created in the major scale, in part, by the ascending semitone between *ti* and *do*. Composers often want to have this sense of closure when using the minor mode, too. They're able to achieve this by applying an accidental to the seventh scale degree, raising it by a semitone. If you do this within the context of the natural minor scale, you get something called the *harmonic minor* scale.
 
 
 
