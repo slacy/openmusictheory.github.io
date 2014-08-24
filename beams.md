@@ -13,3 +13,11 @@ In this example, the eighth notes are not grouped with beams, making it difficul
 If we re-notate the above example so that the notes that fall within the same beat are grouped together with a beam, it makes the music much easier to read. 
 
 <a href="Graphics/beams.png"><img src="Graphics/beams.png" width="50%"></a>
+
+### Borrowed divisions ###
+
+Typically, a meter is defined by the presence of a consistent beat division: division by two in simple meter, and by three in compound meter. Occasionally, composers will use a triple division of the beat in a simple meter, or a duple division of the beat in a compound meter. 
+
+*Triplets* are borrowed from compound meter, and may occur at both the beat division and subdivision levels, as seen below.
+
+<a href="Graphics/triplets.png"><img src ="Graphics/triplets.png" width="50%"></a>
