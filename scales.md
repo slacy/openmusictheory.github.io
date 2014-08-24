@@ -8,6 +8,8 @@ title: Scales
 
 A scale is a succession of pitches ascending or descending in steps. Usually, the pitches are each notated with different letter names, though this isn't always possible or desirable. 
 
+A step is typically considered to be the distance b
+
 ### The Chromatic Scale ###
 
 A scale consisting entirely of half steps.

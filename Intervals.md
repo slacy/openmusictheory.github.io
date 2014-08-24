@@ -3,9 +3,6 @@ layout: post
 title: Intervals and dyads
 ---
 
-{{ page.title }}
-================
-
 An *interval* is the distance between two pitches, usually measured as a number of steps on a scale.
 
 A *dyad* is a pair of pitches sounding together (in other words, a two-note chord). Since a dyad is defined by the interval between the two pitches, dyads are often simply called intervals.
