@@ -12,6 +12,7 @@ title: Table of Contents
 [Basic notation.][basicNotation]  
 [Meter.][meter]  
 [Rhythmic values.][rhythmicValues]  
+[Beams and borrowed divisions.][beams]  
 [Pitches.][pitches]  
 [Scales.][scales]
 
@@ -155,6 +156,7 @@ Tranpositional Symmetry.
 [basicNotation]: basicNotation.html
 [meter]: meter.html
 [rhythmicValues]: rhythmicValues.html
+[beams]: beams.html
 [pitches]: pitches.html
 [scales]: scales.html
 [intervals]: Intervals.html
