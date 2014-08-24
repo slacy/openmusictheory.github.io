@@ -3,10 +3,19 @@ layout: post
 title: Pitches and octave designations
 ---
 
-{{ page.title }}
-================
+### The Keyboard ###
 
-Karpinski, Chapter 8 (pp. 36–37), provides an adequate explanation of *generic* pitch names on the treble and bass staves, and you are already familiar with the modification of generic pitches with sharps, flats, and naturals. However, when specifying a particular pitch precisely, we also need to know the *register*. In fact, if all you have is C-sharp or B-flat, you do not have a *pitch*, you have a *pitch-class*. A pitch-class plus a register together designate a specific pitch. 
+The keyboard is great for helping you develop a visual, aural, and tactile understanding of music theory. On the illustration below, the *pitch-class* letter names are written on the keyboard. 
+
+### Enharmonic equivalence ###
+
+Notice that some of the keys have two names. When two pitch classes share a key on the keyboard, they are said to have *enharmonic equivalence*. Theoretically, each key could have several names (the note C could also be considered Dbb, for instance), but it's usually not necessary to know more than two enharmonic spellings. 
+
+![][keyboard]
+
+### Octave Designation ###
+
+When specifying a particular pitch precisely, we also need to know the *register*. In fact, if all you have is C-sharp or B-flat, you do not have a *pitch*, you have a *pitch-class*. A pitch-class plus a register together designate a specific pitch. 
 
 We will follow the International Standards Organization (ISO) system for register designations. In that system, middle C (the first ledger line above the bass staff or the first ledger line below the treble staff) is C4. An octave higher than middle C is C5, and an octave lower than middle C is C3. 
 
@@ -29,3 +38,4 @@ Note that a complete designation contains both the pitch-class name (a letter na
 [C4toC5]: Graphics/C4toC5.png
 [C4toC3]: Graphics/C4toC3.png
 [F3toG4]: Graphics/F3toG4-alto.png
+[keyboard]: Graphics/keyboardlayout-small.png
