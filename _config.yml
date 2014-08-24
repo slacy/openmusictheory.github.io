@@ -2,8 +2,8 @@ title:            Open Music Theory
 tagline:          Hybrid Pedagogy Publishing
 description:      "an open, interactive, online textbook for college music theory"
 #Comment out url when working locally to resolve base urls correctly
-url: http://openmusictheory.com
-baseurl: http://openmusictheory.com
+url: http://hybrid-pedagogy.github.io/openmusictheory
+baseurl: http://hybrid-pedagogy.github.io/openmusictheory
 
 
 # Owner/author information
