@@ -3,9 +3,6 @@ layout: post
 title: Meter and time signatures
 ---
 
-{{ page.title }}
-================
-
 Meter involves the way multiple pulse layers work together to organize music in time. Standard meters in Western music can be classified into *simple meters* and *compound meters*, as well as *duple*, *triple*, and *quadruple* meters. 
 
 Duple, triple, and quadruple classifications result from the relationship between the counting pulse and the pulses that are *slower* than the counting pulse. In other words, it is a question of *grouping*: how many beats (secondary pulse) occur in each bar (primary pulse). If counting-pulse beats group into twos, we have duple meter; groups of three, triple meter; groups of four, quadruple meter. Conducting patterns are determined based on these classifications. 
