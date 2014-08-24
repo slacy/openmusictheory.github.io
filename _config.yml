@@ -4,7 +4,6 @@ description:      "an open, interactive, online textbook for college music theor
 #Comment out url when working locally to resolve base urls correctly
 url: http://hybrid-pedagogy.github.io/openmusictheory
 baseurl: http://hybrid-pedagogy.github.io/openmusictheory
-#baseurl: /Users/krisshaffer/Websites/openmusictheory
 
 
 # Owner/author information
