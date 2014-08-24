@@ -11,6 +11,7 @@ title: Table of Contents
 
 [Basic notation.][basicNotation]  
 [Meter.][meter]
+[Rhythmic values.][rhythmicValues]
 
 
 ## Voice-leading and model composition ##
@@ -151,6 +152,7 @@ Tranpositional Symmetry.
 
 [basicNotation]: basicNotation.html
 [meter]: meter.html
+[rhythmicValues]: rhythmicValues.html
 [pitches]: pitches.html
 [intervals]: Intervals.html
 [triads]: triads.html
