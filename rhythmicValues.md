@@ -23,5 +23,8 @@ Multiple dots can be added to a duration. Subsequent dots add half the duration 
 
 A *tie* lengthens a duration by connecting two adjacent identical pitches. Ties are used to either sustain a pitch beyond the length of a single measure, or to make a particular rhythmic grouping in a measure more clear. 
 
+In the example below, the duration of the first pitch is longer than a single measure, so it is represented by tying the dotted half note, which lasts the full measure, to the first beat of the subsequent measure. 
+
+<a href="Graphics/ties.png"><img src="Graphics/ties.png" width="50%"></a>
 
 
