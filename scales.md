@@ -25,7 +25,7 @@ While ISO notation allows us to label a pitch in its specific register, it is of
 
 Scale degrees are labeled with Arabic numerals and carets (^). The illustration below shows a D-major scale and corresponding ISO notation, scale degrees, and solfège syllables.
 
-<a href="Graphics/sdsf.png"><img src="Graphics/sdsf.png" width="80%"></a>
+<a href="Graphics/sdsf.png"><img src="Graphics/sdsf.png"></a>
 
 ### The minor scale ###
 
@@ -33,11 +33,11 @@ Another scale with which you are likely very familiar is the minor scale. There 
 
 The natural minor scale consists of seven whole (W) and half (H) steps in the following succession: W-H-W-W-H-W-W. Note the changes in solfège syllables.
 
-<a href="Graphics/sdsf-naturalMinor.png"><img src="Graphics/sdsf-naturalMinor.png" width="80%"></a>
+<a href="Graphics/sdsf-naturalMinor.png"><img src="Graphics/sdsf-naturalMinor.png"></a>
 
 If you sing through the above example, you'll notice that the ending lacks the same sense of closure you heard in the major scale. This closure is created in the major scale, in part, by the ascending semitone between *ti* and *do*. Composers often want to have this sense of closure when using the minor mode, too. They're able to achieve this by applying an accidental to the seventh scale degree, raising it by a semitone. If you do this within the context of the natural minor scale, you get something called the *harmonic minor* scale.
 
-<a href="Graphics/sdsf-harmonicMinor.png"><img src="Graphics/sdsf-harmonicMinor.png" width="80%"></a>
+<a href="Graphics/sdsf-harmonicMinor.png"><img src="Graphics/sdsf-harmonicMinor.png"></a>
 
 Now the last two notes of the scale sound much more conclusive, but you might have found it difficult to sing *le* to *ti*. When writing melodies in a minor key, composers often "corrected" this by raising *le* by a semitone to become *la* when approaching the note *ti*. When the melody descended from *do*, the closure from *ti* to *do* isn't needed; likewise, it is no longer necessary to "correct" *le*, so the natural form of the minor scale is used again. Together, these different ascending and descending versions are called the *melodic minor* scale.
 
