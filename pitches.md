@@ -33,7 +33,7 @@ Pitches on the alto staff are as follows:
 
 Pitches on the tenor staff are as follows:
 
-<a href="Graphics/pitchesTenor.png"><img src="Graphics/pitchesTenor.png" width="80%"></a>
+<a href="Graphics/pitchesTenor.png"><img src="Graphics/pitchesTenor.png" width="70%"></a>
 
 Any accidentals follow the octave designation of the natural pitch with the same generic name. Thus a half step below C4 is C-flat4 (even though it sounds the same as B3), and a half step above C4 is C-sharp4. 
 
