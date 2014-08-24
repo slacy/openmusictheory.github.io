@@ -37,8 +37,19 @@ The natural minor scale consists of seven whole (W) and half (H) steps in the fo
 
 If you sing through the above example, you'll notice that the ending lacks the same sense of closure you heard in the major scale. This closure is created in the major scale, in part, by the ascending semitone between *ti* and *do*. Composers often want to have this sense of closure when using the minor mode, too. They're able to achieve this by applying an accidental to the seventh scale degree, raising it by a semitone. If you do this within the context of the natural minor scale, you get something called the *harmonic minor* scale.
 
+<a href="Graphics/sdsf-harmonicMinor.png"><img src="Graphics/sdsf-harmonicMinor.png" width="80%"></a>
 
+Now the last two notes of the scale sound much more conclusive, but you might have found it difficult to sing *le* to *ti*. When writing melodies in a minor key, composers often "corrected" this by raising *le* by a semitone to become *la* when approaching the note *ti*. When the melody descended from *do*, the closure from *ti* to *do* isn't needed; likewise, it is no longer necessary to "correct" *le*, so the natural form of the minor scale is used again. Together, these different ascending and descending versions are called the *melodic minor* scale.
 
+When ascending, the *melodic minor* scale uses *la* and *ti*.
+
+<a href="Graphics/sdsf-melodicMinorAsc.png"><img src="Graphics/sdsf-melodicMinorAsc.png"></a>
+
+When descending, the *melodic minor* scale uses the "natural" *te* and *le*. 
+
+<a href="Graphics/sdsf-melodicMinorDesc.png"><img src="Graphics/sdsf-melodicMinorDesc.png"></a>
+
+Truth be told, most composers don't really think about three different "forms" of the minor scale. The *harmonic minor* scale simply represents composers' tendency to use *ti* when building harmonies that include the seventh scale degree in the minor mode. Likewise, the *melodic minor* scale is derived from composers' desire to avoid the melodic augmented second interval (more on this in the [intervals](intervals.html) section) between *le* and *ti* (and some chose not to avoid this!). In reality, there is only one "version" of the minor scale. Context determines when a composer might use *la* and *ti* when writing music in a minor key. 
 
 [chromaticscale]: Graphics/chromaticscale.png
 [majorscale]: Graphics/majorscale.png
