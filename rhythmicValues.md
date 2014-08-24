@@ -7,13 +7,13 @@ Rhythm refers to the combination of long and short durations in time. Durations 
 
 <img src="Graphics/durations.png" width="60%">
 
-**Rests**
+### Rests
 
 Rests represent silence in musical notation. For each durational symbol there exists a corresponding rest. 
 
 <img src="Graphics/rests.png" width="60%">
 
-**Dots and ties**
+### Dots and ties
 
 Dots and ties allow for basic durations to be lengthened. A dot occurs after a pitch or a rest, and it increases its duration by half. For example, if a quarter note is equivalent in duration to two eighth notes, a dotted quarter note would be equivalent to *three* eighth notes. Generally, undotted notes divide into two notes; dotted notes divide into three. Thus, undotted notes are typically used to represent the beat level in simple meter, while dotted notes are used to represent the beat in compound meter.
 
