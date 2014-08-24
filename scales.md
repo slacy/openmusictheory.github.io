@@ -23,7 +23,7 @@ Here is the D major scale. It is called the "D major scale" because the pitch D 
 
 While ISO notation allows us to label a pitch in its specific register, it is often useful to know where that pitch fits within a given scale. For example, the pitch class D is the first (and last) note of the D-major scale. The pitch class A is the fifth note of the D-major scale. When described in this way, we call the notes *scale degrees*, because they're placed in context of a specific scale. Solfège syllables, [a centuries-old method of teaching pitch and sight singing](http://en.wikipedia.org/wiki/Solfège), can also be used to represent scale degrees (when used in this way, this system is specifically called movable-*do* solfège). 
 
-<a href="Graphics/scaleDegreesSolfege.png"><img src="Graphics/scaleDegreesSolfege.png" width="50%"></a>
+<a href="Graphics/scaleDegreesSolfege.png"><img src="Graphics/scaleDegreesSolfege.png" width="80%"></a>
 
 ### The natural minor scale ###
 
