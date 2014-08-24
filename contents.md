@@ -10,7 +10,7 @@ title: Table of Contents
 ## Fundamentals ##
 
 [Basic notation.][basicNotation]  
-[Meter.][meter]
+[Meter.][meter]  
 [Rhythmic values.][rhythmicValues]
 
 
