@@ -21,3 +21,7 @@ Typically, a meter is defined by the presence of a consistent beat division: div
 *Triplets* are borrowed from compound meter, and may occur at both the beat division and subdivision levels, as seen below.
 
 <a href="Graphics/triplets.png"><img src ="Graphics/triplets.png" width="50%"></a>
+
+Likewise, *duplets* can be imported from simple meter into a compound meter.
+
+<a href="Graphics/duplets.png"><img src="Graphics/duplets.png" width="50%"></a>
