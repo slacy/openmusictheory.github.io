@@ -12,4 +12,4 @@ In this example, the eighth notes are not grouped with beams, making it difficul
 
 If we re-notate the above example so that the eighth notes within the same beat are grouped together with a beam, it makes the music much easier to read. 
 
-<a href="Graphics/beams.png"><img src="Graphics/beams/png" width="50%"></a>
+<a href="Graphics/beams.png"><img src="Graphics/beams.png" width="50%"></a>
