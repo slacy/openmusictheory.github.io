@@ -16,7 +16,7 @@ title: Table of Contents
 [Pitches.][pitches]  
 [Scales.][scales]  
 [Key signatures.][keySignatures]
-
+[Intervals.][intervals]
 
 ## Voice-leading and model composition ##
 
@@ -161,7 +161,7 @@ Tranpositional Symmetry.
 [pitches]: pitches.html
 [scales]: scales.html
 [keySignatures]: keySignatures.html
-[intervals]: Intervals.html
+[intervals]: intervals.html
 [triads]: triads.html
 [motionTypes]: motionTypes.html
 
