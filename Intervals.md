@@ -9,13 +9,13 @@ A *dyad* is a pair of pitches sounding together (in other words, a two-note chor
 
 Thus, the term *interval* regularly refers both to the distance between two pitches on a scale and to a dyad whose pitches are separated by that distance.
 
-# Chromatic intervals #
+### Chromatic intervals 
 
 The simplest way to measure intervals, particularly at the keyboard, is to count the number of half-steps, or *semitones*, between two pitches. To determine the chromatic interval between C4 and E4, for example, start at C4 and ascend the chromatic scale to E4, counting steps along the way: C#4, D4, D#4, E4. E4 is four semitones higher than C4. Chromatic intervals are notated with a lower-case **i** followed by an Arabic numeral for the number of semitones. C4–E4 is four semitones, or **i4**.
 
 ![Chromatic steps from C4 to E4.][c4e4]
 
-# Diatonic intervals #
+### Diatonic intervals 
 
 More commonly for tonal music, we are interested in the number of steps on the diatonic (major or minor) scale. This is a bit tricky—not because it's difficult, but because it's counterintuitive. Unfortunately, the system is too old and well engrained to change it now! But once you get past the initial strangeness, diatonic intervals are easy.
 
@@ -45,13 +45,13 @@ Note that some generic intervals can be augmented, perfect, or diminished, and o
 
 Solfège can also help to determine the specific interval. Each pair of solfège syllables will have the same interval, no matter what the key, as long as it is clear which syllable is the lower pitch and which is the upper pitch. Memorizing the intervals between solfège pairs can help speed along your analysis of dyads as they appear in music. For example, knowing that *do*–*mi*, *fa*–*la*, and *sol*–*ti* are always major thirds and knowing that *re*–*fa*, *mi*–*sol*, *la*–*do*, and *ti*–*re* are always minor thirds will allow for faster analysis of dyads in major keys.
 
-# Compound intervals #
+### Compound intervals 
 
 The intervals discussed above, from unison to octave, are called *simple intervals*. Any interval larger than an octave is considered a *compound interval*. Take the interval C4 to E5. The generic interval is a tenth. However, it functions the same as C4 to E4 in almost all musical circumstances. Thus, the tenth C4–E5 is also called a *compound third*. A compound interval takes the same quality as the corresponding simple interval. If C4–E4 is a major third, then C4–E5 is a major tenth.
 
 ![Simple and compound major thirds.][compound]
 
-# Interval inversion #
+### Interval inversion 
 
 In addition to C4–E4 and C4–E5, E4–C5 also shares a similar sound and musical function. In fact, any dyad that keeps the same two pitch classes but changes register will have a similar sound and function. However, the fact that E4–C5 has E as its lowest pitch instead of C means that it has a different generic interval: E4–C5 is a sixth, not a third. Because of that difference, it will also play a different musical function in some circumstances. However, there is no escaping the relationship.
 
@@ -75,16 +75,16 @@ perfect ↔ perfect
 
 Interval inversion may seem confusing and esoteric now, but it will be an incredibly important concept for the study of voice-leading and the study of harmony.
 
-# Melodic and harmonic intervals #
+### Melodic and harmonic intervals 
 
 The last distinction between interval types to note is *melodic* v. *harmonic* intervals. This distinction is simple. If the two pitches of a dyad sound at the same time (a two-note chord), the interval between them is a *harmonic interval*. If the two pitches in question are sounded back-to-back (as in a melody), the interval between them is a *melodic interval*. This distinction is important in voice-leading, where different intervals are preferred or forbidden in harmonic contexts than in melodic contexts. The difference is also important for listening, as hearing melodic and harmonic intervals of the same quality requires different techniques.
 
-# Consonance and dissonance #
+### Consonance and dissonance 
 
 Intervals are categorized as *consonant* or *dissonant* based on their sound (how stable, sweet, or harsh they sound), how easy they are to sing, and how they best function in a passage (beginning, middle, end; between certain other intervals; etc.). Different standards apply to melody and harmony. The following categories will be essential for your work in strict voice-leading, and they will be a helpful guide for free composition and arranging work, as well.
 
 
-## Melodic consonance and dissonance ##
+**Melodic consonance and dissonance**
 
 The following *melodic* intervals are *consonant*, and can be used in strict voice-leading both for successive pitches and as boundaries of stepwise progressions in a single direction:
 
@@ -98,7 +98,7 @@ All other *melodic* intervals are *dissonant*, and must be avoided for successiv
 - All augmented and diminished intervals (including those that are enharmonically equivalent to consonant intervals, such as A2 and A1)  
 - All sevenths
 
-## Harmonic consonance and dissonance ##
+**Harmonic consonance and dissonance**
 
 The following *harmonic* intervals are *imperfect consonances*, and can be used relatively freely in strict voice-leading (except for beginnings and endings):
 

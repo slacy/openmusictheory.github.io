@@ -15,7 +15,7 @@ title: Table of Contents
 [Beams and borrowed divisions.][beams]  
 [Pitches.][pitches]  
 [Scales.][scales]  
-[Key signatures.][keySignatures]
+[Key signatures.][keySignatures]  
 [Intervals.][intervals]
 
 ## Voice-leading and model composition ##
