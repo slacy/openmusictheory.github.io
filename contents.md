@@ -14,7 +14,8 @@ title: Table of Contents
 [Rhythmic values.][rhythmicValues]  
 [Beams and borrowed divisions.][beams]  
 [Pitches.][pitches]  
-[Scales.][scales]
+[Scales.][scales]  
+[Key signatures.][keySignatures]
 
 
 ## Voice-leading and model composition ##
@@ -159,6 +160,7 @@ Tranpositional Symmetry.
 [beams]: beams.html
 [pitches]: pitches.html
 [scales]: scales.html
+[keySignatures]: keySignatures.html
 [intervals]: Intervals.html
 [triads]: triads.html
 [motionTypes]: motionTypes.html
