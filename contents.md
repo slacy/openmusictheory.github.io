@@ -110,7 +110,7 @@ title: Table of Contents
 
 **Organizing Forces**  
 
-[Collections and Scales.](scales.html)  
+[Collections and Scales.](scales2.html)  
 [Symmetry and Centricity.](symmetryAndCentricity.html)  
 
 **Set Theory**  
