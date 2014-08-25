@@ -8,8 +8,6 @@ It's important to remember that notation is intended to be read by performers. Y
 
 In this example, the eighth notes are not grouped with beams, making it difficult to interpret the triple meter. 
 
-<a href="Graphics/noBeams-01.png"><img src="Graphics/noBeams-01.png" width="70%"></a>
-
 If we re-notate the above example so that the notes that fall within the same beat are grouped together with a beam, it makes the music much easier to read. 
 
 <a href="Graphics/beams.png"><img src="Graphics/beams.png" width="70%"></a>
