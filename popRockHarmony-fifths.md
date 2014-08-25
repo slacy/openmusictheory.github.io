@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Circle-of-fifths progression - in minor (pop/rock harmony)
+title: Circle-of-fifths progression, minor mode
 ---
-
-{{ page.title }}
-================
 
 **&#124;&#124;: I – IV – VII – III :&#124;&#124;**
 
@@ -12,14 +9,14 @@ Much more will be said about circle-of-fifths progressions in the context of cla
 
 Def Leppard’s “Love Bites” (mildly explicit lyrics) begins with this four-chord progression repeated twice for the verse.
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/UPU9az11si0?rel=0" frameborder="0" allowfullscreen></iframe><br/><br/>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:3SoNMDkQr86wqib28yaBI7" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
 The verse of Muse’s “Thoughts of a Dying Atheist” begins with a [lament progression](popRockHarmony-lament.html), followed by a four-chord circle-of-fifths progression. This progression immediately repeats, returning to the initial minor key. However, the second time through, this lament–circle-of-fifths pattern leads to a chorus in the relative major (taking the III chord as the new tonic).
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/seNrC4_5Xxs?rel=0" frameborder="0" allowfullscreen></iframe><br/><br/>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:7LB6xhGZ0jCbP3PfUDA7yw" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
 For a complete circle-of-fifths progression, see Gloria Gaynor’s “I Will Survive”:
 
 **&#124;&#124;: I – IV – VII – III – VI – II – V / :&#124;&#124;**
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/Tth-8wA3PdY?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:2DX0WG5OGLQLaXb41Cq1IA" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>

@@ -144,7 +144,22 @@ Tranpositional Symmetry.
 
 ## Pop/rock music ##
 
+**Rhythm**
+
 [Syncopation in pop/rock music.](syncopation.html)  
+
+**Harmony**
+
+[Harmony in pop/rock music.][popRockHarmony]  
+[The “50s doo-wop” progression.][popRockHarmony-doowop]  
+[The “Singer/Songwriter” progression.][popRockHarmony-sscp]  
+[The “Puff” progression.][popRockHarmony-puff]  
+[The blues progression.][popRockHarmony-blues]  
+[The lament progression.][popRockHarmony-lament]  
+[The circle-of-fifths progression (in minor)][popRockHarmony-fifths]  
+[Plagal progressions.][popRockHarmony-plagal]  
+
+
 
 ## Text and music ##
 
@@ -181,6 +196,14 @@ Tranpositional Symmetry.
 [harmFunc]: harmonicFunctions.html
 [harmSyntax]: harmonicSyntax.html
 [popRockHarmony]: popRockHarmony.html
+[popRockHarmony-dooWop]: popRockHarmony-dooWop.html
+[popRockHarmony-sscp]: popRockHarmony-sscp.html
+[popRockHarmony-puff]: popRockHarmony-puff.html
+[popRockHarmony-blues]: popRockHarmony-blues.html
+[popRockHarmony-pachelbel]: popRockHarmony-pachelbel.html
+[popRockHarmony-lament]: popRockHarmony-lament.html
+[popRockHarmony-fifths]: popRockHarmony-fifths.html
+[popRockHarmony-plagal]: popRockHarmony-plagal.html
 
 [unfiguredBass]: unfiguredBass.html
 [RNfromFB]: RNfromFB.html
