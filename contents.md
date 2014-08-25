@@ -16,7 +16,9 @@ title: Table of Contents
 [Pitches.][pitches]  
 [Scales.][scales]  
 [Key signatures.][keySignatures]  
-[Intervals.][intervals]
+[Intervals.][intervals]  
+[Triads and seventh chords.][triads]  
+[Types of motion.][motionTypes]  
 
 ## Voice-leading and model composition ##
 

@@ -3,8 +3,6 @@ layout: post
 title: Triads and seventh chords
 ---
 
-{{ page.title }}
-================
 
 A chord is any combination of three or more pitch classes that sound simultaneously.
 

@@ -3,8 +3,6 @@ layout: post
 title: Types of contrapuntal motion
 ---
 
-{{ page.title }}
-================
 
 There are four types of contrapuntal motion between two musical lines. Differentiating these four types of motion is essential to generating good voice-leading, both strict and free.
 
