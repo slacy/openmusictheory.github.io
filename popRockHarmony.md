@@ -78,7 +78,7 @@ Walter Everett has posited six *tonal systems* to which most pop/rock songs belo
 
 System 1: Pop/rock tonality that strongly resembles common-practice classical tonality (major and minor keys, with parallel-key borrowing).
 
-System 2: Pop/rock tonality that draws on diatonic modes (such as Dorian, Mixolydian, Aeolian).
+[System 2: Pop/rock tonality that draws on diatonic modes](popRockHarmony-EverettSystem2.html) (such as Dorian, Mixolydian, Aeolian).
 
 System 3: Pop/rock tonality that strongly resembles common-practice classical tonality, but which borrows from diatonic modes.
 
