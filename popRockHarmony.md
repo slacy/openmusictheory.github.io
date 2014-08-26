@@ -80,7 +80,7 @@ System 1: Pop/rock tonality that strongly resembles common-practice classical to
 
 [System 2: Pop/rock tonality that draws on diatonic modes](popRockHarmony-EverettSystem2.html) (such as Dorian, Mixolydian, Aeolian).
 
-System 3: Pop/rock tonality that strongly resembles common-practice classical tonality, but which borrows from diatonic modes.
+[System 3: Pop/rock tonality that strongly resembles common-practice classical tonality, but which borrows from diatonic modes.](popRockHarmony-EverettSystem3.html)
 
 System 4: Blues-based pop/rock tonality.
 
