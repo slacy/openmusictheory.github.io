@@ -74,7 +74,7 @@ or
 
 ## Rock's "tonal systems"
 
-Walter Everett has posited six *tonal systems* to which most pop/rock songs belong. The following sections summarize five of these (all but the most and least tonal) and provide examples. See [Everett's 2004 article in *Music Theory Online*](http://www.mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html) for a more detailed exploration of these "systems."
+Walter Everett has posited six *tonal systems* to which most pop/rock songs belong. The following sections summarize four of these with examples (all but 1 and 6—the most and least tonal). See [Everett's 2004 article in *Music Theory Online*](http://www.mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html) for a more detailed exploration of these "systems."
 
 System 1: Pop/rock tonality that strongly resembles common-practice classical tonality (major and minor keys, with parallel-key borrowing).
 
