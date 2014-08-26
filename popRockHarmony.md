@@ -82,8 +82,8 @@ System 1: Pop/rock tonality that strongly resembles common-practice classical to
 
 [System 3: Pop/rock tonality that strongly resembles common-practice classical tonality, but which borrows from diatonic modes.](popRockHarmony-EverettSystem3.html)
 
-System 4: Blues-based pop/rock tonality.
+[System 4: Blues-based pop/rock tonality.](popRockHarmony-EverettSystem4.html)
 
-System 5: Minor-pentatonic-based pop/rock tonality.
+[System 5: Minor-pentatonic-based pop/rock tonality.](popRockHarmony-EverettSystem5.html)
 
 System 6: Chromatically inflected minor-pentatonic-based pop/rock tonality.
