@@ -97,8 +97,6 @@ title: Table of Contents
 [Five-Part Rondo.](fivePartRondo.html)  
 [Sonata Rondo.](sonataRondo.html)  
 
-[**Form in pop/rock music.**][popRockForm]  
-
 [Classical theme types.][classicalThemes]   
 [Introduction to musical functions.](functions.html)  
 [Galant schemata.][Schemata]  
@@ -161,6 +159,9 @@ Tranpositional Symmetry.
 [The circle-of-fifths progression (in minor)][popRockHarmony-fifths]  
 [Plagal progressions.][popRockHarmony-plagal]  
 
+**Form**
+
+[**Form in pop/rock music.**][popRockForm]  
 
 
 ## Text and music ##
