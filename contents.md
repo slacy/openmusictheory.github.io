@@ -11,6 +11,7 @@ title: Table of Contents
 
 [Basic notation.][basicNotation]  
 [Meter.][meter]  
+[Protonotation.](protonotation.html)  
 [Rhythmic values.][rhythmicValues]  
 [Beams and borrowed divisions.][beams]  
 [Pitches.][pitches]  
