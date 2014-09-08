@@ -15,7 +15,7 @@ title: Table of Contents
 [Rhythmic values.][rhythmicValues]  
 [Beams and borrowed divisions.][beams]  
 [Pitches.][pitches]  
-[Scales.][scales]  
+[Scales and scale degrees.][scales]  
 [Key signatures.][keySignatures]  
 [Intervals.][intervals]  
 [Triads and seventh chords.][triads]  
