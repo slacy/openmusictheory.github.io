@@ -3,9 +3,6 @@ layout: post
 title: Protonotation
 ---
 
-{{ page.title }}
-================
-
 *Protonotation* is a system of musical notation stripped of complicating elements, and focusing only on basic elements of meter, rhythm, and scale degree. (This system is drawn from Gary Karpinski's *Manual for Ear Training and Sight Singing*.) Following is an example melody in both standard notation and protonotation (click images to view full size).
 
 [![](Graphics/protonotation/demoMel.png)](Graphics/protonotation/demoMel.png)
