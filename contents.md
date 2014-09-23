@@ -101,7 +101,7 @@ title: Table of Contents
 ### Other formal structures in the classical style
 
 [Galant schemata.][Schemata]  
-[**Minuet form**.](minuet.html)  
+[Minuet form.](minuet.html)  
 
 ## Post-tonal music ##
 
@@ -164,14 +164,16 @@ Tranpositional Symmetry.
 
 ### Form
 
-[**Form in pop/rock music.**][popRockForm]  
+[Form in pop/rock music.][popRockForm]  
 
 
 ## Text and music ##
 
 [Analyzing poetry.][poetry]  
 
+## Technology
 
+[Using Trinket (interactive music notation).](trinket.html)  
 
 [introSite]: about.html
 
