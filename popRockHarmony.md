@@ -40,7 +40,7 @@ or
 
 **&#124;&#124;: VI – IV – I – V :&#124;&#124;** (in major)  
 **&#124;&#124;: I – VI – III – VII :&#124;&#124;** (in minor)  
-**&#124;&#124;: I – V – VI – IV :&#124;&#124;** ("sensitive male" variant)  
+**&#124;&#124;: I – V – VI – IV :&#124;&#124;** ("With or Without You" variant)  
 **&#124;&#124;: IV – I – V – VI :&#124;&#124;** ("deceptive" variant)  
 
 [The "Puff" progression](popRockHarmony-puff.html) 

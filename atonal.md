@@ -3,9 +3,6 @@ layout: post
 title: Analyzing atonal music
 ---
 
-{{ page.title }}
-================
-
 Following are a few tips, terms, and common structures that will be helpful for analyzing early twentieth-century atonal music, such as that composed by members of the Second Viennese School (Schönberg, Berg, Webern).
 
 # Intervals #

@@ -70,9 +70,10 @@ title: Table of Contents
 
 ## Form ##
 
-**Thematic Structure in the Classical Style**
+### Thematic Structure in the Classical Style
 
 [Introduction to Thematic Structure in the Classical Style.](thematicStructureInTheClassicalStyle.html)   
+[Classical theme types.][classicalThemes]   
 [The sentence.](sentence.html)  
 [The period.](period.html)  
 [Hybrid themes.](hybridThemes.html)  
@@ -80,42 +81,43 @@ title: Table of Contents
 [External Expansions.](externalExpansions.html)  
 [Internal Expansions.](internalExpansions.html)  
 
-[**Minuet form**.](minuet.html)  
   
-**Sonata Form**
+### Sonata Form
 
 [Introduction to Sonata Theory.][SonataIntro]    
 [Sonata form: exposition types.][SonataExpo]  
-- [Structural Points of Arrival.](sonataStructuralPointsOfArrival.html)  
-- [Thematic Modules.](sonataThematicModules.html)  
+[Structural Points of Arrival.](sonataStructuralPointsOfArrival.html)  
+[Thematic Modules.](sonataThematicModules.html)  
 [Sonata form: the recapitulation.][SonataRecap]  
 [Sonata form: the development.](sonataDevelopment.html) 
 
-**Rondo Form**
+### Rondo Form
 
 [Introduction to Rondo form.](rondo.html)  
 [Thematic Function in Rondo Form.](thematicFunctionInRondo.html)  
 [Five-Part Rondo.](fivePartRondo.html)  
 [Sonata Rondo.](sonataRondo.html)  
 
-[Classical theme types.][classicalThemes]   
-[Introduction to musical functions.](functions.html)  
+### Other formal structures in the classical style
+
 [Galant schemata.][Schemata]  
+[**Minuet form**.](minuet.html)  
 
 ## Post-tonal music ##
 
-**Basics**  
+### Basics
 
 [Pitch (class).](pitch(Class).html)  
 [Interval (class).](interval(Class).html)  
 [Modular 12 arithmetic.](mod12.html)    
 
-**Organizing Forces**  
+### Organizing Forces
 
 [Collections and Scales.](scales2.html)  
 [Symmetry and Centricity.](symmetryAndCentricity.html)  
 
-**Set Theory**  
+
+### Set Theory
 
 Pitch-Class Sets.  
 [Normal Order.](normalOrder.html)  
@@ -128,7 +130,7 @@ Pitch-Class Sets.
 Common Tones under Inversion.  
 Tranpositional Symmetry.  
 
-**Twelve-Tone Theory**  
+### Twelve-Tone Theory
 
 [Basics.](twelveToneBasics.html)  
 [Operations.](twelveToneOperations.html)  
@@ -136,20 +138,20 @@ Tranpositional Symmetry.
 [Derivation.](twelveToneMusicDerivation.html)  
 [Invariance.](twelveToneMusicInvariance.html)  
 
+### General post-tonal resources
 
 [Analyzing atonal music.][atonal]  
 [Analyzing 12-tone music.][twelveTone]  
 [Glossary of atonal musical terms.][atonalGloss]  
-
 [Sheet of blank chromatic-scale clock faces.][clocks]
 
 ## Pop/rock music ##
 
-**Rhythm**
+### Rhythm
 
 [Syncopation in pop/rock music.](syncopation.html)  
 
-**Harmony**
+### Harmony
 
 [Harmony in pop/rock music.][popRockHarmony]  
 [The “50s doo-wop” progression.][popRockHarmony-doowop]  
@@ -160,7 +162,7 @@ Tranpositional Symmetry.
 [The circle-of-fifths progression (in minor)][popRockHarmony-fifths]  
 [Plagal progressions.][popRockHarmony-plagal]  
 
-**Form**
+### Form
 
 [**Form in pop/rock music.**][popRockForm]  
 
