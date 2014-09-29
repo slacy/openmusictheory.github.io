@@ -5,7 +5,7 @@ title: Circle-of-fifths progression, minor mode
 
 **&#124;&#124;: I – IV – VII – III :&#124;&#124;**
 
-Much more will be said about circle-of-fifths progressions in the context of classical music. In pop/rock music, we will focus on the above four-chord progression. This is considered a “descending” circle-of-fifths progression because each chord’s root moves down by fifth to the next root. In pop/rock, this progression often happens in minor beginning on I, moving to the relative major. Like the [“sensitive female” progression](popRockHarmony-sfcp.html), there is some key ambiguity in this progression, as the starting chord is easily considered tonic, but the motion from VII to III can easily be heard as V–I in the relative major key. And indeed, it can be used to move from the relative minor to the relative major.
+Much more will be said about circle-of-fifths progressions in the context of classical music. In pop/rock music, we will focus on the above four-chord progression. This is considered a “descending” circle-of-fifths progression because each chord’s root moves down by fifth to the next root. In pop/rock, this progression often happens in minor beginning on I, moving to the relative major. Like the [“singer/songwriter” progression](popRockHarmony-sscp.html), there is some key ambiguity in this progression, as the starting chord is easily considered tonic, but the motion from VII to III can easily be heard as V–I in the relative major key. And indeed, it can be used to move from the relative minor to the relative major.
 
 Def Leppard’s “Love Bites” (mildly explicit lyrics) begins with this four-chord progression repeated twice for the verse.
 
