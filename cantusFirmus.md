@@ -22,7 +22,7 @@ From these *cantus*, notice how the general musical characteristics of smoothnes
 - arhythmic (all whole notes; no long or short notes)  
 - begin and end on *do*  
 - approach final tonic by step (usually *re*–*do*, sometimes *ti*–*do*)  
-- all note-to-note progressions are melodic consonances  
+- all note-to-note progressions are [melodic consonances](intervals.html)  
 - range (interval between lowest and highest notes) of no more than a tenth, usually less than an octave  
 - a single climax (high point) that appears only once in the melody  
 - clear logical connection and smooth shape from beginning to climax to ending  

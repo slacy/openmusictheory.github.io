@@ -3,9 +3,6 @@ layout: post
 title: Glossary of atonal musical terms
 ---
 
-{{ page.title }}
-================
-
 *this glossary is far from complete, in the very early stages of being built*
 
 **collection** – The general term for treating multiple pitch classes as a single entity. Sets, set classes, scales, simultaneities, chords, and intervals are all specific kinds of collections.

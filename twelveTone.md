@@ -3,9 +3,6 @@ layout: post
 title: Analyzing 12-tone music
 ---
 
-{{ page.title }}
-================
-
 The *pitch* material of a strict 12-tone work is entirely (or nearly entirely) derived from a single *12-tone row*. A row is an *ordered set* of the twelve pitch classes of the chromatic scale. Each of the 12 will appear exactly once, and order is paramount.
 
 12-tone rows that can be related to each other by transposition, inversion, and/or retrograde operations are considered to be forms of the same row. Unless a row has certain properties that allow it to map onto itself when transposed, inverted, or retrograded, there will be 48 forms of the row: *prime* (**P**), *inversion* (**I**), *retrograde* (**R**), and *retrograde inversion* (**RI**) forms, transposed to begin on each of the 12 pitch classes.
