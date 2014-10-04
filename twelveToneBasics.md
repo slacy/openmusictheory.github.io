@@ -3,7 +3,7 @@ layout: post
 title: Twelve-Tone Theory — Basics
 ---
 
-Twelve-tone music is most often associated with a compositional technique, or style, called *serialism*. The terms are not equivalent, however. *Serialism* a broad designator referring to the *ordering* of things, whether they are pitches, durations, dynamics, and so on. Twelve-tone composition refers more specifically to music based on orderings of the *twelve pitch classes*. 
+Twelve-tone music is most often associated with a compositional technique, or style, called *serialism*. The terms are not equivalent, however. *Serialism* is a broad designator referring to the *ordering* of things, whether they are pitches, durations, dynamics, and so on. Twelve-tone composition refers more specifically to music based on orderings of the *twelve pitch classes*. 
 
 This style of composition is most associated with a group of composers whose figurehead was Arnold Schoenberg and which also included the influential composers Anton Webern and Alban Berg. But twelve-tone compositional techniques and ideas associated with such techniques were very influential for many great composers, and serial and twelve-tone music is still being written today. Much of this music shares similar axioms, outlined below, but composers have used these basic ideas to cultivate entirely original approaches.
 
