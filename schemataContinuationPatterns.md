@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Galant schemata: Continuation Patterns 
+title: Galant Schemata: Continuation Patterns
 ---
-
-{{ page.title }}
-================
 
 The three schema below were described first by the eighteenth-century theorist Joseph Riepel. They are ["continuation patterns"](http://www.mtosmt.org/issues/mto.05.11.2/mto.05.11.2.eckert.html), often found after the first double bar in a minuet. The "Fonte" and "Monte" are both sequential, the "Ponte" is a way of extending a harmony.
 
