@@ -99,9 +99,12 @@ title: Table of Contents
 [Sonata Rondo.](sonataRondo.html)  
 
 ### Other formal structures in the classical style
-
-[Galant schemata.][Schemata]  
+ 
 [Minuet form.](minuet.html)  
+
+### Galant Schemata
+[Galant Schemata: Opens and Closes](schemataOpensAndCloses.html)
+[Galant Schemata: Continuation Patterns](schemataContinuationPatterns.html)
 
 ## Post-tonal music ##
 
