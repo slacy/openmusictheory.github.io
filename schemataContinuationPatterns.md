@@ -16,7 +16,7 @@ Harmonically, the first two-bar unit (the *model*) contains two chords, one per 
 
 As an example, the functional-bass analysis of a typical Fonte in a small ternary whose home key is G major looks like:
 
-![Haydn, Piano Sonata in G Major, Hob.XVI:27, III., mm. 9–12.][Haydn27fonteAnnotated]
+[![](Graphics/form/Haydn27fonteAnnotated.png)](Graphics/form/Haydn27fonteAnnotated.png)
 
 Note the non-cadential progressions, **D7–T1**. Normally such progressions would need to be interpreted as prolonging a tonal function (i.e., tonic function), which would be difficult to interpret here. Schemata often contain such progressions. Simply analyze the chords individually and label the schema, rather than trying to interpret these progressions as prolongational. (Indeed, they are not.)
 
