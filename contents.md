@@ -103,7 +103,7 @@ title: Table of Contents
 [Minuet form.](minuet.html)  
 
 ### Galant Schemata
-[Galant Schemata: Opens and Closes](schemataOpensAndCloses.html)	
+[Galant Schemata: Opens and Closes](schemataOpensAndCloses.html)  
 [Galant Schemata: Continuation Patterns](schemataContinuationPatterns.html)
 
 ## Post-tonal music ##
