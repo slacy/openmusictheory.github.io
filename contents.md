@@ -104,6 +104,8 @@ title: Table of Contents
 
 ### Galant Schemata
 
+[Galant schemata – summary.](schemataSummary.html)
+
 <!--
 [Galant Schemata: Opens and Closes](schemataOpensAndCloses.html)  
 [Galant Schemata: Continuation Patterns](schemataContinuationPatterns.html)
