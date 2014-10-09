@@ -149,4 +149,4 @@ or
 
 # Cadences
 
-***to be added shortly***
+See [Classical cadence types](http://openmusictheory.com/cadenceTypes.html).
