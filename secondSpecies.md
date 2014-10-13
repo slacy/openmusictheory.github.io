@@ -5,7 +5,7 @@ title: Composing a second-species counterpoint
 
 In second-species counterpoint, the counterpoint line moves in half notes against a cantus firmus in whole notes. This 2:1 rhythmic ratio leads to two new "fundamental musical problems"—one metric and one harmonic: the differentiation between *strong beats* and *weak beats*, and the introduction of the *passing tone* dissonance. 
 
-<iframe src="https://trinket.io/embed/music/bd3da422f4" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/music/bd3da422f4" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 *An example second-species exercise by Heinrich Schenker.*
 
