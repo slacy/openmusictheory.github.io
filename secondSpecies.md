@@ -63,6 +63,8 @@ Most of these are used as examples in the demonstration video at the bottom of t
 
 *All dissonant weak beats in second species are dissonant passing tones*, so called because the counterpoint line passes from one consonant downbeat to another consonant downbeat by stepwise motion. The melodic interval from downbeat to downbeat in the counterpoint will always be a third, and the passing tone will come in the middle in order to fill that third with passing motion.
 
+<iframe src="https://trinket.io/embed/music/ef1cff1ee3" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 ####  Consonant weak beats ####
 
 A *consonant passing tone* outlines a third from downbeat to downbeat, and has the same pattern as the dissonant passing tone, except that all three tones (downbeat, passing tone, downbeat) are consonant with the cantus. A consonant passing tone will always be a sixth or perfect fifth above/below the cantus.
