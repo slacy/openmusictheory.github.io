@@ -63,29 +63,40 @@ Most of these are used as examples in the demonstration video at the bottom of t
 
 *All dissonant weak beats in second species are dissonant passing tones*, so called because the counterpoint line passes from one consonant downbeat to another consonant downbeat by stepwise motion. The melodic interval from downbeat to downbeat in the counterpoint will always be a third, and the passing tone will come in the middle in order to fill that third with passing motion.
 
-<iframe src="https://trinket.io/embed/music/ef1cff1ee3" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/music/ef1cff1ee3" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
 ####  Consonant weak beats ####
 
 A *consonant passing tone* outlines a third from downbeat to downbeat, and has the same pattern as the dissonant passing tone, except that all three tones (downbeat, passing tone, downbeat) are consonant with the cantus. A consonant passing tone will always be a sixth or perfect fifth above/below the cantus.
 
+<iframe src="https://trinket.io/embed/music/de54f539bb" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+
 A *substitution* also outlines a third from downbeat to downbeat. However, instead of filling it in with stepwise motion, the counterpoint leaps a fourth and then steps in the opposite direction. It is called a substitution because it can substitute for a passing tone in a line that needs an extra leap or change of direction to provide variety. Like the consonant passing tone, all three notes in the counterpoint must be consonant with the cantus.
+
+<iframe src="https://trinket.io/embed/music/f258be56b6" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
 A *skipped passing tone* outlines a fourth from downbeat to downbeat. The weak-beat note divides that fourth into a third and a step. Again, all three intervals (downbeat, skipped passing tone, downbeat) are consonant with the cantus.
 
+<iframe src="https://trinket.io/embed/music/24c7f0ee8e" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+
 An *interval subdivision* outlines a fifth or sixth between successive downbeats. The large, consonant melodic interval between downbeats is divided into two smaller consonant leaps. A melodic fifth between downbeats would be divided into two thirds. A melodic sixth between downbeats would be divided into a third and a fourth, or a fourth and a third. Not only must all three *melodic* intervals be consonant (both note-to-note intervals and the downbeat-to-downbeat interval), but each note in the counterpoint must be consonant with the cantus.
+
+<iframe src="https://trinket.io/embed/music/a79b68de03" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
 A *change of register* occurs when a large, consonant leap (P5, sixth, or octave) from strong beat to weak beat is followed by a step in the opposite direction. It is used to achieve melodic variety after a long stretch of stepwise motion, to avoid parallels or other problems, or to get out of the way of the cantus to maintain independence. It should be used infrequently. And as always, each note must be consonant with the cantus.
 
+<iframe src="https://trinket.io/embed/music/827ad0b4a2" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+
 A *delay of melodic progression* outlines a step from downbeat to downbeat. It involves a leap of a third from strong beat to weak beat, followed by a step in the opposite direction into the following downbeat. It is called a "delay" because it is used to embellish what otherwise is a slower first-species progression (motion by step from downbeat to downbeat).
 
+<iframe src="https://trinket.io/embed/music/5764fe4a4b" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+
 A *consonant neighbor tone* occurs when the counterpoint moves by step from downbeat to weak beat, and then returns to the original pitch on the following downbeat. If the first downbeat makes a fifth with the cantus, the consonant neighbor will make a sixth, and *vice versa*.
+
+<iframe src="https://trinket.io/embed/music/043d342ffa" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
 ## Demonstration ##
 
 In the following video, I illustrate the process of composing a second-species counterpoint. This video provides new information about the compositional process, as well as concrete examples of the above rules and principles.
 
 <iframe src="http://player.vimeo.com/video/57085974" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
-
-***Add trinkets instead of musical graphics throughout. Give downbeat notes and ask students to produce each schematic pattern by adding a weak beat.***
