@@ -103,4 +103,4 @@ A *consonant neighbor tone* occurs when the counterpoint moves by step from down
 
 In the following video, I illustrate the process of composing a second-species counterpoint. This video provides new information about the compositional process, as well as concrete examples of the above rules and principles.
 
-<iframe src="http://player.vimeo.com/video/57085974" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="http://player.vimeo.com/video/57085974" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/>
