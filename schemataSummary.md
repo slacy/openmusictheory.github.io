@@ -219,4 +219,17 @@ This is a common approach to a half cadence, especially at the end of a sonata m
 | Roman numerals: | Cad. | V | I |
 | functions: | D | D | T |
 
+## The Compound HC
+
+| stage: | 1 | 2 |
+| -: | :-: | :-: |
+| melody: | *mi* | *re* |
+| bass: | *sol* | *sol* |
+| | | |
+| thoroughbass: | 6/4 | 5/3 |
+| Roman numerals: | Cad. | V |
+| functions: | D | D |
+
+(The Compound HC can be approached by any **S** chord, or even the end of the tonic prolongational zone.)
+
 There are, of course, more cadence patterns than these, but these are the most straightforward for framing an improvisation, or a simple model composition. See [Classical cadence types](http://openmusictheory.com/cadenceTypes.html) for more details about standard cadential patterns.
