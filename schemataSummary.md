@@ -149,4 +149,61 @@ or
 
 # Cadences
 
-See [Classical cadence types](http://openmusictheory.com/cadenceTypes.html).
+## The Simple PAC
+
+| stage: | 1 | 2 |
+| -: | :-: | :-: |
+| melody: | *re* | *do* |
+| bass: | *sol* | *do* |
+| | | |
+| thoroughbass: | (7) | 5/3 |
+| Roman numerals: | V | I |
+| functions: | D | T |
+
+## The Simple IAC
+
+| stage: | 1 | 2 |
+| -: | :-: | :-: |
+| melody: | *fa* | *mi* |
+| bass: | *sol* | *do* |
+| | | |
+| thoroughbass: | 7 | 5/3 |
+| Roman numerals: | V | I |
+| functions: | D | T |
+
+## The fa–fi–sol HC
+
+This is a common approach to a half cadence, especially at the end of a sonata movement's transition (TR) module. The definitive element is the bass line: *fa*–*fi*–*sol*. The *re*–*do*–*ti* melody is common, and the most active of the possibilities that fit the harmonies. See Mozart's K. 545, I., mm. 10–11, and K. 333, I., mm. 17–18, for examples.
+
+| stage: | 1 | 2 | 3 |
+| -: | :-: | :-: | :-: | 
+| melody: | *re* | *do* | *ti* |
+| bass: | *fa* | *fi* | *sol* |
+| | | | |
+| thoroughbass: | 6/3 | 6/5 | (7) |
+| Roman numerals: | II | V/V | V |
+| functions: | S | S | D |
+
+## The Compound PAC
+
+| stage: | 1 | 2 | 3 |
+| -: | :-: | :-: | :-: | 
+| melody: | *mi* | *re* | *do* |
+| bass: | *sol* | *sol* | *do* |
+| | | | |
+| thoroughbass: | (8)/6/4 | (7) | 5/3 |
+| Roman numerals: | Cad. | V | I |
+| functions: | D | D | T |
+
+## The Compound IAC
+
+| stage: | 1 | 2 | 3 |
+| -: | :-: | :-: | :-: | 
+| melody: | *sol* | *fa* | *mi* |
+| bass: | *sol* | *sol* | *do* |
+| | | | |
+| thoroughbass: | 8/6/4 | 7 | 5/3 |
+| Roman numerals: | Cad. | V | I |
+| functions: | D | D | T |
+
+There are, of course, more cadence patterns than these, but these are the most straightforward for framing an improvisation, or a simple model composition. See [Classical cadence types](http://openmusictheory.com/cadenceTypes.html) for more details about standard cadential patterns.
