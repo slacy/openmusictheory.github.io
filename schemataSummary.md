@@ -160,6 +160,30 @@ or
 | thoroughbass: | 5/3 | 6/3 | 7–#6/3 | 7/# | 5/3 |
 | Roman numerals: | I | V | VII/V | V/V | V |
 
+## The Passo Indietro
+
+| stage: | 1 | 2 |
+| -: | :-: | :-: |
+| melody: | *la* | *sol* |
+| bass: | *fa* | *mi* |
+| | | | | |
+| thoroughbass: | 5/3 | 6/3 |
+| Roman numerals: | IV | I |
+| functions: | S | T |
+
+This is essentially the first two stages of a Prinner. The latter two stages are often elided (cut away) in order to make room for a cadence pattern.
+
+Like the Prinner, the Passo Indietro has a "modulating version" (the first two stages of the Modulating Prinner).
+
+| stage: | 1 | 2 |
+| -: | :-: | :-: | 
+| melody: | *mi* | *re* |
+| bass: | *do* | *ti* |
+| | | | | |
+| thoroughbass: | 5/3 | 6/3 |
+| Roman numerals: | I | V |
+
+
 # Cadences
 
 ## The Simple PAC
