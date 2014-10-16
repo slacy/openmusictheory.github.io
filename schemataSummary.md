@@ -101,6 +101,19 @@ or
 | Roman numerals: | I | VII | V | I |
 | functions: | T | D | D | T |
 
+## The Romanesca
+
+| stage: | 1 | 2 | 3 | 4 |
+| -: | :-: | :-: | :-: | :-: | 
+| melody: | *sol* | *sol* | *do* | *sol* |
+| bass: | *do* | *ti* | *la* | *mi* |
+| | | | | |
+| thoroughbass: | 5/3 | 6/3 | 5/3 | 6/3 |
+| Roman numerals: | I | V | VI | I |
+| functions: | T | D | Tx | T |
+
+The melody of this schema is quite flexible. The bass/harmony are the more definitive elements. Also note that, in contrast to the other "presentation" schemata, this schema is far more common in slower movements.
+
 # Continuing schemata
 
 ## The Prinner
