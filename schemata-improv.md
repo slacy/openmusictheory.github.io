@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Improvizing a sentence with galant schemata
+title: Improvising a sentence with galant schemata
 ---
 
 The [classical sentence](sentence.html) lends itself well to *galant* schemata. In fact, we have labeled many of the schemata on our [summary page](schemataSummary.html) as "presentation" or "continuation" schemata. Many four-stage schemata tend to appear with the melodic configuration common to the presentation phrase: a basic idea and its varied repetition.
@@ -30,3 +30,35 @@ Following is a video that goes into more detail about tricky situations and spec
 
 <iframe src="http://player.vimeo.com/video/109188050" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
 <a href="http://vimeo.com/109188050">Improvising a presentation phrase</a> on <a href="https://vimeo.com">Vimeo</a>.
+
+# Putting it together
+
+The simplest way to build an entire sentence is to begin with one of the four-stage presentation schemata above, and then follow it with either a 5-stage Prinner (which ends on an IAC) or some kind of continuation–cadence combination. Following are a few examples. You can use these as skeletons upon which to base an improvisation, or you can embellish these interactive examples to try out composing a simple sentence. (See the [Using Trinket](trinket.html) page for details.)
+
+## Presentation – 5-phase Prinner
+
+The following framework begins with a Meyer and follows with a 5-stage Prinner. Note that stages 3 and 4 of the Prinner are compressed into a single bar in order to line up with the common 8-bar sentence length. Also note that any presentation schema can be substituted for the Meyer.
+
+<iframe src="https://trinket.io/embed/music/4ea073d8f1" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+
+## Presentation – Passo Indietro – Cadence
+
+Often classical composers would begin a Prinner, and then truncate it to make room for the final cadence. The following example does this, beginning with a Jupiter and progressing through a Passo Indietro (a half-Prinner) to a Compound HC.
+
+<iframe src="https://trinket.io/embed/music/ee80a49382" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+
+By compressing the last two bars into a single bar, we can convert this into a PAC-ending sentence. (And combined, the two versions could form a 16-bar compound theme.)
+
+<iframe src="https://trinket.io/embed/music/bcc2fe55de" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+
+## Presentation – Fast Prinner – Cadence
+
+Instead of a Passo Indietro (half of a Prinner), we could use a full Prinner, but twice as fast. This allows the melody to move more in the latter half of the sentence, accomplishing the fragmentation and acceleration of melodic and harmonic rhythm that are common to continuation phrases.
+
+Following is a sentence formed by Sol-Fa-Mi – Prinner – Fa-Fi-Sol HC.
+
+<iframe src="https://trinket.io/embed/music/dcdfbf0994" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+
+And the same, but ending with a simple PAC.
+
+<iframe src="https://trinket.io/embed/music/a63f2a06bc" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>

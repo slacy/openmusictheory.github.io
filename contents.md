@@ -104,7 +104,8 @@ title: Table of Contents
 
 ### Galant Schemata
 
-[Galant schemata – summary.](schemataSummary.html)
+[Galant schemata – summary.](schemataSummary.html)  
+[Improvising a sentence with galant schemata.](schemata-improv.html)  
 
 <!--
 [Galant Schemata: Opens and Closes](schemataOpensAndCloses.html)  
