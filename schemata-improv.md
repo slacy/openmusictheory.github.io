@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Improvising a sentence with galant schemata
+title: Improvizing a sentence with galant schemata
 ---
 
 The [classical sentence](sentence.html) lends itself well to *galant* schemata. In fact, we have labeled many of the schemata on our [summary page](schemataSummary.html) as "presentation" or "continuation" schemata. Many four-stage schemata tend to appear with the melodic configuration common to the presentation phrase: a basic idea and its varied repetition.
