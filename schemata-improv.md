@@ -28,3 +28,5 @@ In those ways, this theme is a model example for our simple improvisations: high
 
 Following is a video that goes into more detail about tricky situations and specific techniques that may come up when using these schemata to improvise a sentence. This video focuses on the presentation phrase, using schemata like the Meyer or the Jupiter.
 
+<iframe src="http://player.vimeo.com/video/109188050" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
+<a href="http://vimeo.com/109188050">Improvising a presentation phrase</a> on <a href="https://vimeo.com">Vimeo</a>.
