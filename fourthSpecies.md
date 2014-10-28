@@ -60,4 +60,8 @@ In the following videos, I illustrate the process of composing a fourth-species 
 
 <iframe src="http://player.vimeo.com/video/58488043" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/58488043">Composing a fourth-species counterpoint below the cantus firmus</a> from <a href="http://vimeo.com/user11692346">Kris Shaffer</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
-***Whole-exercise Trinket example.***
+## Exercise
+
+The following is a model fourth-species composition. In it, there is a single example of a "rule" being "broken." Find it, and attempt to recompose the exercise. Can you make a "correct" solution that is more musically satisfying than the original? If not, why do you think that is?
+
+<iframe src="https://trinket.io/embed/music/22aa934458" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
