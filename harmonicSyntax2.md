@@ -33,15 +33,23 @@ The bass note of a passing chord will fill in the third with stepwise motion. Th
 
 A function is typically prolonged by contrapuntal chords belonging to the function that precedes it in the standard cycle. T is prolonged by D, D by S, and S by T.
 
-A passing chord that prolongs the above **T1–T3** progression would then be a dominant chord (D precedes T) with scale-degree 2 in the bass (the passing tone between scale degrees 1 and 3): **D2**. Common **D2** chords are **V6/4**, **V4/3**, and **VII6**. Thus, a **I–I<sup>6</sup>** prolongation can involve those as passing chords. 
+A passing chord that prolongs the above **T1–T3** progression would then be a dominant chord (D precedes T) with scale-degree 2 in the bass (the passing tone between scale degrees 1 and 3): **D2**. 
 
-Note that while sacle-degree 2 in the bass can support a **II** chord, **II** is subdominant, and so it is *not* used as a passing chord to prolong tonic.
+<iframe src="https://trinket.io/embed/music/026277e656" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+
+Common **D2** chords are **V<sup>6/4</sup>**, **V<sup>4/3</sup>**, and **VII<sup>6</sup>**. Thus, a **I–I<sup>6</sup>** prolongation can involve those as passing chords. The following **T1 D2 T3** progression uses a **viiº6** to prolong tonic. Listen to this example, and then try to change the progression to a properly voiced **I V<sup>6/4</sup> I<sup>6</sup>** progression.
+
+<iframe src="https://trinket.io/embed/music/e02e8af4b3" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+
+Note that while scale-degree 2 in the bass can support a **II** chord, **II** is subdominant, and so it is *not* used as a passing chord to prolong tonic.
 
 ## Contrapuntal prolongation – incomplete neighbor chord ##
 
-In second-species counterpoint, variety could come by using a *substitution* in place of a passing tone. This leap of a fourth followed by step in the opposite direction still outlines a third from downbeat to downbeat, but offers a break from too much stepwise motion in the counterpoint.
+In [second-species counterpoint](secondSpecies.html), variety could come by using a *substitution* in place of a passing tone. This leap of a fourth followed by step in the opposite direction still outlines a third from downbeat to downbeat, but offers a break from too much stepwise motion in the counterpoint.
 
-In harmonic writing, the same effect is obtained by an *incomplete neighbor chord*. The bass follows the same pattern as the second-species counterpoint, and the function of the contrapuntal chord is the same as its passing-chord counterpart. Thus instead of a passing motion of **T1 D2 T3**, a substitution pattern in the bass would produce **T1 D4 T3**. (In Roman numerals, that progression would almost invariably be **I V<sup>4/2</sup> I<sup>6</sup>**.)
+In harmonic writing, the same effect is obtained by an *incomplete neighbor chord*. The bass follows the same incomplete-neighbor pattern as the second-species counterpoint, and the function of the contrapuntal chord is the same as its passing-chord counterpart. Thus instead of a passing motion of **T1 D2 T3**, a substitution pattern in the bass would produce **T1 D4 T3**. (In Roman numerals, that progression would almost invariably be **I V<sup>4/2</sup> I<sup>6</sup>**, as it is in the following example.)
+
+<iframe src="https://trinket.io/embed/music/51a20e2c7a" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
 ## Contrapuntal prolongation – complete neighbor chord ##
 
