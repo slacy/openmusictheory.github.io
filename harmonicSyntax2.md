@@ -110,10 +110,7 @@ As a rule, **T** is used for contrapuntal prolongation of **S**, **S** prolongs 
 
 The *champagne progression* (**I–IV<sup>6</sup>–I<sup>6</sup>** or **I–IV<sup>6</sup>–III**) is one. Another is the **S4** divider, as well as the related **S4** embellishing chord. All are described above.
 
-One other common pattern is to use **IV** (**S**) as a complete or incomplete neighbor to **I<sup>6</sup>** (**T**). Common progressions include:
-
-- **I IV I<sup>6</sup>**  
-- **I<sup>6</sup> IV I<sup>6</sup>**
+One other common pattern is to use **IV** (**S**) as a complete or incomplete neighbor to **I<sup>6</sup>** (**T**). Common progressions include **I IV I<sup>6</sup>** and **I<sup>6</sup> IV I<sup>6</sup>**.
 
 <iframe src="https://trinket.io/embed/music/480c1acf9b" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
