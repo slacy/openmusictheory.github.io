@@ -93,6 +93,17 @@ upper = <<
                 <f bes>2 <f a> <f bes> es <d f> <c es> <bes d>1
             }
         >>
+
+        \key c \minor \time 2/2 
+    <<
+        {
+            g''2 aes g g f4 es d2 c1 \bar "|." \break
+        } \\
+        {
+            <c es>2 <c f> <b d> c <aes c> <g b> <es g>1
+        }
+    >>
+
 	}
 
 		>>
@@ -113,6 +124,7 @@ lower = <<
 	        s2 <4 2> <6> <6> <8 6 4> <7 5 3> s1
 		    s2 <6> <6> <6/ 4 3> s <7 _+> s1
 	        s2 <4 2> <6> <6> <8 6 4> <7 5 3> s1
+			s2 s <4/ 2> <6> s <_!> s1
 			}
 
 		\relative c {
@@ -128,6 +140,9 @@ lower = <<
             
             \key bes \major
             bes2 es d g f f, bes1 \bar "|." \break
+			
+			\key c \minor
+			c2 f f es f g c,1
             
 			}		
 		>>
@@ -152,7 +167,9 @@ roman = {
 		% enter functional bass here, follwing the rules of lilypond lyrics
         I IV I V I V I
         I V I IV V "—" I
-        
+        \skip2 \skip2 \skip2 \skip2 \skip2 \skip2 \skip2 
+		\skip2 \skip2 \skip2 \skip2 \skip2 \skip2 \skip2 
+		i iv V i iv V i
 		}
 	}
 
@@ -165,6 +182,7 @@ functions = {
 		T "—" "—" S D "—" T
 		\skip2 \skip2 \skip2 \skip2 \skip2 \skip2 \skip2 
 		T "—" "—" S D "—" T
+		T "—" "—" "—" S D T
 	}
 	}
 

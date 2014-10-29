@@ -66,7 +66,7 @@ Here is a **T1 D7 T1** neighbor prolongation in strict keyboard style. What is t
 
 Just as third-species counterpoint has a *double neighbor* figure, harmonies can be prolonged by two chords using a double-neighbor figure in the bass. The most common double-neighbor prolongation is **T1 D2 D7 T1** (commonly **I V4/3 V6/5 I**).
 
-<iframe src="https://trinket.io/embed/music/519c9f039d" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/music/519c9f039d" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
 ## Contrapuntal prolongation - divider and embellishing chords ##
 
@@ -76,9 +76,17 @@ Divider chords almost always prolong tonic function, and can do so using either 
 
 - **T1 D5 T1** (**I V<sup>(7)</sup> I**), where the bass ascends or descends an octave between **T1** chords.  
 - **T1 S4 T1** (**I IV I**), where the bass ascends or descends an octave between **T1** chords.  
-- **T1 S6 T3** (**I IV<sup>6</sup> I<sup>6</sup>** or **I IV<sup>6</sup> III**), dubbed the *champagne progression* by theorist Gene Biringer, because it is "the progression you pull out when you want to impress a date." This progression is listed in the *harmonic schemata* resource, because it typically follows a unique voice-leading pattern.  
+- **T1 S6 T3** (**I IV<sup>6</sup> I<sup>6</sup>** or **I IV<sup>6</sup> III**), dubbed the *champagne progression* by theorist Gene Biringer, because it is "the progression you pull out when you want to impress a date." 
 
-In the case of the first two progressions, the same harmonic progression can occur without the bass changing register. In other words, the bass leaps from *do* to *sol* or *fa*, but returns to the original bass note. Instead of dividing a large leap, the bass note of the intervening chord looks like an *embellishing tone* from third species. (In third-species counterpoint, an *embellishing tone* ornaments another tone by leaping to another consonance—usually a third or fourth away—and returning to the original tone.) Thus, what would otherwise be a *divider chord* is instead an *embellishing chord*. 
+Following is a champagne progression. Which version is it (**I<sup>6</sup>** or **III**)? What one thing must change in order to form the other version? What default voice-leading rule is "broken" in this progression? (Note, because of rule conflicts, this progression will always break that rule, and it will always have these scale degrees in the melody.)
+
+<iframe src="https://trinket.io/embed/music/6a403a3d21" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+
+In the case of **T1 D5 T1** and **T1 S4 T1**, the same harmonic progression can occur without the bass changing register. In other words, the bass leaps from *do* to *sol* or *fa*, but returns to the original bass note. Instead of dividing a large leap, the bass note of the intervening chord looks like an *embellishing tone* from third species. (In third-species counterpoint, an *embellishing tone* ornaments another tone by leaping to another consonance—usually a third or fourth away—and returning to the original tone.) Thus, what would otherwise be a *divider chord* is instead an *embellishing chord*. 
+
+Following is a **T1 D5 T1** *divider* prolongation. What single change can make it an *embellishing chord* prolongation?
+
+<iframe src="https://trinket.io/embed/music/a23ec68873" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
 ## Subsidiary harmonic progressions ##
 
@@ -90,13 +98,11 @@ These subsidiary progressions *always prolong tonic*. They are labeled in an ana
 
 For instance, consider the following possible harmonic progression for a phrase:
 
-> **T1 S4 D4 T3 S4 D5 T1**  
-(**I IV V<sup>4/2</sup> I<sup>6</sup> II<sup>6</sup> V I**)
+<iframe src="https://trinket.io/embed/music/69e6b9acb9" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
 The first progression through the **T–S–D–T** cycle does not produce a cadence when it returns to T. However, it cannot be said to be a contrapuntal prolongation because it follows the normal functional cycle perfectly. Thus, it is a subsidiary progression. 
 
-> **I IV V<sup>4/2</sup> I<sup>6</sup> II<sup>6</sup> V I**  
-**T———— S D T**
+[![](Graphics/harmony/subsidiaryProgression.png)](Graphics/harmony/subsidiaryProgression.png)
 
 ## Plagal progressions ##
 
