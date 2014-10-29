@@ -116,7 +116,7 @@ One other common pattern is to use **IV** (**S**) as a complete or incomplete ne
 
 Also common is a *change-of-figure* prolongation of **T1**: 5/3 to 6/4 to 5/3 (**I–IV–I**). The 6/4 chord (**IV**) can be considered an **S** chord, but it is more appropriate simply to consider the sixth and fourth above the bass in that chord to be neighbor tones to the fifth and third. Simply label such a progression **T———** underneath the Roman numerals.
 
-<iframe src="https://trinket.io/embed/music/480c1acf9b" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<iframe src="https://trinket.io/embed/music/1e440d4768" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
 ## Prolonging a progression ##
 
