@@ -9,7 +9,7 @@ To establish, or trigger, a harmonic functional zone, *a fixed scale degree must
 
 Functional prolongations are shown in a harmonic analysis by writing/typing T, S, or D underneath the individual chord labels (Roman numerals or functional bass) and extending a line from the beginning of the functional zone to the end.
 
-***insert graphic example***
+[![](Graphics/harmony/RNsFunctionalProlongation.png)](Graphics/harmony/RNsFunctionalProlongation.png)
 
 Such an analysis is called an *interpreted* harmonic analysis, because the harmonies are interpreted according to the way they behave in the phrase, rather than merely labeled. 
 
