@@ -31,6 +31,22 @@ Following is a video that goes into more detail about tricky situations and spec
 <iframe src="http://player.vimeo.com/video/109188050" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
 <a href="http://vimeo.com/109188050">Improvising a presentation phrase</a> on <a href="https://vimeo.com">Vimeo</a>.
 
+# Practicing
+
+To practice improvising using these schemata, you can play along with the mp3 audio files below, created by Mark Arnett. Each recording is in C major, simple quadruple meter, and contains an Alberti-bass left hand with the melodic skeleton in the right hand.
+
+- [Aprile](media/schemata/aprile.mp3)  
+- [Do–Re–Mi](media/schemata/do-re-mi.mp3)  
+- [Fonte](media/schemata/fonte.mp3)  
+- [Jupiter – root-position dominant](media/schemata/jupiterB.mp3)  
+- [Jupiter – inverted dominant](media/schemata/jupiterA.mp3)  
+- [Meyer](media/schemata/meyer.mp3)  
+- [Monte](media/schemata/monte.mp3)  
+- [Pastorella](media/schemata/pastorella.mp3)  
+- Prinner (coming soon)  
+- [Sol–Fa–Mi – II chord on stage two](media/schemata/sol-fa-miA.mp3)  
+- [Sol–Fa–Mi – VII chord on stage two](media/schemata/sol-fa-miB.mp3)  
+
 # Putting it together
 
 The simplest way to build an entire sentence is to begin with one of the four-stage presentation schemata above, and then follow it with either a 5-stage Prinner (which ends on an IAC) or some kind of continuation–cadence combination. Following are a few examples. You can use these as skeletons upon which to base an improvisation, or you can embellish these interactive examples to try out composing a simple sentence. (See the [Using Trinket](trinket.html) page for details.)
