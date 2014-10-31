@@ -24,3 +24,5 @@ Once the cadential progression is identified, everything before it should be ana
 Following is an excerpt from the opening of Haydn's Piano Sonata in C Major, Hob. HVI:21, I. Chords are labeled with Roman numerals and a **T/S/D** functional label for each chord. The tonic prolongation is shown below that with a T followed by a line for the duration of the tonic zone. The cadential progression is comprised of the last tonic chord (m. 4) through to the **PAC** in m. 6.
 
 [![](Graphics/harmony/XVI-21-prolongation.png)](Graphics/harmony/XVI-21-prolongation.png)
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:6k7Sa5GrujYsn7Ul85gjWQ" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
