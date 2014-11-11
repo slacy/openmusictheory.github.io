@@ -63,11 +63,11 @@ The recapitulation has a corresponding cadence, also familiar from small ternary
 
 The development section, like the contrasting middle in small ternary form, typically ends with a HC in the home key (I:HC) or a *dominant arrival* in the home key, which prepares the arrival of the recapitulation.
 
-**||: exposition **V:PAC** :||: development **I:HC** recapitulation **I:PAC** :||**
+||: exposition **V:PAC** :||: development **I:HC** recapitulation **I:PAC** :||
 
 or
 
-**||: exposition **III:PAC** :||: development **I:HC** recapitulation **I:PAC** :||**
+||: exposition **III:PAC** :||: development **I:HC** recapitulation **I:PAC** :||
 
 Commonly, the exposition and recapitulation each have an additional cadential goal that is not shared with other small-ternary-like forms. These goals each occur between the beginning of the module and the cadential goal (EEC or ESC), and they often—though not always—involve a pause or stoppage of melodic or harmonic motion. Thus, each of these halfway cadences is called a *medial caesura* (MC). Both PACs and HCs, in the home key or in a secondary key, can function as medial caesurae.
 
