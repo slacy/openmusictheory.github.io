@@ -65,7 +65,9 @@ Most of these are used as examples in the demonstration video at the bottom of t
 
 #### Dissonant weak beats ####
 
-*All dissonant weak beats in second species are dissonant passing tones*, so called because the counterpoint line passes from one consonant downbeat to another consonant downbeat by stepwise motion. The melodic interval from downbeat to downbeat in the counterpoint will always be a third, and the passing tone will come in the middle in order to fill that third with passing motion.
+*All dissonant weak beats in second species are dissonant passing tones*, so called because the counterpoint line passes from one consonant downbeat to another consonant downbeat by stepwise motion. The melodic interval from downbeat to downbeat in the counterpoint will always be a third, and the passing tone will come in the middle in order to fill that third with passing motion. 
+
+Since all dissonances in second species are passing tones, you will never leap into or out of a dissonant tone, nor will you change directions on a dissonant tone.
 
 <iframe src="https://trinket.io/embed/music/ef1cff1ee3" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
