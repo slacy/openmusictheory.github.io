@@ -11,7 +11,9 @@ A good musician could perform this bass line, and with an eye (or ear) on the vo
 
 As this technique grew, publishers began publishing thoroughbass reductions of large-ensemble pieces to support smaller groups of musicians. In these publications, *figures* (numbers above or below the bass line) were included—sometimes only for difficult or non-standard chords, and eventually for most chords, enabling more amateur musicians, as well as students, to make use of the technique. These bass lines with figures became known as "figured bass" lines.
 
-***graphic example (facsimile?)***
+[![](Graphics/Bach1033.png)](Graphics/Bach1033.png)
+
+*J.S. Bach, Flute Sonata in C Major, ii., BWV 1033. The upper part is played by the flute, the lower part is the* basso continuo *line, played by a keyboardist who uses the numbers below the staff (figures) to guide the chords played above this bass line.*
 
 To this day, harpsichordists performing in Baroque ensembles will often put their left hand to the same "bass" line that the cellos play, and will improvise right-hand chords (with contrapuntally sound embellishment) according to the figures provided with the bass line.
 
