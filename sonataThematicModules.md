@@ -3,7 +3,7 @@ layout: post
 title: Sonata form – thematic modules
 ---
 
-The four thematic modules that comprise a typical sonata exposition (P, TR, S, and C) create a thematic rotation that is found again in the recapitulation and often referenced in the development.
+The four thematic modules that comprise a typical two-part sonata exposition (P, TR, S, and C) create a thematic rotation that is found again in the recapitulation and often referenced in the development.
 
 ## Primary theme module (P)
 
@@ -13,15 +13,15 @@ Most often a P theme is harmonically closed, ending with a I:PAC or, less typica
 
 A P theme may exhibit any [standard theme type](classicalThemes.html) (sentence, period, hybrid, compound), though sentences are more common. Typically, a P theme is relatively "tight-knit" as compared to other thematic modules, containing a more straightforward presentation of tonic and less phrase deviations.
 
-**Transition module (TR)**
+### Transition module (TR)
 
 The TR module's principal functional role is to drive toward the MC that marks its end. This is both a harmonic motion and a rhetorical motion, characterized by _energy gain_. An analysis of a TR module should center around the MC and how the composer approaches it
 
-*Harmonic motion*
+#### Harmonic motion
 
 In a sonata, a transition may be "modulating" or "non-modulating." A non-modulating TR will lead to a I:HC MC, while a modulating TR leads to a V (or III): HC MC.
 
-*Melodic/motivic characteristics*
+#### Melodic/motivic characteristics
 
 We will follow Hepokoski & Darcy's practice of locating the beginning of TR at the start of a phrase. In general, once you hear TR function clearly projected, track back to the beginning of that phrase and label it the beginning of TR. Unlike primary themes, transitions are much "looser" thematically. This module of the sonata is often associated with phrase [expansions](internalExpansions.html) and compression. More generally, anything that can be associated with [*continuation function*](sentence.html) fits transition function, as well: fragmentation, liquidation, acceleration of melodic or harmonic rhythm, etc.
 
@@ -41,9 +41,10 @@ In the following example from Beethoven's Piano Sonata in G minor, Op. 49, No. 1
 **Beethoven, Piano Sonata in G minor, Op. 49, No. 1, i**
 
 [![](Graphics/postTonal/TR.png)](Graphics/postTonal/TR.png)
+
 <iframe src="https://embed.spotify.com/?uri=spotify:track:5NSEaoEaSNdD3XQM54e0C6" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-**Subordinate theme module (S)**
+### Subordinate theme module (S)
 
 The chief function of _S_, which is in the subordinate key of the sonata, is to lead to a PAC in that key—the _essential expositional closure (EEC)_. Because of its role in relation to this central harmonic event (and its corresponding cadence in the recapitulation, the ESC), the S module is of immense importance and interest in a sonata-form movement. Hepokoski and Darcy go so far as to say that "what happens in S makes a sonata a sonata" (p. 117). Because the EEC is of such structural importance, its arrival is often delayed and dramatized to a great degree.
 
@@ -51,12 +52,12 @@ Thematically, the S theme is much looser than the P theme. It is typical to find
 
 It is important to note that new melodic material _is not_ a requirement of S. In fact, many sonatas–especially those composed by Haydn–have S themes that resemble the P theme. (These are called mono-thematic sonatas.)
 
-**Closing module (C)**
+### Closing module (C)
 
 The definitive characteristics of C are that it follows the EEC, and that it is not S. C modules can present wholly new thematic material, or they can borrow from P or TR. They cannot, by definition, be S-based, since that would be a continuation of S. (Keep in mind that the EEC must go on to new material, otherwise the S module continues and the EEC has not been reached yet.)
 
 The C module will always be in the secondary key. It is post-cadential, and the harmonic goal of the exposition has already been reached. If C goes somewhere else, it is not C.
 
-**Retransition (RT)**
+### Retransition (RT)
 
 A retransition is like a _turnaround_ in pop/rock or blues music. It is a dominant chord or arrival in the home key that prepares the return to the home key at the beginning of the repeat of the exposition. The difference between an RT and a turnaround is that an RT follows a modulation. When the RT follows a secondary key of V, it turns I in the key of V into V into the key of I by repetition, melodic figuration, or the adding of a chordal seventh.
