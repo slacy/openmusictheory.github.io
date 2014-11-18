@@ -9,7 +9,7 @@ title: Composing in basso-continuo style
 
 In strict keyboard-style writing, there are four voices: the bass line (which is usually a given in *basso continuo* style), and three *upper voices*: the *melody* or *soprano*, the *alto*, and the *tenor* (from highest to lowest). Since all three upper voices must be played by a single hand, they should never span more than an octave.
 
-The melody always has an upward-pointing stem. Alto and tenor share a downward-pointing stem. If the alto and tenor share a note, that note receives a single downward-pointing stem. If melody and alto share a note, that notehead is double-stemmed.
+The melody always has an upward-pointing stem. Alto and tenor share a downward-pointing stem. If the alto and tenor share a note, that note receives a single downward-pointing stem. (See m. 1 of the example below.) If melody and alto share a note, that notehead is double-stemmed. (See m. 4 of the example below.)
 
 [![](Graphics/BCModel.png)](Graphics/BCModel.png)
 
