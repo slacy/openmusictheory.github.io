@@ -11,7 +11,7 @@ In strict keyboard-style writing, there are four voices: the bass line (which is
 
 The melody always has an upward-pointing stem. Alto and tenor share a downward-pointing stem. If the alto and tenor share a note, that note receives a single downward-pointing stem. If melody and alto share a note, that notehead is double-stemmed.
 
-***insert graphic example***
+[![](Graphics/BCModel.png)](Graphics/BCModel.png)
 
 When choosing the notes to place in the upper voices above a figured bass, use the bass and figures to determine the pitch classes present in the chord. (When realizing an *unfigured bass*, you must determine appropriate figures before realizing.) If the chord is a four-note chord, use each chord member once, including the bass (exceptions will be noted later). If a chord has three pitch-classes (a triad, for instance), use each pitch-class once, and "double" one of them according to the following principles:
 
