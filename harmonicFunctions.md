@@ -23,7 +23,17 @@ Our initial exploration of harmonic functions will engage the general "common pr
 
 In common-practice music, harmonies tend to cluster around three high-level categories of harmonic function. These categories are traditionally called *tonic* (**T**), *subdominant* (**S**—also *predominant*, **P** or **PD**), and *dominant* (**D**). Each of these functions has their own characteristic scale degrees, with their own characteristic tendencies. And each of these functions tend to participate in certain kinds of chord progressions more than others.
 
-If you are already comfortable with Roman numerals, you can generally think of **I**, **III**, and **VI** as *tonic*, **II** and **IV** as *subdominant*, and **V** and **VII** as *dominant*. (Though, as you will see below, there is more to it than that.)
+If you are already comfortable with Roman numerals, you can generally think of **I**, **III**, and **VI** as *tonic*, **II** and **IV** as *subdominant*, and **V** and **VII** as *dominant*. (Though, as you will see below, there is more to it than that.) 
+
+To visualize these functional categories, think of the usual triads in C major arranged on a circle of thirds. Note that each chord sits between the two triads that share the most tones in common—C major (C, E, G) sits between E minor (E, G, B) and A minor (A, C, E), both of which share two tones in common with C.
+
+[![](Graphics/harmony/circleOfThirds-leadsheet.png)](Graphics/harmony/circleOfThirds-leadsheet.png)
+
+Convert these chords to Roman numerals (in C major), and we can see the functions. Since chords are grouped together by notes they have in common, they are also grouped together by function—since the function is determined by the tendencies of the tones that they share.
+
+[![](Graphics/harmony/circleOfThirds-functions.png)](Graphics/harmony/circleOfThirds-functions.png)
+
+*Triads arranged on the circle of thirds, labeled by harmonic functions.*
 
 Interestingly, in common-practice music, a chord's function can be determined solely by its internal characteristics (the notes that make up the chord). This is not true of all styles. For example, in pop/rock music a **IV** chord can exhibit very different functional tendencies depending on its context. But in classical music, simply knowing the notes in a chord is enough to determine its general harmonic function and the general tendencies of that chord and its individual notes.
 
