@@ -29,8 +29,6 @@ To visualize these functional categories, think of the usual triads in C major a
 
 <a href="Graphics/harmony/circleOfThirds-leadSheet.png"><img src="Graphics/harmony/circleOfThirds-leadSheet.png" width="400px"></a>
 
-[![](Graphics/harmony/circleOfThirds-leadSheet.png)](Graphics/harmony/circleOfThirds-leadSheet.png)
-
 Convert these chords to Roman numerals (in C major), and we can see the functions. Since chords are grouped together by notes they have in common, they are also grouped together by function—since the function is determined by the tendencies of the tones that they share.
 
 [![](Graphics/harmony/circleOfThirds-functions.png)](Graphics/harmony/circleOfThirds-functions.png)
