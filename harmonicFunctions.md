@@ -27,7 +27,7 @@ If you are already comfortable with Roman numerals, you can generally think of *
 
 To visualize these functional categories, think of the usual triads in C major arranged on a circle of thirds. Note that each chord sits between the two triads that share the most tones in common—C major (C, E, G) sits between E minor (E, G, B) and A minor (A, C, E), both of which share two tones in common with C.
 
-[![](Graphics/harmony/circleOfThirds-leadsheet.png)](Graphics/harmony/circleOfThirds-leadsheet.png)
+[![](Graphics/harmony/circleOfThirds-leadSheet.png)](Graphics/harmony/circleOfThirds-leadSheet.png)
 
 Convert these chords to Roman numerals (in C major), and we can see the functions. Since chords are grouped together by notes they have in common, they are also grouped together by function—since the function is determined by the tendencies of the tones that they share.
 
