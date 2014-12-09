@@ -35,6 +35,8 @@ Following are the scale degrees which act as dissonances for their respective fu
 | S	| 3, 1 when 2 is also present
 | D	| 4, 6
 
+In purely diatonic music (triads and seventh chords, no chromatics), these will include *the seventh of every seventh chord*, *the fifth of viiº or VII* (*fa*), and *the fifth of III or iii* (*ti/te*).
+
 Keep in mind that only sometimes do these functional dissonances express themselves in chords or intervals that are acoustically dissonant. However, they do introduce a degree of tension that, like an acoustically disonant interval in species counterpoint, requires a smooth introduction and a specific resolution.
 
 When one of these scale degrees is present in a chord with the corresponding function, the dissonant scale degree has a strong tendency to *resolve down by step over the next change in function*. In strict composition, we will *always* follow these tendencies. 
