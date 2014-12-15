@@ -91,6 +91,7 @@ title: Table of Contents
 [Thematic Modules.](sonataThematicModules.html)  
 [Sonata form: the recapitulation.][SonataRecap]  
 [Sonata form: the development.](sonataDevelopment.html) 
+[Sonata form: framing modules (intro & coda).](sonataFramingModules.html) 
 
 ### Rondo Form
 
