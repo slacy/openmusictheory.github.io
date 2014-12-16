@@ -31,7 +31,7 @@ Following the same principle, do not use the "consonant suspension" **6–5** tw
 
 ## The fourth-species counterpoint line ##
 
-Use dissonant suspensions whenever possible. This will create a line consisting mostly of downward, stepwise motion. That is fine. It will also make it hard to direct motion towards a climax. That is also fine. Do not worry about the shape of the line if it is smooht, singable, and the suspensions are properly prepared and resolved. (It is simply too difficult to create a fourth-species counterpoint with the same shape as a cantus firmus, and the pedagogical import in fourth species is the treatment of the suspensions. So we temporarily ignore melodic shape to hone our suspension skills in fourth species.)
+Use dissonant suspensions whenever possible. This will create a line consisting mostly of downward, stepwise motion. That is fine. It will also make it hard to direct motion towards a climax. That is also fine. Do not worry about the shape of the line if it is smooth, singable, and the suspensions are properly prepared and resolved. (It is simply too difficult to create a fourth-species counterpoint with the same shape as a cantus firmus, and the pedagogical import in fourth species is the treatment of the suspensions. So we temporarily ignore melodic shape to hone our suspension skills in fourth species.)
 
 If a dissonant suspension is not possible, try to use a tie from weak beat to strong beat. This can be a "consonant suspension," or you can leap up from downbeat consonance to weak-beat consonance. At least one or two upward leaps will be necessary to counteract the downward resolutions in order to keep the line in a singable range.
 
