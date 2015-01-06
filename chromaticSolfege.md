@@ -3,10 +3,7 @@ layout: post
 title: Chromatic solfège syllables and sequentials
 ---
 
-{{ page.title }}
-================
-
-# Chromatically raised pitches #
+## Chromatically raised pitches
 
 In a major key, *mi* and *ti* form a semitone with the pitches above them in the scale. As a result, they are not usually chromatically raised. The other scale degrees—*d*, *re*, *fa*, *sol*, and *la*—can all be raised by semitone without reproducing another tone in the scale. In each case, the vowel of the solfège syllable is changed to "i" to reflect the higher pitch. *Do* becomes *di*, *re* becomes *ri*, and so on. 
 
@@ -20,7 +17,7 @@ In a minor key, start with the natural-minor syllables for diatonic pitches. Use
 
 (Note the use of *me* not *ri*, *le* not *si*, and *te* not *li* in a minor-key context.)
 
-# Chromatically lowered pitches #
+## Chromatically lowered pitches
 
 All scale steps besides *do* and *fa* can be lowered chromatically, and these lowered tones replace the vowel of their solfège syllable with "e" or "a." (Lower pitches take more open mouth formations—ah, eh—while higher pitches take smaller, more closed mouth formations—i.) 
 
@@ -32,11 +29,11 @@ Following is a descending chromatic scale, using the lowered syllables for chrom
 
 Because *ti* and *la* belong to minor, and because *fa* is rarely ever chromatically lowered in a tonal context, the descending chromatic syllables in minor are the same as in major.
 
-# Exercises to build fluency #
+## Exercises to build fluency
 
 Like the [melodic sequentials](melodicSequentials.html) for diatonic solfège syllables, some basic exercises can help build fluidity with chromatic syllables. 
 
-## 1) Complete lower neighbors ##
+### 1) Complete lower neighbors
 
 Sing a chromatic complete-lower-neighbor figure on each step of an ascending and then descending scale.
 
@@ -52,7 +49,7 @@ do ti do | re di re | me re me | . . . | te la te | do
 **descending (natural) minor:**  
 do ti do | te la te | le so le | . . . | re di re | do
 
-## 2) Complete upper neighbors ##
+### 2) Complete upper neighbors
 
 Sing a chromatic complete-upper-neighbor figure on each step of an ascending and then descending scale.
 
@@ -68,7 +65,7 @@ do ra do | re me re | me mi me | . . . | te ti te | do
 **descending (natural) minor:**  
 do ra do | te ti te | le la le | . . . | re me re | do
 
-## 3) Incomplete lower neighbors ##
+### 3) Incomplete lower neighbors
 
 For each scale degree, sing tonic then the lower neighbor to the scale degree followed by its resolution up by semitone. Practice both with the low tonic at the beginning of each bar and the high tonic at the beginning of each bar. (For an increased challenge, and even greater fluency, try these with scale degrees other than *do* at the beginning of each bar.)
 
@@ -84,7 +81,7 @@ do ti do | do di re | do re me | do mi fa | do fi sol | do sol le | do la te | d
 **descending minor:**  
 do ti do | do la te | do sol le | do fi sol | do mi fa | do re me | do di re | do ti do |
 
-## 4) Incomplete upper neighbors ##
+### 4) Incomplete upper neighbors
 
 For each scale degree, sing tonic then the upper neighbor to the scale degree followed by its resolution down by semitone. Practice both with the low tonic at the beginning of each bar and the high tonic at the beginning of each bar. (For an increased challenge, and even greater fluency, try these with scale degrees other than *do* at the beginning of each bar.)
 

@@ -3,9 +3,6 @@ layout: post
 title: Sight-singing tips
 ---
 
-{{ page.title }}
-================
-
 When singing a melody from sight, go through the following process before attempting to sing it.
 
 First, identify the meter. The meter can be found by looking at the *top number* of the time signature. Then identify the beat value and the division value from looking at the bottom number. (Revisit [Meter and time signatures][meter] if necessary.)

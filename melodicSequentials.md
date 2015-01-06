@@ -3,10 +3,9 @@ layout: post
 title: Melodic sequentials
 ---
 
-{{ page.title }}
-================
+The following exercises are called *sequentials*. They are performed by singing the same pattern transposed to each degree of a scale in sequence. For example, the first sequential, *do re mi*, is performed:
 
-The following exercises are called *sequentials*. They are performed by singing the same pattern transposed to each degree of a scale in sequence. For example, the first sequential, *do re mi*, is performed *do re mi | re mi fa | mi fa sol* | etc.
+> *do re mi | re mi fa | mi fa sol* | etc.
 
 These sequentials are very helpful exercises for building fluidity with solfège syllables, and for aiding in recognition of standard patterns in a melody. Practice them both ascending and descending.
 
