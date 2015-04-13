@@ -3,7 +3,7 @@ layout: post
 title: Collections and Scales
 ---
 
-As composers sought new sounds, many of them turned to novel scales as replacements for the hegemonic major/minor system that characterizes most functional tonal music. To be sure, major and minor scales maintained currency in the twentieth century, but they were but one variety of scale amongst many.
+As time went on, composers aimed to create new sounds, and new overall ways of looking at music. They created this through organizing pitches in a way that deviates from the major and minor scalar system. In this age, major and minor scales were not eliminated entirely, but were not dominating music, as they were in the Romantic and Classical periods. Now, we are introduced to other scale sets, such as octatonic, pentatonic, whole-tone, and modal cells.
 
 When characterizing many of these new musical resources, the word “collection” is often more appropriate than "scale." A *collection* is a group of notes—usually five or more. Imagine a collection as a source from which a composer can draw musical material—a kind of “soup” within which pitch-classes float freely. Collections by themselves do not imply a tonal center. But in a composition a composer may establish a tonal center by privileging one note of the collection, which we then call a scale. 
 
@@ -11,7 +11,7 @@ When characterizing many of these new musical resources, the word “collection�
 
 The *diatonic collection* is any transposition of the 7 white keys on the piano. Refer to these collections by the number of sharps and flats they contain: the “0-sharp” collection, the “1-sharp” collection, and so on. The “2-flat” collection, for example, contains the pitch classes {F, G, A, B-flat, C, D, E-flat}.
 
-When these collections gain a tonic note, they morph into scales, which by tradition we name according to the “modal” system established in centuries ago. Seven unique scales can be formed from a single diatonic collection by taking each note of the collection and treating it as a tonic. Imagine the “0-sharp collection” which contains {C, D, E, F, G, A, B}: Ionian treats C as tonic, Dorian treats D as tonic, Phrygian treats E as tonic, Lydian treats F as tonic, Mixolydian treats G as tonic, Aeolian treats A as tonic, and Locrian treats B as tonic.
+When these collections gain a tonic note, they morph into scales, which by tradition we name according to the “modal” system established in centuries ago. One way to look at these "modes" is to think of the seven white keys of the piano {C, D, E, F, A, B}. These notes, when starting on different pitches, create the different modal scales. By taking each note of the seven-white-key collection, and treating it as as the tonic, all seven modal scales can be played.  Ionian treats C as tonic, Dorian treats D as tonic, Phrygian treats E as tonic, Lydian treats F as tonic, Mixolydian treats G as tonic, Aeolian treats A as tonic, and Locrian treats B as tonic.
 
 ##Pentatonic Collection##
 
@@ -23,7 +23,7 @@ Removing scale degrees 4 and 7 results in a collection with no half steps. As a 
 
 This is a group of notes generated entirely by whole tones: {0,2,4,6,8,10}, for example.
 
-There are only two unique *whole-tone* collections. WT0 contains the pitch classes {0,2,4,6,8,10} and WT1 contains the pitch classes {1,3,5,7,9,11}. We often refer to these as the “even” and “odd” whole-tone collections in reference to the parity (even or odd) of the integers in the collection.
+There are only two unique *whole-tone* collections. WT0 contains pitch classes {0,2,4,6,8,10}, while WT1 contains pitch classes {1,3,5,7,9,11}. In other words, WT0 contains the pitch classes {C, D, E, F-sharp, G-sharp, B-flat}, while WT1 contains pitch classes {C-sharp, D-sharp, F, G, A, B}.
 
 ##Octatonic Collection##
 
@@ -38,3 +38,7 @@ Olivier Messiaen called such collections “modes of limited transposition." (Th
 There are many, many other collections and scales used by composers and musicians in the twentieth- and twenty-first centuries. Messiaen, for example, described five more [modes of limited transposition](http://en.wikipedia.org/wiki/Modes_of_limited_transposition), and there are other smaller collections that have the same property. [Acoustic scales](http://en.wikipedia.org/wiki/Acoustic_scale), formed from the first seven unique partials of the overtone series, are common in the music of Debussy, Bartok, and Crumb—ocassionally as a representation of nature. Jazz musicians have an entire set of scales used for improvisation. Non-Western musics often have unique systems of scales and collections, such as the rāgas used in Indian classical music.
 
 More generally, any large set of pitch classes that form the basis for a passage may function as a collection, even if it has no familiar name. Most often, music theorists refer to these collections with pitch-class set notation.
+
+<hr/>
+
+*This resource was created by Brian Moseley and contains contributions from Meredith Cahill, Elise Campbell, and Kris Shaffer.*
