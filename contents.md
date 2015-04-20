@@ -151,6 +151,7 @@ Tranpositional Symmetry.
 
 ### General post-tonal resources
 
+[Analyzing a post-tonal piece from scratch.](postTonalAnalysis.html)  
 [Analyzing atonal music.][atonal]  
 [Analyzing 12-tone music.][twelveTone]  
 [Glossary of atonal musical terms.][atonalGloss]  
