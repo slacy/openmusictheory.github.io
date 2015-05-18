@@ -45,11 +45,11 @@ For a more detailed explanation of meter with an emphasis on hearing and recogni
 
 Following are the musical examples referenced in the above videos:
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:2GnWmYszHAtRKJeODAXuT2" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><p class="caption">"Come Out Clean," Jump Little Children</p><br/>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:2GnWmYszHAtRKJeODAXuT2" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><p class="caption">"Come Out Clean," Jump Little Children</p>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:5JGEAz15LkPoOtFHttDtVs" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>"With or Without You," U2<br/>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:5JGEAz15LkPoOtFHttDtVs" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><p class="caption">"With or Without You," U2</p>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:40J9dEDG0unV6LyYOHfMi9" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>"The Tourist," Radiohead<br/>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:40J9dEDG0unV6LyYOHfMi9" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><p class="caption">"The Tourist," Radiohead</p>
 
 ## Playlists 
 
