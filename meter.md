@@ -39,13 +39,13 @@ In *compound meters*, the bottom number of the time signature corresponds to the
 
 For a more detailed explanation of meter with an emphasis on hearing and recognizing standard meters, see the following two videos:
 
-<iframe src="https://player.vimeo.com/video/127952221" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p style="text-align: center"><a href="https://vimeo.com/127952221">Meter - counting pulse</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/127952221" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="caption"><a href="https://vimeo.com/127952221">Meter - counting pulse</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-<iframe src="https://player.vimeo.com/video/127955738" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p style="text-align: center"><a href="https://vimeo.com/127955738">Meter - grouping and division</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/127955738" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="caption"><a href="https://vimeo.com/127955738">Meter - grouping and division</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Following are the musical examples referenced in the above videos:
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:2GnWmYszHAtRKJeODAXuT2" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>"Come Out Clean," Jump Little Children<br/>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:2GnWmYszHAtRKJeODAXuT2" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><p class="caption">"Come Out Clean," Jump Little Children</p><br/>
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:5JGEAz15LkPoOtFHttDtVs" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>"With or Without You," U2<br/>
 

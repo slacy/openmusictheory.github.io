@@ -188,6 +188,12 @@ footer {
 	margin-right: auto;
 }
 
+.caption {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
