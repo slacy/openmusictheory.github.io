@@ -39,9 +39,12 @@ In *compound meters*, the bottom number of the time signature corresponds to the
 
 For a more detailed explanation of meter with an emphasis on hearing and recognizing standard meters, see the following two videos:
 
+<div class="center-frame">
 <iframe src="https://player.vimeo.com/video/127952221" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/127952221">Meter - counting pulse</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
 
-<iframe src="https://player.vimeo.com/video/127955738" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/127955738">Meter - grouping and division</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div class="center-frame"><iframe src="https://player.vimeo.com/video/127955738" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/127955738">Meter - grouping and division</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
 
 Following are the musical examples referenced in the above videos:
 
