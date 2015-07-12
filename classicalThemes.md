@@ -6,7 +6,7 @@ title: Classical theme types
 {{ page.title }}
 ================
 
-The following diagrams outline the key internal characteristics and functional role of the various theme types presented in William Caplin’s *Classical Form*. Follow the links below for further explanation and examples.
+The following diagrams outline the key internal characteristics and functional role of the various theme types presented in William Caplin’s [*Classical Form*.](https://openlibrary.org/works/OL2689355W/Classical_form) Follow the links below for further explanation and examples.
 
 See also [Classical theme functions](themeFunctions.html).
 
