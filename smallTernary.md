@@ -3,7 +3,7 @@ layout: post
 title: The Small Ternary
 ---
 
-The small ternary is one of the most important formal types in the classical style. Like the smaller sentence, period, and hybrid themes, it can act alone as the theme of a full-movement form. Much like the smaller theme types had phrases and sub-phrases embedded within them, the small ternary has thematic structures embedded within it. As a slightly larger structure, this theme type stimulates interesting questions about formal organization and perception--questions that stem from its historical pedigree, performance practice--that we will also find in the full-movement forms.
+Like the smaller [sentence](sentence.html), period, and hybrid themes, the small ternary can act alone as the theme of a full-movement form. Much like the smaller theme types had phrases and sub-phrases embedded within them, the small ternary has thematic structures embedded within it. As a slightly larger structure, this theme type stimulates interesting questions about formal organization and perception--questions that stem from its historical pedigree, performance practice--that we will also find in the full-movement forms.
 
 This theme type is normally expressed through three thematic functions: "exposition (A)," "contrasting middle (B)," and "recapitulation (A)." 
 
@@ -14,7 +14,7 @@ A *recapitulation* follows the *contrasting middle* and is marked by a return of
 Located between the *exposition* and *recapitulation,* the *contrasting middle* is a "loose" formal region that provides melodic and harmonic contrast. Because it is a looser region, it is not commonly expressed by a theme type. If anything, unpredictability is typical. Nonetheless, we often find "loosening" devices, such as fragmentation, sequence, and modulation. And as a means of providing harmonic contrast, *contrasting middles* tend to emphasize dominant harmony. To mark their end, provide contrast, and prepare the return of tonic in the *recapitulation,* these sections invariably have dominant harmony at their close. This may be expressed as a I:HC, V:PAC, or in simpler cases, the entire *contrasting middle* may prolong dominant harmony through a "standing on the dominant." 
 
 <figure>	
-  <img src="/graphics/k284.png">
+  <img src="/Graphics/form/k284.png">
   <figcaption>Mozart, Piano Sonata in D major, K. 284, "Tema con variazione".</figcaption>
 </figure> 
  
