@@ -79,6 +79,7 @@ title: Table of Contents
 [The period.](period.html)  
 [Hybrid themes.](hybridThemes.html)  
 [Compound themes.](compoundThemes.html)  
+[The small ternary.](smallTernary.html)
 [External Expansions.](externalExpansions.html)  
 [Internal Expansions.](internalExpansions.html)  
 
