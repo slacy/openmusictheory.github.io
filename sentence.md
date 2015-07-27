@@ -11,10 +11,12 @@ A *sentence* is type of theme. Like the [*period*](period.html), the prototypica
 
 The presentation phrase begins the sentence and has two primary components, one melodic and the other harmonic. Melodically, it contains two repeated *basic ideas* (BI). Harmonically, it prolongs the tonic, by means of either a subsidiary harmonic progression or contrapuntal chords. (See the [Harmonic syntax resource](harmonicSyntax.html) for information on harmonic prolongation.)
 
-**Mozart, K. 283, i., mm. 1–4:**  
-[![](Graphics/form/k283-presentation.png)](Graphics/form/k283-presentation.png)
+<figure>	
+  <img src="/Graphics/form/k283-presentation.png">
+  <figcaption>Mozart, K. 283, i., mm. 1–4</figcaption>
+</figure>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:1sknTFvB6zFOtSoyDcqM23" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:1sknTFvB6zFOtSoyDcqM23" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
 Here, the basic idea begins with the pickup to measure 1 and ends with the F-sharp on the downbeat of m. 2. It’s then repeated. Notice that a basic idea does not need to be repeated exactly. Rather, a basic idea is characterized by its melodic and motivic components, which usually involve rhythm and melodic contour.
 
@@ -38,9 +40,11 @@ Continuation phrases begin with continuation function. We usually characterize c
 - Accelerated Melodic Rhythm  
 - Acceleration of harmonic rhythm
 
-**Mozart, K. 283, i., mm. 1–10:**  
-[![](Graphics/form/k283-continuation.png)](Graphics/form/k283-continuation.png)  
-[![](Graphics/form/k283-cadential.png)](Graphics/form/k283-cadential.png)  
+<figure>	
+  <img src="/Graphics/form/k283-continuation.png">
+  <img src="/Graphics/form/k283-cadential.png">
+  <figcaption>Mozart, K. 283, I, mm. 1–10</figcaption>
+</figure>
 
 In this example, the dotted rhythm that formed one half of the basic idea in mm. 1–4 is fragmented beginning with the pickup to m. 5: the two-measure size established by the basic ideas in the presentation is cut into smaller fragments—here, one-measure long fragments.
 

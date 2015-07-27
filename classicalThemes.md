@@ -15,7 +15,7 @@ Sentence
 
 For details, click [here](sentence.html).
 
-<img src="Graphics/ClassicalThemes/sentence.svg" onerror="this.src='Graphics/ClassicalThemes/sentence.png'">
+<a href url="sentence.html"><img src="Graphics/ClassicalThemes/sentence.svg" onerror="this.src='Graphics/ClassicalThemes/sentence.png'"></a>
 
 Period
 ------
