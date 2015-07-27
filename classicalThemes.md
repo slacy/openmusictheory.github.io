@@ -15,61 +15,52 @@ Sentence
 
 For details, click [here](sentence.html).
 
-![][sentence]
+<img src="Graphics/ClassicalThemes/sentence.svg" onerror="this.src='Graphics/ClassicalThemes/sentence.png'">
 
 Period
 ------
 
 For details, click [here](period.html).
 
-![][period]
+<img src="Graphics/ClassicalThemes/period.svg" onerror="this.src='Graphics/ClassicalThemes/period.png'">
+
 
 Hybrid themes
 -------------
 
 For further details, click [here](hybridThemes.html).
 
-![][hybrid1]
-![][hybrid2]
-![][hybrid3]
-![][hybrid4]
+<img src="Graphics/ClassicalThemes/hybrid1.svg" onerror="this.src='Graphics/ClassicalThemes/hybrid1.png'">
+<img src="Graphics/ClassicalThemes/hybrid2.svg" onerror="this.src='Graphics/ClassicalThemes/hybrid2.png'">
+<img src="Graphics/ClassicalThemes/hybrid3.svg" onerror="this.src='Graphics/ClassicalThemes/hybrid3.png'">
+<img src="Graphics/ClassicalThemes/hybrid4.svg" onerror="this.src='Graphics/ClassicalThemes/hybrid4.png'">
+
 
 Compound themes
 ---------------
 
 For further details, click [here](compoundThemes.html).
 
-![][16period-sent]
-![][16period-hybrid1]
-![][16period-hybrid3]
-![][16sent]
+<img src="Graphics/ClassicalThemes/16period-sent.svg" onerror="this.src='Graphics/ClassicalThemes/16period-sent.png'">
+<img src="Graphics/ClassicalThemes/16period-hybrid1.svg" onerror="this.src='Graphics/ClassicalThemes/16period-hybrid1.png'">
+<img src="Graphics/ClassicalThemes/16period-hybrid3.svg" onerror="this.src='Graphics/ClassicalThemes/16period-hybrid3.png'">
+<img src="Graphics/ClassicalThemes/16sentence.svg" onerror="this.src='Graphics/ClassicalThemes/16sentence.png'">
 
 Small Ternary
 ---------------
 
 For further details, click [here](smallTernary.html).
 
-![][smallTernary]
+<img src="Graphics/ClassicalThemes/smallTernary.svg" onerror="this.src='Graphics/ClassicalThemes/smallTernary.png'">
+
 
 Small Binary
 ---------------
 
 For further details, click [here](smallBinary.html).
 
-![][smallBinary]
+<img src="Graphics/ClassicalThemes/smallBinary.svg" onerror="this.src='Graphics/ClassicalThemes/smallBinary.png'">
 
 
 
-[sentence]: Graphics/ClassicalThemes/sentence.png
-[period]: Graphics/ClassicalThemes/period.png
-[hybrid1]: Graphics/ClassicalThemes/hybrid1.png
-[hybrid2]: Graphics/ClassicalThemes/hybrid2.png
-[hybrid3]: Graphics/ClassicalThemes/hybrid3.png
-[hybrid4]: Graphics/ClassicalThemes/hybrid4.png
-[16period-sent]: Graphics/ClassicalThemes/16period-sent.png
-[16period-hybrid1]: Graphics/ClassicalThemes/16period-hybrid1.png
-[16period-hybrid3]: Graphics/ClassicalThemes/16period-hybrid3.png
-[16sent]: Graphics/ClassicalThemes/16sentence.png
-[smallTernary]: Graphics/ClassicalThemes/smallTernary.png
-[smallBinary]: Graphics/ClassicalThemes/smallBinary.png
 
