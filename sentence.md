@@ -7,6 +7,11 @@ A *sentence* is type of theme. Like the [*period*](period.html), the prototypica
 
 ![](Graphics/ClassicalThemes/sentence.png)
 
+<object data="sentence.svg" type="image/svg+xml">
+  <img src="sentence.png" />
+</object>
+
+
 ## Presentation phrase (mm. 1–4) ##
 
 The presentation phrase begins the sentence and has two primary components, one melodic and the other harmonic. Melodically, it contains two repeated *basic ideas* (BI). Harmonically, it prolongs the tonic, by means of either a subsidiary harmonic progression or contrapuntal chords. (See the [Harmonic syntax resource](harmonicSyntax.html) for information on harmonic prolongation.)
