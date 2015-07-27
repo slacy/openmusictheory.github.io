@@ -7,7 +7,7 @@ A *sentence* is type of theme. Like the [*period*](period.html), the prototypica
 
 ![](Graphics/ClassicalThemes/sentence.png)
 
-<object data="sentence.svg" type="image/svg+xml">
+<object data="Graphics/ClassicalThemes/sentence.svg" type="image/svg+xml">
   <img src="sentence.png" />
 </object>
 
