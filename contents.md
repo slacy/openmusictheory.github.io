@@ -1,187 +1,181 @@
-<hr />
+---
+layout: post
+title: Table of Contents
+---
 
-<p>layout: post</p>
+## Introduction
 
-<h2 id="title_table_of_contents">title: Table of Contents</h2>
+[Introduction to this “textbook” (for instructors & scholars).](about.md)
 
-<h2 id="introduction">Introduction</h2>
+## Fundamentals
 
-<p><a href="about.html">Introduction to this &#8220;textbook&#8221; (for instructors &amp; scholars).</a>  </p>
+[Basic notation.](basicNotation.md)   
+[Meter.](meter.md)   
+[Protonotation.](protonotation.md)   
+[Rhythmic values.](rhythmicValues.md)   
+[Beams and borrowed divisions.](beams.md)   
+[Pitches.](pitches.md)   
+[Scales and scale degrees.](scales.md)   
+[Key signatures.](keySignatures.md)   
+[Intervals.](intervals.md)   
+[Triads and seventh chords.](triads.md)   
+[Types of motion.](motionTypes.md)
 
-<h2 id="fundamentals">Fundamentals</h2>
+## Voice-leading and model composition
 
-<p><a href="basicNotation.html">Basic notation.</a> <br />
-<a href="meter.html">Meter.</a> <br />
-<a href="protonotation.html">Protonotation.</a> <br />
-<a href="rhythmicValues.html">Rhythmic values.</a> <br />
-<a href="beams.html">Beams and borrowed divisions.</a> <br />
-<a href="pitches.html">Pitches.</a> <br />
-<a href="scales.html">Scales and scale degrees.</a> <br />
-<a href="keySignatures.html">Key signatures.</a> <br />
-<a href="intervals.html">Intervals.</a> <br />
-<a href="triads.html">Triads and seventh chords.</a> <br />
-<a href="motionTypes.html">Types of motion.</a>  </p>
+[Introduction to strict voice-leading.](speciesIntro.md)
 
-<h2 id="voice_leading_and_model_composition">Voice-leading and model composition</h2>
+### Strict two-voice composition (species counterpoint)
 
-<p><a href="speciesIntro.html">Introduction to strict voice-leading.</a>  </p>
+[Composing a cantus firmus.](cantusFirmus.md)   
+[Composing a first-species counterpoint.](firstSpecies.md)   
+[Composing a second-species counterpoint.](secondSpecies.md)   
+[Composing a third-species counterpoint.](thirdSpecies.md)   
+[Composing a fourth-species counterpoint.](fourthSpecies.md)
 
-<h3 id="strict_two_voice_composition_species_counterpoint">Strict two-voice composition (species counterpoint)</h3>
+### Strict four-voice composition
 
-<p><a href="cantusFirmus.html">Composing a cantus firmus.</a> <br />
-<a href="firstSpecies.html">Composing a first-species counterpoint.</a> <br />
-<a href="secondSpecies.html">Composing a second-species counterpoint.</a> <br />
-<a href="thirdSpecies.html">Composing a third-species counterpoint.</a> <br />
-<a href="fourthSpecies.html">Composing a fourth-species counterpoint.</a>  </p>
+[Introduction to thoroughbass.](thoroughbassFigures.md)   
+[A brief history of _basso continuo_.](bassoContinuo-history.md)   
+[Generating Roman numerals from a figured bass line.](RNfromFB.md)   
+[Composing in _basso-continuo_ style.](bassoContinuo.md)   
+[Style and tendency.](tendency.md)   
+[Tendency tones and functional harmonic dissonances.](tendencyTonesFunctionalDissonances.md)   
+[Realizing a figured bass in strict basso continuo style (video).](TBDemo.md)
 
-<h3 id="strict_four_voice_composition">Strict four-voice composition</h3>
+[Melodic keyboard style voice-leading.](melodicKeyboardStyle.md)   
+[Melodic keyboard-style voice-leading schemata.](KBVLschemata.md)   
+[Realizing a figured bass line in melodic keyboard style (video).](melodicKB.md)   
+[Realizing an unfigured bass line (video).](unfiguredBass.md)
 
-<p><a href="thoroughbassFigures.html">Introduction to thoroughbass.</a> <br />
-<a href="bassoContinuo-history.html">A brief history of <em>basso continuo</em>.</a> <br />
-<a href="RNfromFB.html">Generating Roman numerals from a figured bass line.</a> <br />
-<a href="bassoContinuo.html">Composing in <em>basso-continuo</em> style.</a> <br />
-<a href="tendency.html">Style and tendency.</a> <br />
-<a href="tendencyTonesFunctionalDissonances.html">Tendency tones and functional harmonic dissonances.</a> <br />
-<a href="TBDemo.html">Realizing a figured bass in strict basso continuo style (video).</a>  </p>
+[Embellishing tones.](embellishingTones.md)
 
-<p><a href="melodicKeyboardStyle.html">Melodic keyboard style voice-leading.</a> <br />
-<a href="KBVLschemata.html">Melodic keyboard-style voice-leading schemata.</a> <br />
-<a href="melodicKB.html">Realizing a figured bass line in melodic keyboard style (video).</a> <br />
-<a href="unfiguredBass.html">Realizing an unfigured bass line (video).</a>  </p>
+## Harmony
 
-<p><a href="embellishingTones.html">Embellishing tones.</a>  </p>
+[Introduction to musical functions.](functions.md)   
+[Harmonic functions.](harmonicFunctions.md)   
+[Harmonic syntax - the idealized phrase.](harmonicSyntax1.md)   
+[Harmonic syntax - prolongation.](harmonicSyntax2.md)   
+[Performing a harmonic analysis.](harmonicAnalysis.md)
 
-<h2 id="harmony">Harmony</h2>
+[Classical cadence types.](cadenceTypes.md)   
+[Chromatically altered subdominant chords.](alteredSubdominants.md)   
+[Applied chords.](appliedChords.md)   
+[Modal mixture.](modalMixture.md)   
+[Modulation.](Modulation.md)
 
-<p><a href="functions.html">Introduction to musical functions.</a> <br />
-<a href="harmonicFunctions.html">Harmonic functions.</a> <br />
-<a href="harmonicSyntax1.html">Harmonic syntax - the idealized phrase.</a> <br />
-<a href="harmonicSyntax2.html">Harmonic syntax - prolongation.</a> <br />
-<a href="harmonicAnalysis.html">Performing a harmonic analysis.</a></p>
+#### Handouts and charts
 
-<p><a href="cadenceTypes.html">Classical cadence types.</a> <br />
-<a href="alteredSubdominants.html">Chromatically altered subdominant chords.</a> <br />
-<a href="appliedChords.html">Applied chords.</a> <br />
-<a href="modalMixture.html">Modal mixture.</a> <br />
-<a href="Modulation.html">Modulation.</a>  </p>
+[Lead-sheet and figured-bass symbols.](Graphics/Handouts/LSandFBsymbols.pdf)   
+[Harmonies (Roman numerals and functional bass) by bass scale degree.](Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)
 
-<h4 id="handouts_and_charts">Handouts and charts</h4>
+## Form
 
-<p><a href="Graphics/Handouts/LSandFBsymbols.pdf">Lead-sheet and figured-bass symbols.</a> <br />
-<a href="Graphics/Handouts/HarmoniesByBassScaleDegree.pdf">Harmonies (Roman numerals and functional bass) by bass scale degree.</a></p>
+### Thematic Structure in the Classical Style
 
-<h2 id="form">Form</h2>
+[Introduction to Thematic Structure in the Classical Style.](thematicStructureInTheClassicalStyle.md)   
+[Classical theme types.](classicalThemes.md)   
+[The sentence.](sentence.md)   
+[The period.](period.md)   
+[Hybrid themes.](hybridThemes.md)   
+[Compound themes.](compoundThemes.md)   
+[The small ternary.](smallTernary.md)   
+[External Expansions.](externalExpansions.md)   
+[Internal Expansions.](internalExpansions.md)
 
-<h3 id="thematic_structure_in_the_classical_style">Thematic Structure in the Classical Style</h3>
+### Sonata Form
 
-<p><a href="thematicStructureInTheClassicalStyle.html">Introduction to Thematic Structure in the Classical Style.</a> <br />
-<a href="classicalThemes.html">Classical theme types.</a> <br />
-<a href="sentence.html">The sentence.</a> <br />
-<a href="period.html">The period.</a> <br />
-<a href="hybridThemes.html">Hybrid themes.</a> <br />
-<a href="compoundThemes.html">Compound themes.</a> <br />
-<a href="smallTernary.html">The small ternary.</a> <br />
-<a href="externalExpansions.html">External Expansions.</a> <br />
-<a href="internalExpansions.html">Internal Expansions.</a>  </p>
+[Introduction to Sonata Theory.](SonataTheory-intro.md)   
+[Sonata form: exposition types.](SonataTheory-exposition.md)   
+[Structural Points of Arrival.](sonataStructuralPointsOfArrival.md)   
+[Thematic Modules.](sonataThematicModules.md)   
+[Sonata form: the recapitulation.](sonataRecap.md)   
+[Sonata form: the development.](sonataDevelopment.md)   
+[Sonata form: framing modules (intro & coda).](sonataFramingModules.md)
 
-<h3 id="sonata_form">Sonata Form</h3>
+### Rondo Form
 
-<p><a href="SonataTheory-intro.html">Introduction to Sonata Theory.</a> <br />
-<a href="SonataTheory-exposition.html">Sonata form: exposition types.</a> <br />
-<a href="sonataStructuralPointsOfArrival.html">Structural Points of Arrival.</a> <br />
-<a href="sonataThematicModules.html">Thematic Modules.</a> <br />
-<a href="sonataRecap.html">Sonata form: the recapitulation.</a> <br />
-<a href="sonataDevelopment.html">Sonata form: the development.</a> <br />
-<a href="sonataFramingModules.html">Sonata form: framing modules (intro &amp; coda).</a> </p>
+[Introduction to Rondo form.](rondo.md)   
+[Thematic Function in Rondo Form.](thematicFunctionInRondo.md)   
+[Five-Part Rondo.](fivePartRondo.md)   
+[Sonata Rondo.](sonataRondo.md)
 
-<h3 id="rondo_form">Rondo Form</h3>
+### Other formal structures in the classical style
 
-<p><a href="rondo.html">Introduction to Rondo form.</a> <br />
-<a href="thematicFunctionInRondo.html">Thematic Function in Rondo Form.</a> <br />
-<a href="fivePartRondo.html">Five-Part Rondo.</a> <br />
-<a href="sonataRondo.html">Sonata Rondo.</a>  </p>
+[Minuet form.](minuet.md)
 
-<h3 id="other_formal_structures_in_the_classical_style">Other formal structures in the classical style</h3>
+### Galant Schemata
 
-<p><a href="minuet.html">Minuet form.</a>  </p>
+[Galant schemata – summary.](schemataSummary.md)   
+[Improvising a sentence with galant schemata.](schemata-improv.md)
 
-<h3 id="galant_schemata">Galant Schemata</h3>
+## Post-tonal music
 
-<p><a href="schemataSummary.html">Galant schemata – summary.</a> <br />
-<a href="schemata-improv.html">Improvising a sentence with galant schemata.</a>  </p>
+### Basics
 
-<!--
-[Galant Schemata: Opens and Closes](schemataOpensAndCloses.html)  
-[Galant Schemata: Continuation Patterns](schemataContinuationPatterns.html)
--->
+[Pitch (class).](pitch(Class).md)   
+[Interval (class).](interval(Class).md)   
+[Modular 12 arithmetic.](mod12.md)
 
-<h2 id="post_tonal_music">Post-tonal music</h2>
+### Organizing Forces
 
-<h3 id="basics">Basics</h3>
+[Collections and Scales.](scales2.md)   
+[Symmetry and Centricity.](symmetryAndCentricity.md)
 
-<p><a href="pitch(Class">Pitch (class).</a>.html) <br />
-<a href="interval(Class">Interval (class).</a>.html) <br />
-<a href="mod12.html">Modular 12 arithmetic.</a>    </p>
+### Set Theory
 
-<h3 id="organizing_forces">Organizing Forces</h3>
+Pitch-Class Sets.   
+[Normal Order.](normalOrder.md)   
+[Tranposition.](transposition.md)   
+[Inversion.](inversion.md)   
+[Set Class and Prime Form (1).](setClassAndPrimeForm1.md)   
+[Set Class and Prime Form (2).](setClassAndPrimeForm2.md)   
+[Complements.](complements.md)   
+[Common Tones under Transposition.](commonTonesUnderTransposition.md)   
+Common Tones under Inversion.   
+Tranpositional Symmetry.
 
-<p><a href="scales2.html">Collections and Scales.</a> <br />
-<a href="symmetryAndCentricity.html">Symmetry and Centricity.</a>  </p>
+### Twelve-Tone Theory
 
-<h3 id="set_theory">Set Theory</h3>
+[Basics.](twelveToneBasics.md)   
+[Operations.](twelveToneOperations.md)   
+[Intervallic Structure.](twelveToneIntervallicStructure.md)   
+[Derivation.](twelveToneMusicDerivation.md)   
+[Invariance.](twelveToneMusicInvariance.md)
 
-<p>Pitch-Class Sets. <br />
-<a href="normalOrder.html">Normal Order.</a> <br />
-<a href="transposition.html">Tranposition.</a> <br />
-<a href="inversion.html">Inversion.</a> <br />
-<a href="setClassAndPrimeForm1.html">Set Class and Prime Form (1).</a> <br />
-<a href="setClassAndPrimeForm2.html">Set Class and Prime Form (2).</a> <br />
-<a href="complements.html">Complements.</a> <br />
-<a href="commonTonesUnderTransposition.html">Common Tones under Transposition.</a> <br />
-Common Tones under Inversion. <br />
-Tranpositional Symmetry.  </p>
+### General post-tonal resources
 
-<h3 id="twelve_tone_theory">Twelve-Tone Theory</h3>
+[Analyzing a post-tonal piece from scratch.](postTonalAnalysis.md)   
+[Analyzing atonal music.](atonal.md)   
+[Analyzing 12-tone music.](twelveTone.md)   
+[Glossary of atonal musical terms.](atonalGlossary.md)   
+[Sheet of blank chromatic-scale clock faces.](Graphics/blankClockFaces.pdf)
 
-<p><a href="twelveToneBasics.html">Basics.</a> <br />
-<a href="twelveToneOperations.html">Operations.</a> <br />
-<a href="twelveToneIntervallicStructure.html">Intervallic Structure.</a> <br />
-<a href="twelveToneMusicDerivation.html">Derivation.</a> <br />
-<a href="twelveToneMusicInvariance.html">Invariance.</a>  </p>
+## Pop/rock music
 
-<h3 id="general_post_tonal_resources">General post-tonal resources</h3>
+### Rhythm
 
-<p><a href="postTonalAnalysis.html">Analyzing a post-tonal piece from scratch.</a> <br />
-<a href="atonal.html">Analyzing atonal music.</a> <br />
-<a href="twelveTone.html">Analyzing 12-tone music.</a> <br />
-<a href="atonalGlossary.html">Glossary of atonal musical terms.</a> <br />
-<a href="Graphics/blankClockFaces.pdf">Sheet of blank chromatic-scale clock faces.</a></p>
+[Syncopation in pop/rock music.](syncopation.md)
 
-<h2 id="pop_rock_music">Pop/rock music</h2>
+### Harmony
 
-<h3 id="rhythm">Rhythm</h3>
+[Harmony in pop/rock music.](popRockHarmony.md)   
+[The “50s doo-wop” progression.](popRockHarmony-dooWop.md)   
+[The “Singer/Songwriter” progression.](popRockHarmony-sscp.md)   
+[The “Puff” progression.](popRockHarmony-puff.md)   
+[The blues progression.](popRockHarmony-blues.md)   
+[The lament progression.](popRockHarmony-lament.md)   
+[The circle-of-fifths progression (in minor)](popRockHarmony-fifths.md)   
+[Plagal progressions.](popRockHarmony-plagal.md)
 
-<p><a href="syncopation.html">Syncopation in pop/rock music.</a>  </p>
+### Form
 
-<h3 id="harmony">Harmony</h3>
+[Form in pop/rock music.](popRockForm.md)
 
-<p><a href="popRockHarmony.html">Harmony in pop/rock music.</a> <br />
-<a href="popRockHarmony-dooWop.html">The “50s doo-wop” progression.</a> <br />
-<a href="popRockHarmony-sscp.html">The “Singer/Songwriter” progression.</a> <br />
-<a href="popRockHarmony-puff.html">The “Puff” progression.</a> <br />
-<a href="popRockHarmony-blues.html">The blues progression.</a> <br />
-<a href="popRockHarmony-lament.html">The lament progression.</a> <br />
-<a href="popRockHarmony-fifths.html">The circle-of-fifths progression (in minor)</a> <br />
-<a href="popRockHarmony-plagal.html">Plagal progressions.</a>  </p>
+## Text and music
 
-<h3 id="form">Form</h3>
+[Analyzing poetry.](analyzingPoetry.md)
 
-<p><a href="popRockForm.html">Form in pop/rock music.</a>  </p>
+## Technology
 
-<h2 id="text_and_music">Text and music</h2>
-
-<p><a href="analyzingPoetry.html">Analyzing poetry.</a>  </p>
-
-<h2 id="technology">Technology</h2>
-
-<p><a href="trinket.html">Using Trinket (interactive music notation).</a>  </p>
+[Using Trinket (interactive music notation).](trinket.md)
