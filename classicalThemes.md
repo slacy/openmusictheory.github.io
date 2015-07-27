@@ -44,6 +44,21 @@ For further details, click [here](compoundThemes.html).
 ![][16period-hybrid3]
 ![][16sent]
 
+Small Ternary
+---------------
+
+For further details, click [here](smallTernary.html).
+
+![][smallTernary]
+
+Small Binary
+---------------
+
+For further details, click [here](smallBinary.html).
+
+![][smallBinary]
+
+
 
 [sentence]: Graphics/ClassicalThemes/sentence.png
 [period]: Graphics/ClassicalThemes/period.png
@@ -55,4 +70,6 @@ For further details, click [here](compoundThemes.html).
 [16period-hybrid1]: Graphics/ClassicalThemes/16period-hybrid1.png
 [16period-hybrid3]: Graphics/ClassicalThemes/16period-hybrid3.png
 [16sent]: Graphics/ClassicalThemes/16sentence.png
+[smallTernary]: Graphics/ClassicalThemes/smallTernary.png
+[smallBinary]: Graphics/ClassicalThemes/smallBinary.png
 

@@ -7,6 +7,11 @@ Like the smaller [sentence](sentence.html), [period](period.html), and [hybrid](
 
 This theme type is normally expressed through three [thematic functions](themeFunctions.html): "exposition (A)," "contrasting middle (B)," and "recapitulation (A)." 
 
+<figure>	
+  <img src="/Graphics/ClassicalThemes/smallTernary.png">
+  <figcaption>The small ternary</figcaption>
+</figure> 
+
 ###Three thematic functions
 The *exposition* and *recapitulation* are "tight-knit" functions usually expressed by one of the smaller theme types. Each ends with a cadence. Most commonly, a small-ternary's *exposition* will end with a I:PAC, but the exposition may also modulate to a closely related key. In major-mode pieces, a typical modulation will yield an exposition ending with a V:PAC, while in the minor mode, the mediant (III:PAC) key area is more common. 
 

@@ -7,6 +7,12 @@ The small binary often fulfills a structural role similar to that as the small t
 
 Small binaries have two parts, each of which is usually repeated. Unlike the ["rounded binary,"](smallTernary.html##Binary characteristics) small binaries *do not* include a recapitulation of the material heard in the *first part*.
 
+<figure>	
+  <img src="/Graphics/ClassicalThemes/smallBinary.png">
+  <figcaption>The small binary</figcaption>
+</figure> 
+
+
 ###First part
 Typically constructed as tight-knit [period](period.html), [sentence](sentence.html), or [hybrid](hybridThemes.html), the *first part* ends with cadential articulation in the home key or a closely related one. Because a small binary is often smaller than that of the *small ternary,* it is not uncommon to find a I:HC at the close of the first part.
 
