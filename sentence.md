@@ -5,12 +5,9 @@ title: The sentence
 
 A *sentence* is type of theme. Like the [*period*](period.html), the prototypical sentence is eight measures long and contains two four-measure phrases. The first of these is called the *presentation phrase* and the second is the *continuation phrase*.
 
-![](Graphics/ClassicalThemes/sentence.png)
+<!-->![](Graphics/ClassicalThemes/sentence.png)-->
 
-<object data="Graphics/ClassicalThemes/sentence.svg" type="image/svg+xml">
-  <img src="sentence.png" />
-</object>
-
+<img src="Graphics/ClassicalThemes/sentence.svg" onerror="this.src='Graphics/ClassicalThemes/sentence.png'">
 
 ## Presentation phrase (mm. 1–4) ##
 
