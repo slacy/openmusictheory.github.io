@@ -83,7 +83,7 @@ title: Table of Contents
 [The small ternary.](smallTernary.html)  
 [The small binary.](smallBinary.html)
 
-[Theme type reference.](classicalThemes.html)
+[Theme type reference.](classicalThemes.html)  
 [Thematic function reference.](themeFunctions.html)
 
 ####Techniques of Phrase Rhythm  
