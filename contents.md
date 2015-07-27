@@ -75,7 +75,7 @@ title: Table of Contents
 
 [Introduction to Thematic Structure in the Classical Style.](thematicStructureInTheClassicalStyle.html)   
 
-####[Classical theme types.](classicalThemes.html)   
+####Classical theme types.   
 [The sentence.](sentence.html)   
 [The period.](period.html)   
 [Hybrid themes.](hybridThemes.html)   
@@ -83,13 +83,17 @@ title: Table of Contents
 [The small ternary.](smallTernary.html)  
 [The small binary.](smallBinary.html)
 
+[Theme type reference.](classicalThemes.html)
+[Thematic function reference.](themeFunctions.html)
+
 ####Techniques of Phrase Rhythm  
 [External Expansions.](externalExpansions.html)   
 [Internal Expansions.](internalExpansions.html)
 
 ### Sonata Form
 
-[Introduction to Sonata Theory.](SonataTheory-intro.html)   
+[Introduction to Sonata Theory.](SonataTheory-intro.html) 
+  
 [Sonata form: exposition types.](SonataTheory-exposition.html)   
 [Structural Points of Arrival.](sonataStructuralPointsOfArrival.html)   
 [Thematic Modules.](sonataThematicModules.html)   

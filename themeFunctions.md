@@ -10,7 +10,7 @@ This page is a quick-reference. For examples of these functions in musical conte
 
 # Presentation #
 
-*Presentation function* comes at the *beginning* of a theme or phrase. It involves the *establishment of the primary melodic material* (usually through the use of one or more statments of a *basic idea*) and the *establishment of the tonality of the theme* (usually through *tonic prolongation*). 
+*Presentation function* comes at the *beginning* of a theme or phrase. It involves the *establishment of the primary melodic material* (usually through the use of one or more statements of a *basic idea*) and the *establishment of the tonality of the theme* (usually through *tonic prolongation*). 
 
 # Continuation function #
 
