@@ -21,10 +21,6 @@ The presentation phrase begins the sentence and has two primary components, one 
 </audio>
 <a href="#" id="audioControl">play!</a>
 
-<menu class="medium">
- <button class="play"></button>
-</menu>
-
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:1sknTFvB6zFOtSoyDcqM23" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
