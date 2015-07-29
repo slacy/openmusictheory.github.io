@@ -12,9 +12,11 @@ A *sentence* is type of theme. Like the [*period*](period.html), the prototypica
 The presentation phrase begins the sentence and has two primary components, one melodic and the other harmonic. Melodically, it contains two repeated *basic ideas* (BI). Harmonically, it prolongs the tonic, by means of either a subsidiary harmonic progression or contrapuntal chords. (See the [Harmonic syntax resource](harmonicSyntax.html) for information on harmonic prolongation.)
 
 <figure>	
-  <img src="/Graphics/form/k283-presentation.png">
+  <img src="/Graphics/form/k283-presentation.svg" onerror="this.src='Graphics/ClassicalThemes/sentence.png'" >
   <figcaption>Mozart, K. 283, i., mm. 1–4</figcaption>
 </figure>
+
+
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:1sknTFvB6zFOtSoyDcqM23" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
