@@ -43,8 +43,7 @@ Continuation phrases begin with continuation function. We usually characterize c
 - Acceleration of harmonic rhythm
 
 <figure>	
-  <img src="/Graphics/form/k283-continuation.png">
-  <img src="/Graphics/form/k283-cadential.png">
+  <img src="/Graphics/form/k283.png">
   <figcaption>Mozart, K. 283, I, mm. 1–10</figcaption>
 </figure>
 
