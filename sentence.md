@@ -16,8 +16,6 @@ The presentation phrase begins the sentence and has two primary components, one 
   <figcaption>Mozart, K. 283, i., mm. 1–4</figcaption>
 </figure>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:1sknTFvB6zFOtSoyDcqM23" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
-
 Here, the basic idea begins with the pickup to m. 1 and ends with the F-sharp on the downbeat of m. 2. It’s then repeated. Though a basic idea is often exactly repeated, this example shows that it need not be. Rather, a basic idea is defined more abstractly by its rhythm and melodic contour, and thus, varied repetitions like this are possible.
 
 Harmonically, these four measures prolong tonic. Measures two and three are contrapuntal chords that are surrounded by the tonic:
@@ -44,6 +42,10 @@ Continuation phrases begin with [*continuation function*](themeFunctions.html#co
   <img src="/Graphics/form/k283.png">
   <figcaption>Mozart, K. 283, I, mm. 1–10</figcaption>
 </figure>
+
+<iframe src="https://embed.spotify.com/?uri=spotify:track:1sknTFvB6zFOtSoyDcqM23" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+
+
 
 This example exhibits all five characteristics. The basic idea creates a normative unit that is two measures in length. Beginning with the pickup to m. 5, that normative size is *fragmented* into one-measure units whose second half is *sequenced* one step lower. At m. 7 *increased surface rhythm* is matched with an *acceleration of harmonic rhythm* as the pianist's sixteenth notes occur above a hemiola in the pianist's left hand.
 
