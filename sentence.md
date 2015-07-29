@@ -16,6 +16,10 @@ The presentation phrase begins the sentence and has two primary components, one 
   <figcaption>Mozart, K. 283, i., mm. 1–4</figcaption>
 </figure>
 
+<audio id="yourAudio" preload='none'>
+    <source src='http://burrito.whatbox.ca:15263/imglnks/usimg/2/2a/IMSLP243923-PMLP01837-mozart_K283_jumppanen.mp3' type='audio/mp3' />
+</audio>
+<a href="#" id="audioControl">play!</a>
 
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:1sknTFvB6zFOtSoyDcqM23" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>

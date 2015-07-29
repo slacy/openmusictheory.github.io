@@ -39,6 +39,25 @@
                 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
             })();
         </script>
+		<script>
+		    /* * * For Audio Player * * */
+		var yourAudio = document.getElementById('yourAudio'),
+		    ctrl = document.getElementById('audioControl');
+
+		ctrl.onclick = function () {
+
+		    // Update the Button
+		    var pause = ctrl.innerHTML === 'pause!';
+		    ctrl.innerHTML = pause ? 'play!' : 'pause!';
+
+		    // Update the Audio
+		    var method = pause ? 'pause' : 'play';
+		    yourAudio[method]();
+
+		    // Prevent Default Action
+		    return false;
+		};
+		</script>	
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
         <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       </aside>
