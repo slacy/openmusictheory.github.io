@@ -42,7 +42,7 @@ Consequent phrases always begin with a restatement of the BI, occasionally varie
 
 <figure>	
   <img src="/Graphics/form/xv27.png">
-  <figcaption>Consequent: Haydn, Piano Trio in C major, Hob. XV:27, III, mm. 1-8 </figcaption>
+  <figcaption>Antecedent + Consequent: Haydn, Piano Trio in C major, Hob. XV:27, III, mm. 1-8 </figcaption>
 </figure> 
 
 In this example, the BI is restated exactly at the beginning of the consequent. The concluding CI is a slight variation of the end of the antecedent, altered here to create a PAC.
