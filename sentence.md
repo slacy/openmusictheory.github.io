@@ -13,7 +13,7 @@ The presentation phrase begins the sentence and has two primary components, one 
 
 <figure>	
   <img src="/Graphics/form/k283-presentation.png">
-  <figcaption>Mozart, K. 283, i., mm. 1–4</figcaption>
+  <figcaption>Presentation: Mozart, K. 283, i., mm. 1–4</figcaption>
 </figure>
 
 Here, the basic idea begins with the pickup to m. 1 and ends with the F-sharp on the downbeat of m. 2. It’s then repeated. Though a basic idea is often exactly repeated, this example shows that it need not be. Rather, a basic idea is defined more abstractly by its rhythm and melodic contour, and thus, varied repetitions like this are possible.
@@ -40,7 +40,7 @@ Continuation phrases begin with [*continuation function*](themeFunctions.html#co
 
 <figure>	
   <img src="/Graphics/form/k283.png">
-  <figcaption>Mozart, K. 283, I, mm. 1–10</figcaption>
+  <figcaption>Presentation + Continuation: Mozart, K. 283, I, mm. 1–10</figcaption>
 </figure>
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:1sknTFvB6zFOtSoyDcqM23" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
