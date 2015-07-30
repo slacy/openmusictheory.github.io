@@ -34,6 +34,8 @@ Supporting the CI is an expanded cadential progression:
 or  
 **T3 S(4 [+]) D5**
 
+<!--The formal functional progression in this example is identical to the antecedent (which is often the case): the BI exhibits presentation function, and the CI exhibits continuation–cadential function. Note that Haydn uses a single subdominant chord in the consequent (the applied chord from the antecedent has been dropped) and moves to the dominant one beat earlier so that the PAC’s tonic arrival can come on the downbeat of the last bar of the phrase. This compression of the cadential progression to accommodate the additional tonic chord at the end is common.-->
+
 ## Consequent phrase (mm. 5–8) ##
 
 Consequent phrases always begin with a restatement of the BI, occasionally varied, and end with a CI. A consequent phrase's CI often resembles the antecedent's, but slightly altered to accommodate a stronger cadence. It's also common for a consequent to be entirely new. While a sentence can close with a number of cadence types, the period's consequent phrase always ends with a PAC:
