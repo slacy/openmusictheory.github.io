@@ -22,17 +22,20 @@ A prototypical example is found in the first eight measures of Mozart's Piano So
 
 ## Hybrid 2 ##
 
-Hybrid 2 similarly begins with an antecedent phrase, but follows with a four-bar-long cadential progression.
+Hybrid 2 combines an antecedent phrase with a four-measure cadential progression.
 
 <img src="Graphics/ClassicalThemes/hybrid2.svg" onerror="this.src='Graphics/ClassicalThemes/hybrid2.png'">
-
-A prototypical example can be found in Haydn's String Quartet in G major, Hob. III:66, II., mm. 1–8.
 
 <figure>	
   <img src="/Graphics/form/haydn-III-66-ii.png">
   <figcaption>Haydn, String Quartet in G major, Hob. III:66, II, mm. 1–8</figcaption>
 </figure>
 
+Here, the four measures subsequent to the antecedent support a single cadential progression: 
+
+> **I6 ii6/5 V I**  
+
+Notice that this four-measure phrase does not display any markers of [continuation function](themeFunctions.html#continuation). 
 
 ## Hybrid 3 ##
 
