@@ -3,22 +3,22 @@ layout: post
 title: Hybrid themes
 ---
 
-Hybrid themes generally combine the features of sentences and periods. See the pages on [the sentence](sentence.html), [the period](period.html), and [Classical theme functions](themeFunctions.html) for more information on the elements included in hybrid themes.
+Hybrid themes mixes the [functional features](themeFunctions.html) of [sentences](sentence.html) and [periods](period.html). William Caplin has identified four primary types: 
 
 ## Hybrid 1 ##
 
-Hybrid 1 combines the antecedent phrase (typically associated with the period) with the continuation phrase (typically associated with the sentence).
+Hybrid 1 combines an [antecedent phrase](themeFunctions.html#antecedent) with a [continuation phrase](themeFunctions.html#continuation).
 
 <img src="Graphics/ClassicalThemes/hybrid1.svg" onerror="this.src='Graphics/ClassicalThemes/hybrid1.png'">
 
-This results in a complete presentation–continuation–cadential function progression in the antecedent phrase followed by an incomplete continuation–cadential function progression. On the large scale, the antecedent phrase functions like a big presentation function zone (like the presentation phrase does).
-
-A prototypical example can be found in Mozart's Piano Sonata in C major, II., mm. 1–8.
+<!--This results in a complete presentation–continuation–cadential function progression in the antecedent phrase followed by an incomplete continuation–cadential function progression. On the large scale, the antecedent phrase functions like a big presentation function zone (like the presentation phrase does).-->
 
 <figure>	
   <img src="/Graphics/form/k330-ii.png">
-  <figcaption>Mozart, Piano Sonata in C major, II, mm. 1–8</figcaption>
+  <figcaption>Antecedent + Continuation: Mozart, Piano Sonata in C major, K. 330 II, mm. 1–8</figcaption>
 </figure>
+
+A prototypical example is found in the first eight measures of Mozart's Piano Sonata in C major, II. The antecedent phrase contains a basic idea characterized by the repeated notes forming its anacrusis. This is followed by a contrasting idea formed from a scalar ascent leading to the phrase's half cadence. Following the antecedent phrase, the music begins to express continuation function, primarily through fragmentation and an increase in surface rhythm. The fragmentation uses the repeated notes from the antecedent's basic idea that is liquidated into conventional scalar figuration approaching the cadence.
 
 ## Hybrid 2 ##
 
