@@ -67,8 +67,8 @@ Hybrid 4 resembles the period, with the exception that the first phrase is compr
 <img src="Graphics/ClassicalThemes/hybrid4.svg" onerror="this.src='Graphics/ClassicalThemes/hybrid4.png'">
 
 <figure>	
-  <img src="/Graphics/form/op18-2-iv.png">
-  <figcaption>Beethoven, String Quartet in G major, Op. 18/2, IV., mm. 1–8</figcaption>
+  <img src="/Graphics/form/beethoven_18_2.png">
+  <figcaption>Compound Basic Idea + Consequent: Beethoven, String Quartet in G major, Op. 18/2, IV., mm. 1–8</figcaption>
 </figure>
 
 The cello's presentation of the initiating phrase contains two distinct melodic ideas. But this phrase's conclusion, on the C4 in m. 4, is not sufficient to create cadential closure. When the remaining strings enter in m. 5, they work through the same basic and contrasting ideas, but are able to create a I:PAC to close the consequent phrase. 
