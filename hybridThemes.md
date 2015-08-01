@@ -18,7 +18,9 @@ Hybrid 1 combines an [antecedent phrase](themeFunctions.html#antecedent) with a 
   <figcaption>Antecedent + Continuation: Mozart, Piano Sonata in C major, K. 330 II, mm. 1–8</figcaption>
 </figure>
 
-A prototypical example is found in the first eight measures of Mozart's Piano Sonata in C major, II. The antecedent phrase contains a basic idea characterized by the repeated notes forming its anacrusis. This is followed by a contrasting idea formed from a scalar ascent leading to the phrase's half cadence. Following the antecedent phrase, the music begins to express continuation function, primarily through fragmentation and an increase in surface rhythm. The fragmentation uses the repeated notes from the antecedent's basic idea that is liquidated into conventional scalar figuration approaching the cadence.
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A2l74mmkDhW5DxN7LNnkeSd" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+
+A prototypical example is found in the first eight measures of Mozart's Piano Sonata in C major, II. The antecedent phrase contains a basic idea characterized by the repeated notes forming its anacrusis. This is followed by a contrasting idea formed from a scalar ascent leading to the phrase's half cadence in m. 4. Following the antecedent phrase, the music begins to express continuation function, primarily through fragmentation and an increase in surface rhythm. In the middle of m. 6, the characteristic melodic motives are liquidated into conventional scalar figuration leading to a V:PAC.
 
 ## Hybrid 2 ##
 
@@ -31,6 +33,8 @@ Hybrid 2 combines an antecedent phrase with a four-measure cadential progression
   <figcaption>Antecedent + Cadential: Haydn, String Quartet in G major, Hob. III:66, II, mm. 1–8</figcaption>
 </figure>
 
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A2Dyh8LMXHEv4Hxchepyubj" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+
 Here, the four measures subsequent to the antecedent support a single cadential progression: 
 
 > **I6 ii6/5 V I**  
@@ -41,12 +45,12 @@ Notice that this four-measure phrase does not display any markers of [continuati
 
 ##The Compound Basic Idea
 
-Just as we sometimes find composers combining different features of the two primary thematic types, we also often find combinations of different types of phrase. The "compound basic idea," or CBI combines the melodic characteristics of the [antecedent](antecedent.html) with the harmonic characteristics of the [presentation](presentation.html) function. Like an antecedent, it presents a basic idea followed by a contrasting one. But like a presentation, the compound basic idea simply prolongs tonic, without ending in a cadence. 
+Just as we sometimes find composers combining different features of the two primary thematic types, we also often find combinations of different types of phrase. The "compound basic idea," or CBI, combines the melodic characteristics of the [antecedent function](antecedent.html) with the harmonic characteristics of the [presentation](presentation.html) function. Like an antecedent, it presents a basic idea followed by a contrasting one. But like a presentation, the compound basic idea simply prolongs tonic, without ending in a cadence. 
 
 
 ## Hybrid 3 ##
 
-The third hybrid type strongly resembles the [first](hybridThemes.html#hybrid-1). Rather than beginning with an initiating antecedent, however, its first phrase is a [CBI](hybridThemes.html#the-compound-basic-idea). Following the CBI, Hybrid 3 concludes with a continuation that ends with a cadence.
+The third hybrid type strongly resembles the [first hybrid](hybridThemes.html#hybrid-1). Rather than beginning with an initiating antecedent, however, its first phrase is a [CBI](hybridThemes.html#the-compound-basic-idea). Following the CBI, Hybrid 3 concludes with a continuation that ends with a cadence.
 
 <img src="Graphics/ClassicalThemes/hybrid3.svg" onerror="this.src='Graphics/ClassicalThemes/hybrid3.png'">
 
@@ -55,9 +59,11 @@ The third hybrid type strongly resembles the [first](hybridThemes.html#hybrid-1)
   <figcaption>Compound Basic Idea + Continuation: Beethoven, Violin Sonata, Op. 30, No. 2, III, mm. 1–8</figcaption>
 </figure>
 
-In this example, from Beethoven's Violin Sonata, Op. 30, the melodic structure of the initiating phrase contains two contrasting ideas, each of which begins with the same dotted figure. However, unlike a typical antecedent, the phrase only prolongs tonic as the V6 on the last beat of m. 3 only decorates the tonic through a lower neighbor motion rather than creating cadential articulation. Thus, the phrase is best understood as a "compound basic idea" that combines features of *antecedent* and *presentation* function.
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A2MeFF0iyjMts1juRwgDXAT" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-The concluding phrase is a typical continuation expressed through fragmentation, melodic sequence, and increased harmonic rhythm. Notice that this theme modulates to the dominant, ending there with a PAC. 
+In this example, from Beethoven's Violin Sonata, Op. 30, the melodic structure of the initiating phrase contains two contrasting ideas, each of which begins with the same dotted figure. However, unlike a typical antecedent, the phrase only prolongs tonic as the V6 on the last beat of m. 3 only decorates the tonic through a lower neighbor motion rather than creating cadential articulation. Thus, the phrase is best understood as a ["compound basic idea."](hybridThemes.html#the-compound-basic-idea)
+
+The concluding phrase is a typical continuation expressed through fragmentation, melodic sequence, and increased harmonic rhythm.
 
 
 ## Hybrid 4 ##
@@ -70,5 +76,7 @@ Hybrid 4 resembles the period, with the exception that the first phrase is compr
   <img src="/Graphics/form/beethoven_18_2.png">
   <figcaption>Compound Basic Idea + Consequent: Beethoven, String Quartet in G major, Op. 18/2, IV., mm. 1–8</figcaption>
 </figure>
+
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A5AevVo3SRuHLJIZpz0WT6N" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
 The cello's presentation of the initiating phrase contains two distinct melodic ideas. But this phrase's conclusion, on the C4 in m. 4, is not sufficient to create cadential closure. When the remaining strings enter in m. 5, they work through the same basic and contrasting ideas, but are able to create a I:PAC to close the consequent phrase. 
