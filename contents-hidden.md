@@ -78,7 +78,8 @@ title: Table of Contents
 [The sentence.](sentence.html)  
 [The period.](period.html)  
 [Hybrid themes.](hybridThemes.html)  
-[Compound themes.](compoundThemes.html)  
+[Compound periods.](compoundPeriod.html)
+[Compound sentences.](compoundSentence.html)  
 [External Expansions.](externalExpansions.html)  
 [Internal Expansions.](internalExpansions.html)  
 
