@@ -27,11 +27,11 @@ Both sentences in the compound period will have the same basic idea, each exhibi
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A5nBf5P09DwNUA9XbwKueVI" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-The initiating phrase is constructed as a sentence whose basic idea is a presentation and whose contrasting idea is a continuation. Following the HC in m. 8, the next phrase restates the presentational basic idea in varied form. The final four measures culminate in a PAC. 
+The large antecedent is constructed as a sentence whose basic idea is a presentation and whose contrasting idea is a continuation. Following the HC in m. 8, the next phrase restates the presentational basic idea in varied form. The final four measures culminate in a PAC. 
 
 ###A Compound Period Comprised of Two Hybrids
 
-If the initiating phrase is composed of an antecedent ,rather than a presentation, the 8-bar antecedent phrase will be a hybrid of the ["antecedent + continuation"](hybridThemes.html#hybrid-1) variety. 
+If the initiating phrase is composed of an antecedent, rather than a presentation, the 8-bar antecedent phrase will be a hybrid of the ["antecedent + continuation"](hybridThemes.html#hybrid-1) variety. 
 
 <img src="Graphics/ClassicalThemes/16period-hybrid1.svg" onerror="this.src='Graphics/ClassicalThemes/16period-hybrid1.png'">
 
@@ -46,4 +46,4 @@ And if the initiating phrase is composed of a ["compound basic idea"](hybridThem
 
 In this example the large antecedent begins with a small antecedent, comprising mm. 41-44, that acts as a basic idea. In the large consequent, this basic idea returns (mm. 49-52) in varied form.
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A0z0t5ihTRm0XSZSw8iRZ0T%230:54" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A0z0t5ihTRm0XSZSw8iRZ0T" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
