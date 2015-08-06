@@ -4,25 +4,27 @@ title: Compound themes
 ---
 ## Compound period ##
 
-The compound period (also called the *16-bar period* because its typical form is 16 bars long), is made of two themes instead of two phrases. Like a regular [period](period.html), the first theme exhibits [antecedent function](themeFunctions.html#antecedent) ends with a weak cadence (most often HC) and the second theme ends in a strong(er) cadence (most often PAC). Also like a regular period, the two themes begin with the same basic idea (BI)--possibly with some variation.
+The compound period (also called the *16-bar period* because its typical form is 16 bars long) is made of *two themes* instead of *two phrases*. Like an [8-bar period](period.html), the two halves of the compound period exhibit [antecedent](themeFunctions.html#antecedent) and[consequent](themeFunctions.html#consequent) function.
 
-The themes that are used to make the compound period have the same characteristics as they normally do, with the exception that the need for a weak cadence at the end of the first theme and a strong cadence at the end of the second theme may override the typical cadence patterns of those themes when they occur in isolation.
+The thematic types available to the two halves of the compound period must be conducive to the functions of antecedent and consequent: the initiating phrase of the first theme will act as a basic idea, and the concluding half as a contrasting idea with a weak cadence; and the initiating phrase of the second theme should bring back the BI from the first theme, and its concluding CI will end with a strong cadence.   
 
-The first type of compound period is comprised of two sentences: the first ends with an HC or (less frequently) an IAC, and the second ends with a PAC.
+These functional requirements tend to result in one of two types of compound period: 
+
+###A Compound Period Comprised of Two Sentences
+
+Both sentences in the compound period will have the same basic idea, each exhibiting presentation function. In the first sentence, the presentation is followed by a continuation that ends with a weak cadence. In the second, the continuation culminates in a strong cadence, most commonly a PAC.
 
 <img src="Graphics/ClassicalThemes/16period-sent.svg" onerror="this.src='Graphics/ClassicalThemes/16period-sent.png'">
 
-A prototypical example of a compound period composed of two sentences is Mozart's Piano Sonata in F major, K. 332, II., mm. 1–8. 
 
 <figure>	
-  <img src="/Graphics/form/k332-ii.png">
-  <figcaption>Mozart, Piano Sonata in F major, K. 332, II, mm. 1–8 </figcaption>
+  <img src="/Graphics/form/k284-ii.png">
+  <figcaption>Compound Period (Sent. + Sent.): Mozart, Piano Sonata in D major, K. 284, II, mm. 1–8 </figcaption>
 </figure> 
 
-Note that because of the slow tempo, this "16-bar" period is notated as only eight bars. Also, note that though the theme modulates, the second cadence, a PAC in the key of the dominant, is stronger than the first cadence, a HC in the home key. For the purposes of antecedent-consequent relationships, a PAC is always stronger than a HC or IAC, even if it is in another key.
 
-Similarly, a compound period can be comprised of two Hybrid 1 themes (antecedent–continuation) 
-
+The initiating phrase is constructed as a sentence whose basic idea is a presentation and whose contrasting idea is a continuation. Following the HC in m. 8, the next phrase restates the presentational basic idea in varied form. The final four measures culminate in a PAC. 
+###A Compound Period Comprised of Two Hybrids
 <img src="Graphics/ClassicalThemes/16period-hybrid1.svg" onerror="this.src='Graphics/ClassicalThemes/16period-hybrid1.png'">
 
 or two Hybrid 3 themes (CBI–continuation).
