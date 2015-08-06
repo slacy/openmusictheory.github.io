@@ -7,8 +7,10 @@ title: Compound themes
 The compound period (also called the *16-bar period* because its typical form is 16 bars long) is made of *two themes* instead of *two phrases*. Like an [8-bar period](period.html), the two halves of the compound period exhibit [antecedent](themeFunctions.html#antecedent) and [consequent](themeFunctions.html#consequent) function.
 
 The thematic types available to the two halves of the compound period must be conducive to the functions of antecedent and consequent:
-- the initiating phrase of the first theme will act as a basic idea, and the concluding half as a contrasting idea with a weak cadence; 
-- the initiating phrase of the second theme should bring back the BI from the first theme, and its concluding CI will end with a strong cadence.   
+<ul>
+	<li>the initiating phrase of the first theme will act as a basic idea, and the concluding half as a contrasting idea with a weak cadence;</li>
+	<li>the initiating phrase of the second theme should bring back the BI from the first theme, and its concluding CI will end with a strong cadence.</li>
+</ul>  
 
 These functional requirements tend to result in only two types of compound period. 
 
