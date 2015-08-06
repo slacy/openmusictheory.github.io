@@ -79,7 +79,7 @@ title: Table of Contents
 [The sentence.](sentence.html)   
 [The period.](period.html)   
 [Hybrid themes.](hybridThemes.html)   
-[Compound periods.](compoundPeriod.html)
+[Compound periods.](compoundPeriod.html)  
 [Compound sentences.](compoundSentence.html)  
 [The small ternary.](smallTernary.html)  
 [The small binary.](smallBinary.html)
