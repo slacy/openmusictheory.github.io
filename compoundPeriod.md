@@ -8,8 +8,9 @@ The compound period (also called the *16-bar period* because its typical form is
 
 The thematic types available to the two halves of the compound period must be conducive to the functions of antecedent and consequent. Thus,
 <ul>
-	<li>the initiating phrase of the *large antecedent*, usually four bars long, will act as a basic idea, and the concluding half as a contrasting idea concluding with a weak cadence;</li>
-	<li>the initiating phrase of the *large consequent* should bring a return of the BI from the first theme (often varied), and its concluding CI will end with a strong cadence.</li>
+	<li>the initiating phrase of the *large antecedent*, usually four bars long, will act as a basic idea - either presentation, antecedent, or compound basic idea;
+	<li>the concluding half, also typically four bars long, will act as a contrasting idea and will always be a continuation;</li>
+	<li>the *large consequent* should return the BI from the first theme (often varied), and its concluding CI will end with a strong cadence.</li>
 </ul>  
 
 These functional requirements tend to result in three types of compound period. 
@@ -35,10 +36,6 @@ If the initiating phrase is composed of an antecedent, rather than a presentatio
 
 <img src="Graphics/ClassicalThemes/16period-hybrid1.svg" onerror="this.src='Graphics/ClassicalThemes/16period-hybrid1.png'">
 
-And if the initiating phrase is composed of a ["compound basic idea"](hybridThemes.html#the-compound-basic-idea), the large antecedent will be a type-3 hybrid: compound basic idea + continuation. This type of compound period is quite similar to the previous variety. The only distinction is that the initiating phrase will not culminate in a cadence, thus giving the theme's initiation a looser quality.
-
-<img src="Graphics/ClassicalThemes/16period-hybrid3.svg" onerror="this.src='Graphics/ClassicalThemes/16period-hybrid3.png'">
-
 <figure>	
   <img src="/Graphics/form/k332.png">
   <figcaption>Compound Period (Hybrid 1 + Hybrid 1): Mozart, Piano Sonata in F major, K. 332, I, mm. 41–56 </figcaption>
@@ -47,3 +44,9 @@ And if the initiating phrase is composed of a ["compound basic idea"](hybridThem
 In this example the large antecedent begins with a small antecedent, comprising mm. 41-44, that acts as a basic idea. In the large consequent, this basic idea returns (mm. 49-52) in varied form.
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A0z0t5ihTRm0XSZSw8iRZ0T" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+
+By contrast, if the initiating phrase is composed of a ["compound basic idea"](hybridThemes.html#the-compound-basic-idea), the large antecedent will be a type-3 hybrid: compound basic idea + continuation. This type of compound period is *very similar* to the previous variety. The only distinction is that the initiating phrase will not culminate in a cadence, thus giving the theme's initiation a looser quality.
+
+<img src="Graphics/ClassicalThemes/16period-hybrid3.svg" onerror="this.src='Graphics/ClassicalThemes/16period-hybrid3.png'">
+
+
