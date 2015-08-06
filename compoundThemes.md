@@ -4,11 +4,13 @@ title: Compound themes
 ---
 ## Compound period ##
 
-The compound period (also called the *16-bar period* because its typical form is 16 bars long) is made of *two themes* instead of *two phrases*. Like an [8-bar period](period.html), the two halves of the compound period exhibit [antecedent](themeFunctions.html#antecedent) and[consequent](themeFunctions.html#consequent) function.
+The compound period (also called the *16-bar period* because its typical form is 16 bars long) is made of *two themes* instead of *two phrases*. Like an [8-bar period](period.html), the two halves of the compound period exhibit [antecedent](themeFunctions.html#antecedent) and [consequent](themeFunctions.html#consequent) function.
 
-The thematic types available to the two halves of the compound period must be conducive to the functions of antecedent and consequent: the initiating phrase of the first theme will act as a basic idea, and the concluding half as a contrasting idea with a weak cadence; and the initiating phrase of the second theme should bring back the BI from the first theme, and its concluding CI will end with a strong cadence.   
+The thematic types available to the two halves of the compound period must be conducive to the functions of antecedent and consequent:
+- the initiating phrase of the first theme will act as a basic idea, and the concluding half as a contrasting idea with a weak cadence; 
+- the initiating phrase of the second theme should bring back the BI from the first theme, and its concluding CI will end with a strong cadence.   
 
-These functional requirements tend to result in one of two types of compound period: 
+These functional requirements tend to result in only two types of compound period. 
 
 ###A Compound Period Comprised of Two Sentences
 
@@ -16,12 +18,12 @@ Both sentences in the compound period will have the same basic idea, each exhibi
 
 <img src="Graphics/ClassicalThemes/16period-sent.svg" onerror="this.src='Graphics/ClassicalThemes/16period-sent.png'">
 
-
 <figure>	
   <img src="/Graphics/form/k284-ii.png">
   <figcaption>Compound Period (Sent. + Sent.): Mozart, Piano Sonata in D major, K. 284, II, mm. 1–8 </figcaption>
 </figure> 
 
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A5nBf5P09DwNUA9XbwKueVI" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
 The initiating phrase is constructed as a sentence whose basic idea is a presentation and whose contrasting idea is a continuation. Following the HC in m. 8, the next phrase restates the presentational basic idea in varied form. The final four measures culminate in a PAC. 
 ###A Compound Period Comprised of Two Hybrids
