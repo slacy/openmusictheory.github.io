@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Compound themes
+title: Compound Period
 ---
-## Compound period ##
 
 The compound period (also called the *16-bar period* because its typical form is 16 bars long) is made of *two themes* instead of *two phrases*. Like an [8-bar period](period.html), the two halves of the compound period exhibit [antecedent](themeFunctions.html#antecedent) and [consequent](themeFunctions.html#consequent) function. To distinguish them, we will call these "large antecedents" and "large consequents."
 

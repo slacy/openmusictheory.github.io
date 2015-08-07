@@ -1,4 +1,7 @@
-## Compound sentence ##
+---
+layout: post
+title: Compound Sentence
+---
 
 The compound (or 16-bar) sentence expands both the presentation and continuation phrases of a regular [sentence](sentence.html) to a length of eight bars each. 
 
@@ -6,7 +9,8 @@ Each 2-bar basic idea is replaced by a 4-bar [compound basic idea](hybridThemes.
 
 A "typical" continuation would have approximately four bars of continuation function followed by four bars of cadential function, but in a compound sentence, this varies greatly. The continuation is commonly shortened or [expanded](internalExpansions.html).
 
-<img src="Graphics/ClassicalThemes/16sentence.svg" onerror="this.src='Graphics/ClassicalThemes/16sentence.png'">
+<img src="Graphics/ClassicalThemes/16sentence.svg" onerror="this.src='Graphics/ClassicalThemes/16sentence
+.png'">
 
 The eight bars that comprise the continuation of the main theme below are constructed from two compound basic ideas, the first beginning on tonic and moving to dominant, and the second beginning with dominant harmony and moving back to tonic. 
 
