@@ -3,11 +3,11 @@ layout: post
 title: External Expansions
 ---
 
-A theme is often surrounded by material outside of its boundaries, but which is clearly dependent on the theme. This function of this material is *external* to the theme itself— “before-the-beginning” or “after-the-end," as William Caplin as termed it.
+A theme is often preceded or followed by material outside of its typical boundaries, but which is clearly dependent on the theme. This material is *external* to the theme itself— “before-the-beginning” or “after-the-end," as William Caplin as termed it.
 
 ## Prefix ##
 
-An *prefix* is a passage—short or [long](sonataFramingModules.html#introduction)—that *precedes* a theme. Short prefixes lack distinct motivic material and/or harmonic progression. While connected to the following theme, when removed they do not disturb the logic of the phrase itself. 
+An *prefix* is a passage—short or [long](sonataFramingModules.html#introduction)—that *precedes* a theme. Short prefixes lack distinct motivic material and/or harmonic progression. While connected to the theme that follows, when removed prefixes do not disturb the logic of the phrase itself. 
 
 <figure>	
   <img src="/Graphics/form/sym101.png">
@@ -33,7 +33,7 @@ Sometimes called *codettas*, *closing sections* follow themes that end with PACs
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:3ZlIXdp94i6qpfox8Su6Ll" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-The [compound period](compoundPeriod.html) here ends with a PAC in m. 16. Following the cadence, a five-measure *closing section* serves as further confirmation. Notice that the melody is centered around scale degree 1—a common feature of these passages—and that harmonically the ii–V-I cadential progression that ended the theme (see m. 15 and 16) is simply repeated.
+The [compound period](compoundPeriod.html) here ends with a PAC in m. 16. Following the cadence, a five-measure *closing section* serves to confirm it. Notice that the melody is centered around scale degree 1—a common feature of these passages—and that harmonically the ii–V-I cadential progression that ended the theme (see m. 15 and 16) is simply repeated.
 
 ###Standing on the Dominant
 
