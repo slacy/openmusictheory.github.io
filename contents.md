@@ -73,8 +73,6 @@ title: Table of Contents
 
 ### Thematic Structure in the Classical Style
 
-[Introduction to Thematic Structure in the Classical Style.](thematicStructureInTheClassicalStyle.html)   
-
 ####Classical theme types.   
 [The sentence.](sentence.html)   
 [The period.](period.html)   
