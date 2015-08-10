@@ -43,13 +43,13 @@ The main theme's first eight measures form a simple sentence. But at the moment 
 In the example above, the cadence in m. 8 gave rise to an expansion because as it was weaker than expected. ([Primary themes](sonataThematicModules.html#primary-theme-module-p) rarely conclude with IACs.) This is one of the most common musical motivations for a phrase expansion. In addition to IACs, deceptive cadences can lead to expanded phrases, and not uncommonly, an expected cadence never materializes at all—an event often called an "evaded cadence."
 
 <figure>	
-  <img src="Graphics/form/phraseExpansion.png">
+  <img src="Graphics/form/k309.png">
   <figcaption>Phrase Expansion: Mozart, Piano Sonata in C major, K. 309, III</figcaption>
 </figure>
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:7DsGTbl7EABrY5GK6Dza9P" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-The primary theme of this sonata is a compound period made from two sentences. Following the half cadence in m. 8, the *large consequent* is expected to conclude with a PAC in m. 16. But the PAC never materializes: the leading tone in m. 15 is not resolved, the pianist's right hand leaps up to A5 instead. The cadence, in other words, is *evaded*. The next four measures (mm. 16–19) are a varied repeat of mm. 13-15, "one more time," culminating in a PAC in m. 19.
+The primary theme of this sonata is a [compound period](compoundPeriod.html#a-compound-period-comprised-of-two-sentences) made from two sentences. Following the half cadence in m. 8, the *large consequent* is expected to conclude with a PAC in m. 16. But the PAC never materializes: the leading tone in m. 15 is not resolved, the pianist's right hand leaps up to A5 instead. The cadence, in other words, is *evaded*. The next four measures (mm. 16–19) are a varied repeat of mm. 13-15, "one more time," culminating in a PAC in m. 19.
 
 ##Non-standard Lengths
 We often find expansions in places where the size of a sub-phrase or phrase has been increased. The phrase expansion described above created an 11-bar continuation, for example. But irregular phrase lengths do not necessarily indicate the presence of a phrase expansion. 
