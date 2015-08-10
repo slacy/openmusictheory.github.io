@@ -3,7 +3,7 @@ layout: post
 title: Internal Expansions
 ---
 
-For many different reasons, a great deal of music written in the late eighteenth and nineteenth centuries exhibits metric patterning, at many different levels of [hypermeter](http://courses.music.indiana.edu/rhythm/illustrations/hypermeter.html), that is duple in structure. Such was the tendency in the nineteenth century that William Rothstein, in [*Phrase Rhythm in Tonal Music*](https://openlibrary.org/works/OL4649619W/Phrase_rhythm_in_tonal_music), has memorably dubbed this "the Great Nineteenth- Century Rhythm Problem." It is "a danger," Rothstein says,
+For many different reasons, a great deal of music written in the late eighteenth and nineteenth centuries exhibits metric patterning, at many different levels of [hypermeter](http://courses.music.indiana.edu/rhythm/illustrations/hypermeter.html), that is duple in structure. Such was the tendency in the nineteenth century that William Rothstein, in [*Phrase Rhythm in Tonal Music*](https://openlibrary.org/works/OL4649619W/Phrase_rhythm_in_tonal_music), has memorably dubbed this "the Great Nineteenth-Century Rhythm Problem." It is "a danger," Rothstein says,
 <blockquote>endemic in 19th-century music, of too unrelievedly duple a hypermetrical pattern, of too consistent and unvarying a phrase structure—the danger, in short, of submitting too complacently to 'the tyranny of the four-measure phrase.'</blockquote>
 
 Music in the classical tradition was quite often less subservient to the two- and four-bar units. While this topic has been the subject of a great deal of musical theoretical exploration, here we will concentrate on a simple and common type of *sub-phrase* and *phrase expansion*. 
