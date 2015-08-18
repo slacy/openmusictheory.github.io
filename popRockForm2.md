@@ -81,12 +81,13 @@ Spotify URI: [spotify:track:5JGEAz15LkPoOtFHttDtVs](spotify:track:5JGEAz15LkPoOt
 
 ## Super-simple verse-chorus form
 
-*Super-simple verse-chorus form* is a term coined by Jay Summach (based on Covach’s), referring to songs in verse-chorus form where both the harmonic progression and the melody are both the same for verse and chorus (Summach, p. 322).
+*Super-simple verse-chorus form* is a term coined by [Jay Summach](http://gradworks.umi.com/35/25/3525244.html) (based on Covach’s), referring to songs in verse-chorus form where both the harmonic progression and the melody are both the same for verse and chorus (Summach, p. 322).
 
 
 ## Going into detail
 
-The following sections go into greater detail about these large-scale structures and the component structures that make them up.
+The following sections go into greater detail about these large-scale structures and the component structures that make them up. Terms, concepts, definitions, and notational guidelines in OMT are taken either from common convention; the published or unpublished work of [Jason Summach](http://gradworks.umi.com/35/25/3525244.html), John Covach, Walter Everett, Mark Spicer, or Daniel Harrison; or some combination thereof.
+
 
 - [Terminology and basic concepts](popRockForm-terms)  
 - [Formal containers and module structures](popRockForm-containers)  
