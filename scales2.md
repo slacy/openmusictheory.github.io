@@ -3,15 +3,17 @@ layout: post
 title: Collections and Scales
 ---
 
-As time went on, composers aimed to create new sounds, and new overall ways of looking at music. They created this through organizing pitches in a way that deviates from the major and minor scalar system. In this age, major and minor scales were not eliminated entirely, but were not dominating music, as they were in the Romantic and Classical periods. Now, we are introduced to other scale sets, such as octatonic, pentatonic, whole-tone, and modal cells.
+Folk, pop, classical, and modern composers often organize pitch materials using scales other than major and minor. Some of these scales, like the various diatonic *modes* and the pentatonic collection, are relatively familiar to most listeners. Others — such as octatonic, whole-tone, and acoustic collections/scales — are more novel, and usually (but not always) found in twentieth- and twenty-first-century compositions.
 
-When characterizing many of these new musical resources, the word “collection” is often more appropriate than "scale." A *collection* is a group of notes—usually five or more. Imagine a collection as a source from which a composer can draw musical material—a kind of “soup” within which pitch-classes float freely. Collections by themselves do not imply a tonal center. But in a composition a composer may establish a tonal center by privileging one note of the collection, which we then call a scale. 
+When characterizing many of these new musical resources, the word “collection” is often more appropriate than "scale." A *collection* is a group of notes — usually five or more. Imagine a collection as a source from which a composer can draw musical material — a kind of “soup” within which pitch-classes float freely. Collections by themselves do not imply a tonal center. But in a composition a composer may establish a tonal center by privileging one note of the collection, which we then call a *scale*. 
 
-##Diatonic Collection
+##Diatonic Collection (modes)
 
 The *diatonic collection* is any transposition of the 7 white keys on the piano. Refer to these collections by the number of sharps and flats they contain: the “0-sharp” collection, the “1-sharp” collection, and so on. The “2-flat” collection, for example, contains the pitch classes {F, G, A, B-flat, C, D, E-flat}.
 
-When these collections gain a tonic note, they morph into scales, which by tradition we name according to the “modal” system established in centuries ago. One way to look at these "modes" is to think of the seven white keys of the piano {C, D, E, F, A, B}. These notes, when starting on different pitches, create the different modal scales. By taking each note of the seven-white-key collection, and treating it as as the tonic, all seven modal scales can be played.  Ionian treats C as tonic, Dorian treats D as tonic, Phrygian treats E as tonic, Lydian treats F as tonic, Mixolydian treats G as tonic, Aeolian treats A as tonic, and Locrian treats B as tonic:
+When these collections gain a tonic note, they morph into scales, which by tradition we name according to the “modal” system established in centuries ago. (Note that while these modes share their names with the modes of the Medieval Christian church, they function quite differently. The similarity is principally one of name.) 
+
+One way to look at these "modes" is to think of the seven white keys of the piano {C, D, E, F, A, B}. These notes, when starting on different pitches, create the different modal scales. By taking each note of the seven-white-key collection, and treating it as as the tonic, all seven modal scales can be played.  Ionian treats C as tonic, Dorian treats D as tonic, Phrygian treats E as tonic, Lydian treats F as tonic, Mixolydian treats G as tonic, Aeolian treats A as tonic, and Locrian treats B as tonic:
 
 Ionian mode (major scale): *do re mi fa sol la ti do*
 
@@ -41,25 +43,26 @@ Locrian mode (uncommon outside jazz): *do ra me fa se le te do*
 
 <img src="Graphics/postTonal/modes/locrian.png" alt="Locrian mode on the treble staff." style="width:75%; margin:auto;" />
 
+Like the major and minor scales, these intervallic relationships can be transposed to any tonic pitch.
 
 ##Pentatonic Collection
 
 *Pentatonic collections* are five-note *subsets* of the diatonic collection. Here’s a quick way to create a pentatonic collection: (1) List the notes of a major scale. (2) Remove scale degress 4 and 7. (E.g., the pentatonic collection {C,D,E,G,A} corresponds to scale degrees 1,2,3,5,6 of the C major scale.)
 
-<img src="Graphics/postTonal/pentatonicWhite.png" alt="White-key pentatonic scale on the treble staff." style="width:60%; margin:auto;" />
+<img src="Graphics/postTonal/pentatonicWhite.png" alt="White-key pentatonic scale on the treble staff." style="width:50%; margin:auto;" />
 
 Removing scale degrees 4 and 7 results in a collection with no half steps. As a result of its "halfsteplessness", any member of the collection easily functions as a tonal center. For example, given the 0-sharp pentatonic collection, there are five unique scales formed when each of the collection's pitch classes become a tonic: C pentatonic (C,D,E,G,A), D pentatonic (D,E,G,A,C), E pentatonic (E,G,A,C,D), and so on.
 
 The black keys on the piano also form a pentatonic collection:
 
-<img src="Graphics/postTonal/pentatonicBlack.png" alt="Black-key pentatonic scale on the treble staff." style="width:60%; margin:auto;" />
+<img src="Graphics/postTonal/pentatonicBlack.png" alt="Black-key pentatonic scale on the treble staff." style="width:50%; margin:auto;" />
 
 
 ##Whole Tone Collection
 
 This is a group of notes generated entirely by whole tones: {0,2,4,6,8,10}, for example.
 
-<img src="Graphics/postTonal/wholeTone.png" alt="C whole-tone scale on the treble staff." style="width:70%; margin:auto;" />
+<img src="Graphics/postTonal/wholeTone.png" alt="C whole-tone scale on the treble staff." style="width:60%; margin:auto;" />
 
 There are only two unique *whole-tone* collections. WT0 contains pitch classes {0,2,4,6,8,10}, while WT1 contains pitch classes {1,3,5,7,9,11}. In other words, WT0 contains the pitch classes {C, D, E, F-sharp, G-sharp, B-flat}, while WT1 contains pitch classes {C-sharp, D-sharp, F, G, A, B}.
 
