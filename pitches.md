@@ -11,7 +11,7 @@ The keyboard is great for helping you develop a visual, aural, and tactile under
 
 ### Enharmonic equivalence ###
 
-Notice that some of the keys have two names. When two pitch classes share a key on the keyboard, they are said to have *enharmonic equivalence*. Theoretically, each key could have several names (the note C could also be considered Dbb, for instance), but it's usually not necessary to know more than two enharmonic spellings. 
+Notice that some of the keys have two names. When two pitch classes share a key on the keyboard, they are said to have *enharmonic equivalence*. Theoretically, each key could have several names (the note C could also be considered D&#9837;&#9837;, for instance), but it's usually not necessary to know more than two enharmonic spellings. 
 
 ### Octave Designation ###
 
