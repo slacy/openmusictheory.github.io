@@ -37,7 +37,23 @@ There are five possible interval qualities:
 
 To obtain an interval's quality, find both the generic interval and the chromatic interval. Then consult the following table to find the specific interval. 
 
-[![Simple diatonic intervals.][intervalChart]][intervalChart]
+|  | unis. | 2nd | 3rd | 4th | 5th | 6th | 7th | oct. |
+| --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| i0 | P1 | d2 |  |  |  |  |  |  |
+| i1 | A1 | m2 |  |  |  |  |  |  |
+| i2 |  | M2 | d2 |  |  |  |  |  |
+| i3 |  | A2 | m3 |  |  |  |  |  |
+| i4 |  |  |  |  |  |  |  |  |
+| i5 |  |  |  |  |  |  |  |  |
+| i6 |  |  |  |  |  |  |  |  |
+| i7 |  |  |  |  |  |  |  |  |
+| i8 |  |  |  |  |  |  |  |  |
+| i9 |  |  |  |  |  |  |  |  |
+| i10 |  |  |  |  |  |  |  |  |
+| i11 |  |  |  |  |  |  |  |  |
+| i12 |  |  |  |  |  |  |  |  |
+
+
 
 For example, C4–E4 is a generic third, and has a chromatic interval of i4. A third that encompasses four semitones is a *major third* (M3). Note that both generic interval and chromatic interval are necessary to find the specific interval, since there are multiple specific diatonic intervals for each generic interval and for each chromatic interval.
 
