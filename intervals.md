@@ -41,7 +41,7 @@ To obtain an interval's quality, find both the generic interval and the chromati
 | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | i0 | P1 | d2 |  |  |  |  |  |  |
 | i1 | A1 | m2 |  |  |  |  |  |  |
-| i2 |  | M2 | d2 |  |  |  |  |  |
+| i2 |  | M2 | d3 |  |  |  |  |  |
 | i3 |  | A2 | m3 |  |  |  |  |  |
 | i4 |  |  | M3 | d4 |  |  |  |  |
 | i5 |  |  | A3 | P4 |  |  |  |  |
