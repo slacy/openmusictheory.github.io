@@ -21,7 +21,7 @@ Full-sized numerals are attached to capital letters when there are two or more m
 
 ## Subscript numerals
 
-Subscript numerals are attached to capital letters when there are two or more modules with the same function and music but different text. For example, if a song contains three verses, and they all have different lyrics but the same music, they are labeled “V<sub>1</sub>”, “V<sub>2</sub>”, and “V<sub>3</sub>”.
+Subscript numerals are attached to capital letters when there are two or more modules with the same function and music but different text. For example, if a song contains three verses, and they all have different lyrics but the same music, they are labeled “V<sup>1</sup>”, “V<sup>2</sup>”, and “V<sup>3</sup>”.
 
 ## Timeline notation
 
