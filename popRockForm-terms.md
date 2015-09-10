@@ -8,9 +8,13 @@ This document is a glossary of terms and concepts that we will use in our analys
 
 ## Poetic terminology
 
+### Foot
+
+A combination of two or three syllables: typically one stressed syllable, and one or two unstressed syllables. Common poetic feet include the *iamb* (unstressed – stressed), the *trochee* (stressed – unstressed), the *spondee* (two stressed syllables in a row), the *anapest* (stressed – stressed – unstressed), and the *dactyl* (stressed – unstressed – unstressed.)
+
 ### Line
 
-A group of poetic feet. If the line is part of rhyming poetry, the last syllable/foot participates in a rhyme with another line. (Internal rhyme is also possible.)
+A group of poetic feet functioning as a single unit. Each poetic line is given its own line as printed/written text. If the line is part of rhyming poetry, the last syllable/foot participates in a rhyme with another line. (Internal rhyme is also possible.)
 
 ### Couplet
 
@@ -23,6 +27,33 @@ A pair of couplets (i.e., four lines). Common quatrain rhyme schemes are *aabb*,
 ### Stanza
 
 A set of poetic lines that work together as a single narrative unit. Typically one or more quatrains (i.e., total number of lines are a multiple of four).
+
+### Other structures
+
+For more poetic structures and terms, see Vanier College's resource, [Poetry's Structure and Form](http://www.vaniercollege.qc.ca/tlc//tipsheets/reading-and-analyzing/poem-form-and-structure.pdf).
+
+
+## Descriptors & rhetorical devices
+
+### Lyric-variant
+
+A module or phrase is lyric-variant if each time it appears it brings (mostly) different lyrics.
+
+## Lyric-invariant
+
+A module or phrase is lyric-invariant if each time it appears it brings (mostly) the same lyrics. Lyric invariance tends to come at points of formal closure (tail refrains at the ends of strophes, choruses at the end of a verse-chorus song’s formal cycle).
+
+### Music-variant
+
+A module or phrase is music-variant if each time it appears it brings (mostly) different music.
+
+### Music-invariant
+
+A module or phrase is music-invariant if each time it appears it brings (mostly) the same music.
+
+### Chorusification
+
+Jay Summach uses the term “chorusification” (p. 321) to describe a process where modules are stripped away from the formal cycle until only the chorus module (C) remains. For example, a song that begins with the cycle {VPC} may appear near the end of the song without the verse {PC} and then again without the prechorus {C}. This process is part of a goal-directed progression toward the end of the song, giving special emphasis to the chorus.
 
 
 ## Harmonic aspects of form
@@ -48,24 +79,5 @@ A phrase or module is harmonically open when it ends on a harmony other than ton
 The use of a non-tonic chord (usually dominant) at the end of a harmonically closed unit to transition into the beginning of the following on-tonic unit.
 
 
-## Descriptors & rhetorical devices
+[*Back to pop/rock form overview.*](popRockForm2.html)
 
-### Lyric-variant
-
-A module or phrase is lyric-variant if each time it appears it brings (mostly) different lyrics.
-
-## Lyric-invariant
-
-A module or phrase is lyric-invariant if each time it appears it brings (mostly) the same lyrics. Lyric invariance tends to come at points of formal closure (tail refrains at the ends of strophes, choruses at the end of a verse-chorus song’s formal cycle).
-
-### Music-variant
-
-A module or phrase is music-variant if each time it appears it brings (mostly) different music.
-
-### Music-invariant
-
-A module or phrase is music-invariant if each time it appears it brings (mostly) the same music.
-
-### Chorusification
-
-Jay Summach uses the term “chorusification” (p. 321) to describe a process where modules are stripped away from the formal cycle until only the chorus module (C) remains. For example, a song that begins with the cycle {VPC} may appear near the end of the song without the verse {PC} and then again without the prechorus {C}. This process is part of a goal-directed progression toward the end of the song, giving special emphasis to the chorus.
