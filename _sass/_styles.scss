@@ -24,6 +24,11 @@ sup {
 	vertical-align: super;
 }
 
+sub { 
+    vertical-align: sub;
+    font-size: smaller;
+}
+
 a, a:visited, a:active {
     color: $link;
     @include transit(all,0.25s,ease-in-out);
