@@ -12,11 +12,11 @@ A phrase is a musical unit that typically lasts for four bars and includes one l
 
 ### Module
 
-A *module* typically spans between 8 and 24 bars and includes 2–4 phrases. (Some auxiliary modules may contain a single phrase.) A module presents a single function (such as A, B, C, V, P, etc.) and presents a complete 2-, 3-, or 4-part pattern (see below). Modules typically set a stanza of lyrics (though occasionally a couplet). Modules are designated by upper-case letters according to function. 
+In pop/rock music, a *module* typically spans between 8 and 24 bars and includes 2–4 phrases. (Some auxiliary modules may contain a single phrase.) A module presents a single [formal function](popRockForm-functions) (such as A, B, C, V, P, etc.) and presents a complete 2-, 3-, or 4-part pattern. Modules typically set a stanza of lyrics.
 
-Module boundaries are also usually made apparent by poetic structure (end of a group of rhyming lines—couplet or stanza) or surface features of the song (clear rhythmic, harmonic, and melodic arrival; change in instrumentation or volume; return to beginning of a previously heard module; etc.).
+Module boundaries are usually made apparent by poetic structure (end of a group of rhyming lines—couplet or stanza) or surface features of the song (clear rhythmic, harmonic, and melodic arrival; change in instrumentation or volume; return to beginning of a previously heard module; etc.).
 
-All module definitions are based on Jason Summach's (2012) dissertation, "Form in Top-20 Rock Music, 1955–89."
+*All module definitions are based on Jason Summach's (2012) dissertation, "Form in Top-20 Rock Music, 1955–89."*
 
 ### Primary module
 
