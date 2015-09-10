@@ -28,6 +28,15 @@ A pair of couplets (i.e., four lines). Common quatrain rhyme schemes are *aabb*,
 
 A set of poetic lines that work together as a single narrative unit. Typically one or more quatrains (i.e., total number of lines are a multiple of four).
 
+### Example
+
+Following is a stanza from U2, "Pride (In the Name of Love)." This stanza is a quatrain composed of four lines. The first and third lines have four feet (that is, four stressed syllables) with irregular rhythm. The second and fourth lines have three feet with irregular rhythm, and they rhyme with each other.
+
+> One man come in the name of love.  
+One man come and go.  
+One man come, he to justify.  
+One man to overthrow.
+
 ### Other structures
 
 For more poetic structures and terms, see Vanier College's resource, [Poetry's Structure and Form](http://www.vaniercollege.qc.ca/tlc//tipsheets/reading-and-analyzing/poem-form-and-structure.pdf).
@@ -55,6 +64,13 @@ A module or phrase is music-invariant if each time it appears it brings (mostly)
 
 Jay Summach uses the term “chorusification” (p. 321) to describe a process where modules are stripped away from the formal cycle until only the chorus module (C) remains. For example, a song that begins with the cycle {VPC} may appear near the end of the song without the verse {PC} and then again without the prechorus {C}. This process is part of a goal-directed progression toward the end of the song, giving special emphasis to the chorus.
 
+Bon Jovi's "Livin' on a Prayer" is a good example of chorusification. The first two cycles are similar in length and content, but the third cycle (beginning at 2:58) replaces the verse with an instrumental chorus, giving the third cycle two choruses. After this cycle closes, the chorus repeats forming a chorus-based outro.
+
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+
+HTML link: [https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z](https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z)  
+Spotify URI: [spotify:track:0J6mQxEZnlRt9ymzFntA6z](spotify:track:0J6mQxEZnlRt9ymzFntA6z)  
+
 
 ## Harmonic aspects of form
 
@@ -77,6 +93,15 @@ A phrase or module is harmonically open when it ends on a harmony other than ton
 ### Turnaround
 
 The use of a non-tonic chord (usually dominant) at the end of a harmonically closed unit to transition into the beginning of the following on-tonic unit.
+
+The song "Wooly Bully" by Sam the Sham and the Pharoahs contains a turnaround at the end of many of its strophes. One of these occur at 0:54 ― a simple V<sup>7</sup> chord to prepare the return of I as the next strophe begins. 
+
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A2XkuSbp5say8nZW8g6156Z" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+
+HTML link: [https://open.spotify.com/track/2XkuSbp5say8nZW8g6156Z](https://open.spotify.com/track/2XkuSbp5say8nZW8g6156Z)  
+Spotify URI: [spotify:track:2XkuSbp5say8nZW8g6156Z](spotify:track:2XkuSbp5say8nZW8g6156Z)  
+
+*Interestingly in this song, the guitarist doesn't always remember the turnarounds. Notice that at 0:28 the bass and baritone saxaphone play the dominant, but the guitarist keeps tonic. At 1:18, the singer yells, "Watch it now! Watch it! Watch it!" as if warning the guitarist not to miss the turnaround in the next bar. He does the same in 2:08. When the guitarist gets the turnaround with the rest of the band, the singer yells, "You got it! You got it!" as if congratulating the guitarist.*
 
 
 [*Back to pop/rock form overview.*](popRockForm2.html)
