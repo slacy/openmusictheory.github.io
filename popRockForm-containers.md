@@ -83,7 +83,9 @@ Very rarely a module’s phrases can be grouped into two clear halves based on d
 
 ### Three-part – aa’b
 
-A module containing three phrases is a three-part module. If the first two phrases are based on the same music, the module is labeled *aa’b* (12-bar blues progressions are the most common example of a three-part *aa’b* module).
+A module containing three phrases is a three-part module. If the first two phrases are based on the same music, the module is labeled *aa’b*. 
+
+[12-bar blues progressions](popRockHarmony-blues) are the most common example of a three-part *aa’b* module. "Hound Dog" (on the blues-progression page) contains aa'b strophes.
 
 ### Three-part – abb’
 
