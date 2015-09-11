@@ -177,7 +177,11 @@ Tranpositional Symmetry.
 
 ### Form
 
-[Form in pop/rock music.](popRockForm.html)
+[Form in pop/rock music – overview.](popRockForm.html)  
+[Terminology and basic concepts.](popRockForm-terms)  
+[Formal containers and module structures](popRockForm-containers)  
+[Formal functions](popRockForm-functions)  
+[Analytical notation](popRockForm-notation)  
 
 ## Text and music
 
