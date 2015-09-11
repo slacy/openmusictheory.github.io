@@ -141,3 +141,5 @@ Spotify URI: [spotify:track:2wd52lU3agY0P3x2hxPYhm](spotify:track:2wd52lU3agY0P3
 “A phrase with prechorus function, but of insufficient length to detach from the verse as a separate module” (Summach, p. 321). Always the last phrase of a verse module.
 
 "Come On Eileen" (audio above) contains a one-phrase climb at the end of its verses and bridge ("Tu-ra-lu-ra...").
+
+[*Back to pop/rock form overview.*](popRockForm.html)

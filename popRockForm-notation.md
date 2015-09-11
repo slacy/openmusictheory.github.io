@@ -27,7 +27,7 @@ Subscript numerals are attached to capital letters when there are two or more mo
 
 [Variations Audio Timeliner][VAT] does not support subscripts. It is fine to use full-sized numerals for both purposes if making timelines in VAT.
 
-[*Back to pop/rock form overview.*](popRockForm2.html)
+[*Back to pop/rock form overview.*](popRockForm.html)
 
 [VAT]: http://variations.sourceforge.net/vat/
 

@@ -100,3 +100,5 @@ In conventional lettering, an *srdc* module could employ an *aaba* structure (wi
 *srdc* structures tend to divide neatly into halves: *sr* and *dc*.
 
 Carl Perkins's "Blue Suede Shoes" contains a clear *srdc* structure in its second strophe (0:19; find a recording and complete module analysis on the [Pop/rock form overview](popRockForm)). It contains four four-bar phrases (following a [16-bar blues](popRockHarmony-blues) structure). The first two phrases (statement–restatement) contain the same harmony (tonic prolongation), melodies which begin identically, and though the lyrics differ, the rhythmic and rhyme schemes are the same. The third phrase (departure) brings a new melody, new harmony (move to the subdominant), and the title lyrics (this is a refrain shared with other strophes in the song). The final phrase (conclusion) closes out the poetic unit and the blues harmonic progression.
+
+[*Back to pop/rock form overview.*](popRockForm.html)
