@@ -19,13 +19,13 @@ The simplest way to measure intervals, particularly at the keyboard, is to count
 
 More commonly for tonal music, we are interested in the number of steps on the diatonic (major or minor) scale. This is a bit tricky—not because it's difficult, but because it's counterintuitive. Unfortunately, the system is too old and well engrained to change it now! But once you get past the initial strangeness, diatonic intervals are manageable.
 
-When identifying a diatonic interval, begin with the *letter names only*. That is, treat C, C-sharp, and C-flat all as *C* for the time being. Next, count the number of steps (different letters) between the two pitches in question, *counting both pitches*. This will give you the *generic interval*.
+When identifying a diatonic interval, begin with the *letter names only*. That is, treat C, C-sharp, and C-flat all as *C* for the time being. Next, count the number of steps (different letters) between the two pitches in question, *including both pitches in your count*. This gives you the *generic interval*.
 
 For example, from C4 to E4, counting both C and E, there are three diatonic steps (three letter names): C, D, E. Thus, the generic interval for C4–E4 is a *third*. The same is true for any C to any E: C#4 to E4, Cb4 to E#4, etc. They are all diatonic thirds.
 
 ![Three kinds of generic thirds.][thirds]
 
-Often more specificity is needed than generic intervals can provide. That specificity comes in the form of *interval quality*. And combining quality with a generic interval produces a *specific interval*.
+Often more specificity is needed than generic intervals can provide. That specificity comes in the form of an interval's *quality*. Combining *quality* with a generic interval name produces a *specific interval*.
 
 There are five possible interval qualities:
 
