@@ -91,6 +91,14 @@ perfect ↔ perfect
 
 Interval inversion may seem confusing and esoteric now, but it will be an incredibly important concept for the study of voice-leading and the study of harmony.
 
+### Methods for learning intervals
+
+There are several methods for learning intervals. Choose your favorite:
+
+- [The white-key method](whiteKeyMethod.html)
+
+
+
 ### Melodic and harmonic intervals 
 
 The last distinction between interval types to note is *melodic* v. *harmonic* intervals. This distinction is simple. If the two pitches of a dyad sound at the same time (a two-note chord), the interval between them is a *harmonic interval*. If the two pitches in question are sounded back-to-back (as in a melody), the interval between them is a *melodic interval*. This distinction is important in voice-leading, where different intervals are preferred or forbidden in harmonic contexts than in melodic contexts. The difference is also important for listening, as hearing melodic and harmonic intervals of the same quality requires different techniques.
