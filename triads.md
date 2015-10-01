@@ -68,23 +68,23 @@ In major keys, chords with the same Roman numeral are made up of the same scale-
 
 Following are the qualities and scale-degrees belonging to each triad in every major key:
 
--   I: major – *do*, *mi*, *sol*
--   ii: minor – *re*, *fa*, *la*
--   iii: minor – *mi*, *sol*, *ti*
--   IV: major – *fa*, *la*, *do*
--   V: major – *sol*, *ti*, *re*
--   vi: minor – *la*, *do*, *mi*
+-   I: major – *do*, *mi*, *sol*  
+-   ii: minor – *re*, *fa*, *la*  
+-   iii: minor – *mi*, *sol*, *ti*  
+-   IV: major – *fa*, *la*, *do*  
+-   V: major – *sol*, *ti*, *re*  
+-   vi: minor – *la*, *do*, *mi*  
 -   vii°: diminished – *ti*, *re*, *fa*
 
 Following are the qualities and scale-degrees belonging to each triad in every minor key:
 
--   i: minor – *do*, *me*, *sol*
--   ii°: diminished – *re*, *fa*, *le*
--   III: major – *me*, *sol*, *te*
--   iv: minor – *fa*, *le*, *do*
--   V: major – *sol*, *ti*, *re*
--   VI: major – *le*, *do*, *me*
--   VII: major – *te*, *re*, *fa*
+-   i: minor – *do*, *me*, *sol*  
+-   ii°: diminished – *re*, *fa*, *le*  
+-   III: major – *me*, *sol*, *te*  
+-   iv: minor – *fa*, *le*, *do*  
+-   V: major – *sol*, *ti*, *re*  
+-   VI: major – *le*, *do*, *me*  
+-   VII: major – *te*, *re*, *fa*  
 -   vii°: diminished – *ti*, *re*, *fa*
 
 ## Building a triad ##
@@ -127,23 +127,23 @@ Following are the lead-sheet abbreviations for seventh-chord qualities:
 
 Following are the qualities and scale-degrees belonging to each seventh chord in every major key, along with the corresponding Roman numeral reflecting those qualities:
 
--   I<sup>7</sup>: major seventh – *do*, *mi*, *sol*, *ti*
--   ii<sup>7</sup>: minor seventh – *re*, *fa*, *la*, *do*
--   iii<sup>7</sup>: minor seventh – *mi*, *sol*, *ti*, *re*
--   IV<sup>7</sup>: major seventh – *fa*, *la*, *do*, *mi*
--   V<sup>7</sup>: dominant seventh – *sol*, *ti*, *re*, *fa*
--   vi<sup>7</sup>: minor seventh – *la*, *do*, *mi*, *sol*
+-   I<sup>7</sup>: major seventh – *do*, *mi*, *sol*, *ti*  
+-   ii<sup>7</sup>: minor seventh – *re*, *fa*, *la*, *do*  
+-   iii<sup>7</sup>: minor seventh – *mi*, *sol*, *ti*, *re*  
+-   IV<sup>7</sup>: major seventh – *fa*, *la*, *do*, *mi*  
+-   V<sup>7</sup>: dominant seventh – *sol*, *ti*, *re*, *fa*  
+-   vi<sup>7</sup>: minor seventh – *la*, *do*, *mi*, *sol*  
 -   vii<sup>⦰7</sup>: half-diminished seventh – *ti*, *re*, *fa*, *la*
 
 Following are the qualities and scale-degrees belonging to each seventh chord in every minor key, along with the corresponding Roman numeral reflecting those qualities:
 
--   i<sup>7</sup>: minor seventh – *do*, *me*, *sol*, *te*
--   ii<sup>7</sup>: half-diminished seventh – *re*, *fa*, *le*, *do*
--   III<sup>7</sup>: major seventh – *me*, *sol*, *te*, *re*
--   iv<sup>7</sup>: minor seventh – *fa*, *le*, *do*, *me*
--   V<sup>7</sup>: dominant seventh – *sol*, *ti*, *re*, *fa*
--   VI<sup>7</sup>: major seventh – *le*, *do*, *me*, *sol*
--   VII<sup>7</sup>: dominant seventh – *te*, *re*, *fa*, *le*
+-   i<sup>7</sup>: minor seventh – *do*, *me*, *sol*, *te*  
+-   ii<sup>7</sup>: half-diminished seventh – *re*, *fa*, *le*, *do*  
+-   III<sup>7</sup>: major seventh – *me*, *sol*, *te*, *re*  
+-   iv<sup>7</sup>: minor seventh – *fa*, *le*, *do*, *me*  
+-   V<sup>7</sup>: dominant seventh – *sol*, *ti*, *re*, *fa*  
+-   VI<sup>7</sup>: major seventh – *le*, *do*, *me*, *sol*  
+-   VII<sup>7</sup>: dominant seventh – *te*, *re*, *fa*, *le*  
 -   vii°<sup>7</sup>: diminished seventh – *ti*, *re*, *fa*, *le*
 
 Note that major-seventh and dominant-seventh chords have the same Roman numeral nomenclature. The difference is discerned from the context of the key.
