@@ -39,6 +39,12 @@ An escape tone, or *echappée*, is a kind of incomplete neighbor tone that is un
 
 An anticipation is essentially a chord tone that comes early. An anticipation is a non-chord tone that will occur immediately before a change of harmony, and it will be followed on that change of harmony by the same note, now a chord tone of the new harmony. It is typically found at the ends of phrases and larger formal units.
 
+## Syncopation (SYN)
+
+![](Graphics/embellishingTones/syncopatedNote.png)
+
+[Syncopation](http://openmusictheory.com/syncopation.html) occurs when a rhythmic pattern that typically occurs on strong beats or strong parts of the beat occurs instead on weak beats or weak parts of the beat. Like the anticipation, the syncopated note tends to belong to the chord on the following beat. Unlike the anticipation, the syncopation is tied into a note in that chord; it is not rearticulated. 
+
 ## Suspension (SUS)
 
 ![][suspension]
