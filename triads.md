@@ -60,30 +60,32 @@ A C-major triad’s lead-sheet symbol is simply **C**. A C-minor triad is **Cm**
 
 ## Roman numerals ##
 
-Chords can be labeled according to their function within a key. One system for doing so uses Roman numerals to designate the scale degree of the chord’s root. For example, in the key of C major, a C-major chord would be labeled “I,” a D-minor chord “II,” E-minor “III,” and so on. In G minor, an A-diminished triad would be labeled “II,” F-major “VI,” etc. Always use capital Roman numerals. In general, Roman numerals will be labeled *below* the score.
+Chords can be labeled according to their function within a key. One system for doing so uses Roman numerals to designate the scale degree of the chord’s root. Some musicians also use Roman numerals to describe the quality of the chord. Capital Roman numerals (I, II, III, etc.) are used for major triads. Lower-case Roman numerals (i, ii, iii, etc.) are used for minor triads. Lower-case Roman numerals followed by a º sign (iiº, viiº, etc.) are used for diminished triads. Capital Roman numerals followed by a <sup>+</sup> sign (V<sup>+<>/sup>, for example) are used for augmented triads. In general, Roman numerals are generally labeled *below* the score.
+	
+(Some musicians prefer to use Roman numerals *only* to reflect the scale-degree of the chord root. In such cases, all Roman numerals are capital. In this textbook, we use all-capital Roman numerals to refer to chords generally, when quality does not matter. When notating specific chords with specific qualities, we will differentiate those qualities in the Roman numerals.)
 
-In major keys, chords with the same Roman numeral are made up of the same scale-degrees (using the same solfège syllables), and they have the same quality. In other words, triads labeled “I” in any major key will be major triads containing *do*, *mi*, and *sol*. III triads will be minor triads containing *mi*, *sol*, and *ti*, etc. The same is true for minor keys (though I in minor is different from I in major).
+In major keys, chords with the same Roman numeral are made up of the same scale-degrees (using the same solfège syllables), and they have the same quality. In other words, triads labeled “I” in any major key will be major triads containing *do*, *mi*, and *sol*. iii triads will be minor triads containing *mi*, *sol*, and *ti*, etc. The same is true for minor keys (though I in minor is different from I in major).
 
 Following are the qualities and scale-degrees belonging to each triad in every major key:
 
 -   I: major – *do*, *mi*, *sol*
--   II: minor – *re*, *fa*, *la*
--   III: minor – *mi*, *sol*, *ti*
+-   ii: minor – *re*, *fa*, *la*
+-   iii: minor – *mi*, *sol*, *ti*
 -   IV: major – *fa*, *la*, *do*
 -   V: major – *sol*, *ti*, *re*
--   VI: minor – *la*, *do*, *mi*
--   VII: diminished – *ti*, *re*, *fa*
+-   vi: minor – *la*, *do*, *mi*
+-   vii°: diminished – *ti*, *re*, *fa*
 
 Following are the qualities and scale-degrees belonging to each triad in every minor key:
 
--   I: minor – *do*, *me*, *sol*
--   II: diminished – *re*, *fa*, *le*
+-   i: minor – *do*, *me*, *sol*
+-   ii°: diminished – *re*, *fa*, *le*
 -   III: major – *me*, *sol*, *te*
--   IV: minor – *fa*, *le*, *do*
+-   iv: minor – *fa*, *le*, *do*
 -   V: major – *sol*, *ti*, *re*
 -   VI: major – *le*, *do*, *me*
--   bVII: major – *te*, *re*, *fa*
--   VII: diminished – *ti*, *re*, *fa*
+-   VII: major – *te*, *re*, *fa*
+-   vii°: diminished – *ti*, *re*, *fa*
 
 ## Building a triad ##
 
@@ -91,7 +93,7 @@ To build a triad on the staff, identify the root, quality, and bass note from th
 
 For **Cm/Eb**, the root is C, and the quality is minor. Since the quality is minor, there is a minor third above the root (E-flat) and a perfect fifth above the root (G). The slash identifies E-flat as the bass note. Write the E-flat on the staff. Then write a C and a G above it to complete the chord (again, see above).
 
-When all the members of the triad are as close to the bass note as they can be, the chord is in what is called *close position* (C, Cm/Eb, and Cdim/Gb above). When there are spaces between chord tones, the chord is in *open position* (Caug above). (In certain musical situations, only one of those positions will be useful or desirable.)
+When all the members of the triad are as close to the bass note as they can be, the chord is in what is called *close position* (C, Cm/E&#9837;, and Cdim/G&#9837; above). When there are spaces between chord tones, the chord is in *open position* (Caug above). (In certain musical situations, only one of those positions will be useful or desirable.)
 
 ## Listening to triads ##
 
@@ -115,35 +117,36 @@ There are five qualities of seventh chords that appear in diatonic music: major 
 
 Following are the lead-sheet abbreviations for seventh-chord qualities:
 
--   major seventh: maj7 or △7 (Gmaj7 or G△7)
--   dominant seventh: 7 (B7)
--   minor seventh: m7 (F\#m7)
--   diminished seventh: dim7 or °7 (Ddim7 or D°7)
--   half-diminished seventh: half7 or ⦰7 (Ahalf7 or A⦰7)
+-   major seventh: maj7 or △7 (G<sup>maj7</sup> or G<sup>△7</sup>)
+-   dominant seventh: 7 (B<sup>7</sup>)
+-   minor seventh: m7 (F&#9839;<sup>m7</sup>)
+-   diminished seventh: dim7 or °7 (D<sup>dim7</sup> or D<sup>°7</sup>)
+-   half-diminished seventh: ⦰7 (A<sup>⦰7</sup>)
 
 ### Roman numerals ###
 
-Following are the qualities and scale-degrees belonging to each seventh chord in every major key:
+Following are the qualities and scale-degrees belonging to each seventh chord in every major key, along with the corresponding Roman numeral reflecting those qualities:
 
--   I: major seventh – *do*, *mi*, *sol*, *ti*
--   II: minor seventh – *re*, *fa*, *la*, *do*
--   III: minor seventh – *mi*, *sol*, *ti*, *re*
--   IV: major seventh – *fa*, *la*, *do*, *mi*
--   V: dominant seventh – *sol*, *ti*, *re*, *fa*
--   VI: minor seventh – *la*, *do*, *mi*, *sol*
--   VII: half-diminished seventh – *ti*, *re*, *fa*, *la*
+-   I<sup>7</sup>: major seventh – *do*, *mi*, *sol*, *ti*
+-   ii<sup>7</sup>: minor seventh – *re*, *fa*, *la*, *do*
+-   iii<sup>7</sup>: minor seventh – *mi*, *sol*, *ti*, *re*
+-   IV<sup>7</sup>: major seventh – *fa*, *la*, *do*, *mi*
+-   V<sup>7</sup>: dominant seventh – *sol*, *ti*, *re*, *fa*
+-   vi<sup>7</sup>: minor seventh – *la*, *do*, *mi*, *sol*
+-   vii<sup>⦰7</sup>: half-diminished seventh – *ti*, *re*, *fa*, *la*
 
-Following are the qualities and scale-degrees belonging to each seventh chord in every minor key:
+Following are the qualities and scale-degrees belonging to each seventh chord in every minor key, along with the corresponding Roman numeral reflecting those qualities:
 
--   I: minor seventh – *do*, *me*, *sol*, *te*
--   II: half-diminished seventh – *re*, *fa*, *le*, *do*
--   III: major seventh – *me*, *sol*, *te*, *re*
--   IV: minor seventh – *fa*, *le*, *do*, *me*
--   V: dominant seventh – *sol*, *ti*, *re*, *fa*
--   VI: major seventh – *le*, *do*, *me*, *sol*
--   bVII: dominant seventh – *te*, *re*, *fa*, *le*
--   VII: half-diminished seventh – *ti*, *re*, *fa*, *le*
+-   i<sup>7</sup>: minor seventh – *do*, *me*, *sol*, *te*
+-   ii<sup>7</sup>: half-diminished seventh – *re*, *fa*, *le*, *do*
+-   III<sup>7</sup>: major seventh – *me*, *sol*, *te*, *re*
+-   iv<sup>7</sup>: minor seventh – *fa*, *le*, *do*, *me*
+-   V<sup>7</sup>: dominant seventh – *sol*, *ti*, *re*, *fa*
+-   VI<sup>7</sup>: major seventh – *le*, *do*, *me*, *sol*
+-   VII<sup>7</sup>: dominant seventh – *te*, *re*, *fa*, *le*
+-   vii°<sup>7</sup>: diminished seventh – *ti*, *re*, *fa*, *le*
 
+Note that major-seventh and dominant-seventh chords have the same Roman numeral nomenclature. The difference is discerned from the context of the key.
 
 [circleOfSteps-triad]: Graphics/triadsSeventhChords/circleOfSteps-triad.png
 [circleOfThirds-triad]: Graphics/triadsSeventhChords/circleOfThirds-triad.png
