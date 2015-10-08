@@ -7,7 +7,7 @@ The prototypical sentence is eight measures long and contains two four-measure p
 
 <img src="Graphics/ClassicalThemes/sentence.svg" onerror="this.src='Graphics/ClassicalThemes/sentence.png'">
 
-## Presentation phrase (mm. 1–4) ##
+## Presentation phrase (mm. 1–4)
 
 The presentation phrase begins the sentence and has two primary components, one melodic and the other harmonic. Melodically, it contains two repeated *basic ideas* (BI). Harmonically, it prolongs the tonic, by means of either a [subsidiary harmonic progression](harmonicSyntax2.html#subsidiary-harmonic-progressions") or [contrapuntal chords](harmonicSyntax2.html#contrapuntal-prolongation--passing-chord).
 
@@ -26,7 +26,7 @@ or
 
 Altogether, the two expressions of the basic idea and the tonic prolongation in this phrase exhibit [*presentation function*](themeFunctions.html#presentation). Hence, the name "presentation phrase."
 
-## Continuation phrase (mm. 5–10) ##
+## Continuation phrase (mm. 5–10)
 
 Continuation phrases acquire momentum and lead to the cadence that ends the sentence. Three types of cadence typically end a sentence: PAC, IAC, or HC.
 
@@ -35,21 +35,21 @@ Continuation phrases begin with [*continuation function*](themeFunctions.html#co
 - Fragmentation: a breakdown in the size of melodic units  
 - Liquidation: removal of "characteristic" melodic figures  
 - Sequential repetition
-- Accelerated Surface Rhythm  
-- Acceleration Harmonic Rhythm
+- Accelerated surface rhythm  
+- Accelerated harmonic rhythm
 
 <figure>	
   <img src="/Graphics/form/k283.png">
   <figcaption>Presentation + Continuation: Mozart, K. 283, I, mm. 1–10</figcaption>
 </figure>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:1sknTFvB6zFOtSoyDcqM23" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:1sknTFvB6zFOtSoyDcqM23" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
 
 
 
 This example exhibits all five characteristics. The basic idea creates a normative unit that is two measures in length. Beginning with the pickup to m. 5, that normative size is *fragmented* into one-measure units whose second half is *sequenced* one step lower. At m. 7 *increased surface rhythm* is matched with an *acceleration of harmonic rhythm* as the pianist's sixteenth notes occur above a hemiola in the pianist's left hand.
 
-Sentences always end with cadential progressions that support [*cadential function*](themeFunctions.html#cadential-function) In this passage, while mm. 5–8 prolonged tonic by means of contrapuntal chords, mm. 8–10 employ a typical cadential progression:
+Sentences always end with cadential progressions that support [*cadential function*](themeFunctions.html#cadential-function). In this passage, while mm. 5–8 prolonged tonic by means of contrapuntal chords, mm. 8–10 employ a typical cadential progression:
 
 > **I IV6 Cad.6/4 V7 I**  
 or  
