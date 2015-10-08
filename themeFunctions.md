@@ -3,9 +3,6 @@ layout: post
 title: Thematic Function
 ---
 
-{{ page.title }}
-================
-
 This page is a quick-reference. For examples of these functions in musical contexts, see the resource on [Classical theme types](classicalThemes.html).
 
 # Initiating Functions
