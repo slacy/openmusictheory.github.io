@@ -8,19 +8,19 @@ title: Thematic Function
 
 This page is a quick-reference. For examples of these functions in musical contexts, see the resource on [Classical theme types](classicalThemes.html).
 
-# Initiating Functions #
+# Initiating Functions
 
-## Presentation ##
+## Presentation
 
 *Presentation function* comes at the *beginning* of a theme or phrase. It involves the *establishment of the primary melodic material* (usually through the use of one or more statements of a *basic idea*) and the *establishment of the tonality of the theme* (usually through *tonic prolongation*). 
 
-## Antecedent ##
+## Antecedent
 
 *Antecedent function* comes at the *beginning* of a theme or phrase. It involves the statement of a *basic idea* followed by a *contrasting idea.* An *antecedent* should close with a weak cadence, usually a HC or IAC.
 
-#Medial Functions
+# Medial Functions
 
-## Continuation ##
+## Continuation
 
 *Continuation function* comes in the *middle* of a phrase or theme. It typically involves the *breakdown of the primary melodic material* and *harmonic acceleration* towards the cadence.
 
@@ -34,21 +34,21 @@ Following are important terms/concepts associated with continuation function. No
 
 #Closing Functions
 
-## Cadential ##
+## Cadential
 
 *Cadential function* comes at the end of a theme or phrase. It typically involves a *cadential harmonic progression* and a *conventional, descending melodic pattern*.
 
 A classical cadential progression *begins with the last chord of tonic prolongation* and *ends with a cadential arrival*. The [three typical types of cadential arrival](cadenceTypes.html) in Classical music are the perfect authentic cadence (PAC), the imperfect authentic cadence (IAC), and the half cadence (HC). 
 
-A half-cadential progression will begin with the final **T** chord, progress (optionally) through **S**, and arrive on a cadential **D** chord (*always* **D5**):
+A half-cadential progression will begin with the final **T** chord, progress (optionally) through **S**, and arrive on a cadential **D** chord (*always* **D5**: **V** or **V<sup>7</sup>**):
 
 > **T__ (S__) D5**
 
-An authentic-cadential progression will begin with the final **T** chord, progress (optionally) through **S**, and end with the cadential **D T** progression (*always* **D5 T1**):
+An authentic-cadential progression will begin with the final **T** chord, progress (optionally) through **S**, and end with the cadential **D T** progression (*always* **D5 T1**: **V<sup>(7)</sup> T1**):
 
 > **T_ (S_) D5 T1**
 
-## Consequent ##
+## Consequent
 
 *Consequent function* resembles *antecedent function* in that it involves the presentation of a basic idea followed by a contrasting one. Unlike the *antecedent function*, however, *consequent function* brings completion to a thematic unit. Therefore, it ends with a strong cadence, typically a PAC.  
 
