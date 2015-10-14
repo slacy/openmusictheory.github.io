@@ -41,7 +41,7 @@ A half-cadential progression will begin with the final **T** chord, progress (op
 
 > **T__ (S__) D5**
 
-An authentic-cadential progression will begin with the final **T** chord, progress (optionally) through **S**, and end with the cadential **D T** progression (*always* **D5 T1**: **V<sup>(7)</sup> T1**):
+An authentic-cadential progression will begin with the final **T** chord, progress (optionally) through **S**, and end with the cadential **D T** progression (*always* **D5 T1**: **V<sup>(7)</sup> I**):
 
 > **T_ (S_) D5 T1**
 
