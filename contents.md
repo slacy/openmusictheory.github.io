@@ -114,7 +114,7 @@ title: Table of Contents
 ### Galant Schemata
 
 [Galant schemata – opens and closes.](schemataOpensAndCloses)  
-[Galant Schemata — Continuation Patterns.](schemataContinuationPatterns)  
+[Galant Schemata – Continuation Patterns.](schemataContinuationPatterns)  
 [Galant schemata – summary.](schemataSummary.html)   
 [Improvising a sentence with galant schemata.](schemata-improv.html)
 
