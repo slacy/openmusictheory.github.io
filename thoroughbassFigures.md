@@ -9,12 +9,12 @@ A *thoroughbass* (It. *Basso continuo*, Ger. *Generalbaß*, also called a *figur
 
 *J.S. Bach, Flute Sonata in C Major, ii., BWV 1033. The upper part is played by the flute, the lower part is the* basso continuo *line, played by a keyboardist who uses the numbers below the staff (figures) to guide the chords played above this bass line.*
 
-The historical origin of the thoroughbass part was in church settings where a piece for 6–8 singers was to be performed by one or two voices with a keyboard instrument. The keyboardist, rather than play the 4–7 remaining parts, would transcribe the lowest note and shorthand figures to remind himself of the (simple) intervals present above that lowest voice. This would allow the keyboardist to play one or two of the more important lines, and fill the rest of the texture with blocked or arpeggiated chords. (Think seventeenth-century lead sheet.) A good keyboardist, who knew his harmony and voice-leading, could simply follow the bass line without figures (an *unfigured bass*) and listen to the melody, improvising the rest. Less experienced keyboardists, however, could manage otherwise complicated pieces by reading a bass line and memorizing a small number of figures and basic voice-leading rules. (You can read a more detailed explanation of its history [here](bassoContinuo-history).)
+The historical origin of the thoroughbass part was in church settings where a piece for 6–8 singers was to be performed by one or two voices with a keyboard instrument. The keyboardist, rather than play the 4–7 remaining parts, would transcribe the lowest note and shorthand figures to indicate the (simple) intervals present above that lowest voice. This would allow the keyboardist to play one or two of the more important lines, and fill the rest of the texture with blocked or arpeggiated chords. (Think seventeenth-century lead sheet.) A good keyboardist, who knew their harmony and voice-leading, could simply follow the bass line without figures (an *unfigured bass*) and listen to the melody, improvising the rest. Less experienced keyboardists, however, could manage otherwise complicated pieces by reading a bass line and memorizing a small number of figures and basic voice-leading rules. (You can read a more detailed explanation of its history [here](bassoContinuo-history).)
 
 Coming after species counterpoint in our studies, *basso continuo* exercises provide a new, more complicated environment in which to practice mediating the demands of smoothness, independence of lines, tonal fusion (now considering triads and seventh chords), variety, and motion. New considerations of performability are introduced, and the presence of dissonances within the core harmonies themselves will call for new approaches to harmonic dissonance in this style.
 
 
-We will use thoroughbass lines for a number of purposes in this class:
+We will use thoroughbass lines for a number of purposes in this book:
 
 - harmonic "reductions" of pieces and passages with dense textures or complicated voice-leading  
 - shorthand representations of stock harmonic patterns  
@@ -22,7 +22,7 @@ We will use thoroughbass lines for a number of purposes in this class:
 
 Thoroughbass is a simple, and foundational, concept. Master it early, and subsequent activities will be much easier.
 
-Note on figure placement: Thoroughbass figures can appear above or below the bass line. Both are common, but for this class, we will always place them *above* the bass line. This connects them to our habits of interval analysis during species counterpoint, keeps figures separate from other harmonic symbols we will place below the bass line, and make typesetting in notation software easier when both figures and other symbols are in play simultaneously.
+Note on figure placement: Thoroughbass figures can appear above or below the bass line. Both are common, but in this book, we generally place them *above* the bass line. This connects them to our habits of interval analysis during species counterpoint, keeps figures separate from other harmonic symbols we will place below the bass line, and make typesetting in notation software easier when both figures and other symbols are in play simultaneously.
 
 ## Figures 
 
