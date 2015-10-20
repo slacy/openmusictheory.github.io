@@ -23,7 +23,7 @@ or
 
 ## Step-up/pump-up modulation
 
-In the pop literature (and in some Christian liturgical contexts), direct modulations by whole- or half-step are common near the end of the song. Direct/phrase modulations by step from old-key tonic to new-key tonic in pop music are also called *step-up* or *pump-up modulations*. A step-up modulation is notated like a direct modulation.
+In the pop literature, direct modulations by whole- or half-step are common near the end of the song. Direct/phrase modulations by step from old-key tonic to new-key tonic in pop music are also called *step-up* or *pump-up modulations*. A step-up modulation is notated like a direct modulation.
 
 "I Wanna Be Sedated" by the Ramones includes an obvious *step-up* modulation (1:10).
 
@@ -39,13 +39,13 @@ Billy Ocean's "Get Outta My Dreams" contains a classic truck-driver modulation (
 
 ## Pivot-chord modulation
 
-A *pivot-chord* modulation makes use of at least one chord that is native to both the old key and the new key. It is the most common type of modulation in common-practice tonal music. The smoothest type of pivot-chord modulation uses a pivot-chord that expresses the same function in both keys, preferably subdominant function, but other functional arrangements are possible and commonly used.
+A *pivot-chord* modulation makes use of at least one chord that is native to both the old key and the new key. It is the most common type of modulation in common-practice tonal music. The smoothest type of pivot-chord modulation uses a pivot-chord that expresses the same function in both keys — commonly subdominant function, but other functional arrangements are possible and commonly used.
 
 When a chord expresses dominant function in the new key and is an applied chord in the old key, it is not a pivot chord. Instead, that chord is effecting a direct or truck-driver modulation. A pivot chord must belong to the diatonic collection of both keys (keeping in mind that in minor, both *la* and *le*, and both *ti* and *te* are "native" to the minor key).
 
-A pivot-chord modulation is notated in a special way. The pivot chord receives its analytical symbol for the old key, as usual. Below that symbol is the new key, colon, and the analytical symbol for the pivot chord in the new key. When using notation software, the two-layered analysis is fine. When analyzing by hand, use a bracket like the one shown in the following example.
+A pivot-chord modulation is notated in a special way. The pivot chord receives its analytical symbol for the old key, as usual. Below that symbol is the new key, colon, and the analytical symbol for the pivot chord in the new key. When using notation software, a two-layered analysis is fine: use the lyrics tool to create multiple "verses" of harmonic analysis, one for each key, overlapping on the pivot chord. When analyzing by hand, use a bracket like the one shown in the following example.
 
-***new modulation graphic***
+![](Graphics/harmony/pivot.png)
 
 
 [Applied]: appliedChords.html
