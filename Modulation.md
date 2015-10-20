@@ -47,6 +47,8 @@ A pivot-chord modulation is notated in a special way. The pivot chord receives i
 
 ![](Graphics/harmony/pivot.png)
 
+<img src="Graphics/harmony/pivot.png" alt="Pivot chord bracket notation: VII of D minor becomes V of F major." style="width:75%" />
+
 
 [Applied]: appliedChords.html
 [mod]: Graphics/harmony/modEx.png
