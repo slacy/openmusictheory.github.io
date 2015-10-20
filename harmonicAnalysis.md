@@ -21,6 +21,14 @@ If the phrase ends with a cadence, identify the *cadential progression*. This in
 
 The the **(S) D T** of the cadential progression should be labeled as such. Once the cadential progression is identified, everything before it should be analyzed as tonic prolongation. Whether it is contrapuntal prolongation, a subsidiary progression, or a combination of the two, it will be labeled **T–––.** (See [Harmonic syntax – prolongation](http://openmusictheory.com/harmonicSyntax2.html) if those terms are unfamiliar to you.)
 
+Thus a phrase ending with a half cadence will have a functional analysis that looks like:
+
+> T—————— (S) D 
+
+A phrase ending with an authentic cadence will have a functional analysis that looks like:
+
+> T—————— (S) D T
+
 Following is an excerpt from the opening of Haydn's Piano Sonata in C Major, Hob. HVI:21, I. Chords are labeled with Roman numerals and a **T/S/D** functional label for each chord. The tonic prolongation is shown below that with a T followed by a line for the duration of the tonic zone. The cadential progression is comprised of the last tonic chord (m. 4) through **S D T** to the **PAC** in m. 6.
 
 [![](Graphics/harmony/XVI-21-prolongation.png)](Graphics/harmony/XVI-21-prolongation.png)
