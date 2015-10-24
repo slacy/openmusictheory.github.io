@@ -15,10 +15,6 @@ A three-note chord whose pitch classes can be arranged as thirds is called a *tr
 To quickly determine whether a three-note chord is a triad, arrange the three notes on the "circle of thirds" below. The pitch classes of a triad will always sit next to each other.
 
 ![A triad (A, C, E) on the diatonic circle of thirds.][circleOfThirds-triad]
-<figure>	
-  <img src="/Graphics/form/k283-presentation.png">
-  <figcaption>Presentation: Mozart, K. 283, i., mm. 1–4</figcaption>
-</figure>
 
 ## Identifying and labeling triads ##
 
@@ -26,20 +22,20 @@ Triads are identified according to their *root* and *quality*.
 
 ### Triad roots ###
 
-To find a triad’s root, arrange the pitch classes on a circle of thirds (mentally or on paper). When you arrange the pitch classes on the circle of thirds, the root is the *lowest* pitch-class of the three-pitch-class clump. Expressed another way, if the circle *ascends* by thirds as it moves clockwise, the root is the “earliest” note (thinking like a literal clock), and the other pitch classes come “later.”
+To find a triad’s root, arrange the pitch classes on a circle of thirds (mentally or on paper). The root is the *lowest* in the three-pitch-class clump. Expressed another way, if the circle *ascends* by thirds as it moves clockwise, the root is the “earliest” note (thinking like a literal clock), and the other pitch classes come “later.”
 
 ![A triad (A, C, E) on the diatonic circle of thirds.][circleOfThirds-triadRTF]
 
-Once you know the root, you can identify the other notes as the *third* of the chord (a third above the root) and the *fifth* of the chord (a fifth above the root). The third of the chord is the pitch class that is a third higher than the root. The fifth of the chord is the pitch class that is a fifth higher than the root.
+Once you know the root, you can identify the remaining notes as the *third* of the chord (a third above the root) and the *fifth* of the chord (a fifth above the root).
 
 ### Triad qualities ###
 
-To find a triad’s quality, identify the diatonic interval between the root and the other members of the chord. There are four qualities of triads that appear in major and minor scales, each with their own characteristic intervals.
+To find a triad’s quality, identify the interval between the root and the other members of the chord. There are four qualities of triads that appear in major and minor scales, each with their own characteristic intervals.
 
 -   major triad: M3 and P5 above the root (as in *do–mi–sol*)
 -   minor triad: m3 and P5 above the root (as in *do–me–sol* or *la–do–mi*)
 -   diminished triad: m3 and d5 above the root (as in *ti–re–fa*)
--   augmented triad: M3 and A5 above the root (as in *sol–ti–ri*)
+-   augmented triad: M3 and A5 above the root (as in *me–sol–ti*)
 
 ![Four qualities of triads.][triads]
 
@@ -62,7 +58,7 @@ A C-major triad’s lead-sheet symbol is simply **C**. A C-minor triad is **Cm**
 
 ## Roman numerals ##
 
-Chords can be labeled according to their function within a key. One system for doing so uses Roman numerals to designate the scale degree of the chord’s root. Some musicians also use Roman numerals to describe the quality of the chord. Capital Roman numerals (I, II, III, etc.) are used for major triads. Lower-case Roman numerals (i, ii, iii, etc.) are used for minor triads. Lower-case Roman numerals followed by a º sign (iiº, viiº, etc.) are used for diminished triads. Capital Roman numerals followed by a <sup>+</sup> sign (V<sup>+<>/sup>, for example) are used for augmented triads. In general, Roman numerals are generally labeled *below* the score.
+Chords are often labeled according to their function within a key. One system for doing so uses Roman numerals to designate the scale degree of the chord’s root. Some musicians also use Roman numerals to describe the quality of the chord. Capital Roman numerals (I, II, III, etc.) are used for major triads. Lower-case Roman numerals (i, ii, iii, etc.) are used for minor triads. Lower-case Roman numerals followed by a º sign (iiº, viiº, etc.) are used for diminished triads. Capital Roman numerals followed by a <sup>+</sup> sign (V<sup>+<>/sup>, for example) are used for augmented triads. In general, Roman numerals are generally labeled *below* the score.
 	
 (Some musicians prefer to use Roman numerals *only* to reflect the scale-degree of the chord root. In such cases, all Roman numerals are capital. In this textbook, we use all-capital Roman numerals to refer to chords generally, when quality does not matter. When notating specific chords with specific qualities, we will differentiate those qualities in the Roman numerals.)
 
@@ -152,7 +148,7 @@ Note that major-seventh and dominant-seventh chords have the same Roman numeral 
 
 [circleOfSteps-triad]: Graphics/triadsSeventhChords/circleOfSteps-triad.png
 [circleOfThirds-triad]: Graphics/triadsSeventhChords/circleOfThirds-triad.svg
-[circleOfThirds-triadRTF]: Graphics/triadsSeventhChords/circleOfThirds-triadRTF.png
+[circleOfThirds-triadRTF]: Graphics/triadsSeventhChords/circleOfThirds-triadRTF.svg
 [triads]: Graphics/triadsSeventhChords/triads.png
 [triads-LS]: Graphics/triadsSeventhChords/triads-LS.png
-[circleOfThirds-seventhRTFS]: Graphics/triadsSeventhChords/circleOfThirds-seventhRTFS.png
+[circleOfThirds-seventhRTFS]: Graphics/triadsSeventhChords/circleOfThirds-seventhRTFS.svg
