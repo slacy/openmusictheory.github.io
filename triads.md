@@ -8,15 +8,17 @@ A chord is any combination of three or more pitch classes that sound simultaneou
 
 A three-note chord whose pitch classes can be arranged as thirds is called a *triad*.
 
-To tell whether or not a chord is a triad, take the pitch classes present in the chord. Assuming there are three pitch classes (not necessarily three *pitches*), arrange them on the circle of generic scale steps. (By generic, I mean that A-natural, A-flat, and A-sharp are all kinds of A.)
+<!--To tell whether or not a chord is a triad, take the pitch classes present in the chord. Assuming there are three pitch classes (not necessarily three *pitches*), arrange them on the circle of generic scale steps. (By generic, I mean that A-natural, A-flat, and A-sharp are all kinds of A.)
 
-![A triad (A, C, E) on the diatonic circle of steps.][circleOfSteps-triad]
+![A triad (A, C, E) on the diatonic circle of steps.][circleOfSteps-triad]-->
 
-If the three pitch classes are distributed as above, with two intervals skipping one pitch class and with one interval skipping two pitch classes, the chord is a triad. (There are a few exceptions to this rule, but they rarely appear in Western music, so don’t worry about them for now.)
-
-A circle of thirds makes things even clearer, as the pitch classes of a triad will always sit next to each other.
+To quickly determine whether a three-note chord is a triad, arrange the three notes on the "circle of thirds" below. The pitch classes of a triad will always sit next to each other.
 
 ![A triad (A, C, E) on the diatonic circle of thirds.][circleOfThirds-triad]
+<figure>	
+  <img src="/Graphics/form/k283-presentation.png">
+  <figcaption>Presentation: Mozart, K. 283, i., mm. 1–4</figcaption>
+</figure>
 
 ## Identifying and labeling triads ##
 
@@ -149,7 +151,7 @@ Following are the qualities and scale-degrees belonging to each seventh chord in
 Note that major-seventh and dominant-seventh chords have the same Roman numeral nomenclature. The difference is discerned from the context of the key.
 
 [circleOfSteps-triad]: Graphics/triadsSeventhChords/circleOfSteps-triad.png
-[circleOfThirds-triad]: Graphics/triadsSeventhChords/circleOfThirds-triad.png
+[circleOfThirds-triad]: Graphics/triadsSeventhChords/circleOfThirds-triad.svg
 [circleOfThirds-triadRTF]: Graphics/triadsSeventhChords/circleOfThirds-triadRTF.png
 [triads]: Graphics/triadsSeventhChords/triads.png
 [triads-LS]: Graphics/triadsSeventhChords/triads-LS.png
