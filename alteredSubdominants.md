@@ -47,7 +47,7 @@ In a Roman numeral analysis, **Fr.** replaces a Roman numeral. The figured bass 
 
 When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **Fr.**
 
-The following example if from Mozart's String Quartet, "Dissonance," K. 465, iv., mm. 10–16. The French augmented-sixth chord occurs on beat 2 of m. 14. In this passage, a "milder" subdominant chord (**IV<sup>6</sup>**) progresses to the more intense French sixth, which progresses into the cadential 6/4 before the final **V–I.**
+The following example is from Mozart's String Quartet, "Dissonance," K. 465, iv., mm. 10–16. The French augmented-sixth chord occurs on beat 2 of m. 14. In this passage, a "milder" subdominant chord (**IV<sup>6</sup>**) progresses to the more intense French sixth, which progresses into the cadential 6/4 before the final **V–I.**
  
 <img src="Graphics/K465-iv.png" alt="French augmented-sixth chord in mm. 10–16 of Mozart's String Quartet, K. 465, iv." style="width: 75%; display: block; margin: auto;" />
 
@@ -62,6 +62,12 @@ In a Roman numeral analysis, **Ger.** replaces a Roman numeral. The figured bass
 When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **Ger.**
 
 The German sixth is almost always used in minor and followed by a cadential 6/4 chord, with *me* and *do* carrying over into the cadential 6/4. 
+
+In Beethoven's Piano Sonata in E Major, Op. 109, iii., a German augmented-sixth chord occurs on the last beat of m. 7 and carries over into m. 8 before releasing tension into the half cadence at the end of m. 8.
+
+<img src="Graphics/Op109-iii.png" alt="German augmented-sixth chord in mm. 1–8 of Beethoven's Piano Sonata, Op. 109, iii." style="width: 75%; display: block; margin: auto;" />
+
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A00Vxoqv6oGhrcmugk7TAXB" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
 ### Swiss augmented-sixth chord
 
