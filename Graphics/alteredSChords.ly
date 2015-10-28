@@ -1,4 +1,4 @@
-\version "2.14.2"
+\version "2.18.2"
 
 #(set-default-paper-size "letter")
 #(set-global-staff-size 20)
@@ -27,7 +27,7 @@
 	ragged-bottom = ##f
 	ragged-last-bottom = ##t
 	system-system-spacing #'minimum-distance = #25
-	markup-system-spacing #'minimum-distance = #18
+	%markup-system-spacing #'minimum-distance = #10
 	last-bottom-spacing #'minimum-distance = #15
 %	page-count = #3
 	print-page-number = ##f
@@ -56,10 +56,12 @@ upper = \relative c'' {
 	<<
 		{
 			% enter melody here
+			c2 cis cis cis \key g \major cis
 			} \\
 			
 		{
 			% enter middle voices (alto & tenor) here
+			<es, aes>2 g <g a> <g bes> <g ais>
 			}
 		>>
 	}
@@ -70,7 +72,7 @@ lower = <<
 			\clef bass
 			
 			% enter bass line here
-			c2 \bar "||" es2 \bar "||" es2 \bar "||" es2 \bar "||" es2 \bar "||"
+			c2 \bar "||" es2 \bar "||" es2 \bar "||" es2 \bar "||" \key g \major es2 \bar "||"
 			}
 		
 		\new FiguredBass \figuremode {
@@ -121,11 +123,11 @@ pedal = {
 		\set PianoStaff.instrumentName = " "
 		\set PianoStaff.shortInstrumentName = " "
 		\set PianoStaff.midiInstrument = "piano" 
-%		\new Staff = "Staff_pfUpper" << \global \upper >>
+		\new Staff = "Staff_pfUpper" << \global \upper >>
 %		\new Dynamics = "Dynamics_pf" \dynamics
 		\new Staff = "Staff_pfLower" << \global \lower >>
-		\new Lyrics \lyricsto "bass" { \functionalBass }
 		\new Lyrics \lyricsto "bass" { \functionalBassLower }
+		\new Lyrics \lyricsto "bass" { \functionalBass }
 %		\new Dynamics = "pedal" \pedal	
 		>>
 	\layout { 

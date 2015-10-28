@@ -5,7 +5,7 @@ title: Chromatically altered subdominant chords
 
 The most common chromatically altered subdominant chords (aside from the applied dominant of V) are the *Neapolitan chord* and the various *augmented-sixth chords*. 
 
-![][altSub]
+<img src="Graphics/N-AugSixths.png" alt="Neapolitan chord and augmented sixth chords, as described below, notated on a staff in basso-continuo style in G minor or major." style="width: 75%; display: block; margin: auto;" />
 
 ## Neapolitan chord
 
@@ -14,6 +14,10 @@ The Neapolitan chord contains lowered scale-degree 2, along with scale-degree 4,
 In a Roman numeral analysis, **N.** (or **N.<sup>6</sup>**) substitutes for a Roman numeral (that is, it is not labeled a flat-II chord in classical music). As a chromatically altered subdominant chord, it always expresses subominant function (**S**).
 
 In a functional bass analysis, **N.** is placed below the functional designation of **[S4]**.
+
+Several prominent Neapolitan chords occur in "Der Müller und der Bach" from Schubert's song cycle, *Die schöne Müllerin* (song no. 19). See if you can find them by ear and/or on [the score](http://petrucci.mus.auth.gr/imglnks/usimg/f/f6/IMSLP03233-Schubert_dsm_em.pdf).
+
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A4vKJZfXIU7c3qPKMegSDBW" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
 ## Augmented-sixth chords
 
@@ -56,8 +60,3 @@ When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under
 
 Like the German sixth, the Swiss augmented-sixth is almost always followed by a cadential 6/4 chord. However, the Swiss chord tends to appear in major keys, with *ri* proceeding to *mi* and *do* carrying over into the cadential 6/4. 
 
-
-***add Trinket exercises, voice-leading***
-
-
-[altSub]: Graphics/N-AugSixths.png
