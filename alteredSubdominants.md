@@ -33,14 +33,25 @@ In a Roman numeral analysis, **It.** replaces a Roman numeral. The figured bass 
 
 When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **It.**
 
+The following example is from Beethoven's Bagatelle, Op. 119, No. 1, mm. 1–4. In m. 3, the Italian augmented-sixth chord falls on beat 3, immediately before the dominant chord.
+
+<img src="Graphics/Op119-1.png" alt="Italian augmented-sixth chord in mm. 1–4 of Beethoven's Op. 119, No. 1." style="width: 75%; display: block; margin: auto;" />
+
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A79GyMHrNnQuFaov2JL7Tih" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+
 ### French augmented-sixth chord
 
 The *French augmented-sixth chord* has four members: *le*, *do*, *re*, and *fi*. As in the Italian sixth, *le* is typically the bass note.
 
 In a Roman numeral analysis, **Fr.** replaces a Roman numeral. The figured bass is a slashed "6" with a "4" and a "3." It expresses subdominant function **S**).
 
-When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **It.**
+When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **Fr.**
+
+The following example if from Mozart's String Quartet, "Dissonance," K. 465, iv., mm. 10–16. The French augmented-sixth chord occurs on beat 2 of m. 14. In this passage, a "milder" subdominant chord (**IV<sup>6</sup>**) progresses to the more intense French sixth, which progresses into the cadential 6/4 before the final **V–I.**
  
+<img src="Graphics/K465-iv.png" alt="French augmented-sixth chord in mm. 10–16 of Mozart's String Quartet, K. 465, iv." style="width: 75%; display: block; margin: auto;" />
+
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A36zKxZUavyuStSq0R4T4IH" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
 ### German augmented-sixth chord
 
