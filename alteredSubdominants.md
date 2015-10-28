@@ -15,7 +15,9 @@ In a Roman numeral analysis, **N.** (or **N.<sup>6</sup>**) substitutes for a Ro
 
 In a functional bass analysis, **N.** is placed below the functional designation of **[S4]**.
 
-Several prominent Neapolitan chords occur in "Der Müller und der Bach" from Schubert's song cycle, *Die schöne Müllerin* (song no. 19). See if you can find them by ear and/or on [the score](http://petrucci.mus.auth.gr/imglnks/usimg/f/f6/IMSLP03233-Schubert_dsm_em.pdf).
+Several prominent Neapolitan chords occur in "Der Müller und der Bach" from Schubert's song cycle, *Die schöne Müllerin* (song no. 19). On the score below (mm. 7–10 of the song), the tonic triad (G minor) is followed by a Neapolitan, then a dominant-seventh chord, and then tonic: T – S – D – T.
+
+<img src="Graphics/DMUDB.png" alt="Neapolitan chord in mm. 7–10 of Schubert's Der Müller und der Bach." style="width: 75%; display: block; margin: auto;" />
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A4vKJZfXIU7c3qPKMegSDBW" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
