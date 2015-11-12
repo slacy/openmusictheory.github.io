@@ -15,7 +15,7 @@ A P theme may exhibit any [standard theme type](classicalThemes.html) (sentence,
 
 ## Transition module (TR)
 
-The TR module's principal functional role is to drive toward the MC that marks its end. This is both a harmonic motion and a rhetorical motion, characterized by _energy gain_. An analysis of a TR module should center around the MC and how the composer approaches it
+The TR module's principal functional role is to drive toward the MC that marks its end. This is both a harmonic motion and a rhetorical motion, characterized by _energy gain_. An analysis of a TR module should center around the MC and how the composer approaches it.
 
 ### Harmonic motion
 
