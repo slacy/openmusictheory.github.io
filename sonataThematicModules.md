@@ -50,7 +50,7 @@ The chief function of _S_, which is in the subordinate key of the sonata, is to 
 
 Thematically, the S theme is much looser than the P theme. It is typical to find extended continuations and expanded cadential passages, all as a means towards dramatizing the eventual arrival at the EEC.
 
-It is important to note that new melodic material _is not_ a requirement of S. In fact, many sonatas–especially those composed by Haydn–have S themes that resemble the P theme. (These are called mono-thematic sonatas.)
+It is important to note that new melodic material _is not_ a requirement of S. In fact, many sonatas – especially those composed by Haydn – have S themes that resemble the P theme. (These are called mono-thematic sonatas.)
 
 ## Closing module (C)
 
