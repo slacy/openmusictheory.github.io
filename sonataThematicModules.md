@@ -46,7 +46,7 @@ In the following example from Beethoven's Piano Sonata in G minor, Op. 49, No. 1
 
 ## Subordinate theme module (S)
 
-The chief function of _S_, which is in the subordinate key of the sonata, is to lead to a PAC in that key—the _essential expositional closure (EEC)_. Because of its role in relation to this central harmonic event (and its corresponding cadence in the recapitulation, the ESC), the S module is of immense importance and interest in a sonata-form movement. Hepokoski and Darcy go so far as to say that "what happens in S makes a sonata a sonata" (p. 117). Because the EEC is of such structural importance, its arrival is often delayed and dramatized to a great degree.
+The chief function of _S_, which is in the subordinate key of the sonata, is to lead to a PAC in that key — the _essential expositional closure (EEC)_. Because of its role in relation to this central harmonic event (and its corresponding cadence in the recapitulation, the ESC), the S module is of immense importance and interest in a sonata-form movement. Hepokoski and Darcy go so far as to say that "what happens in S makes a sonata a sonata" (p. 117). Because the EEC is of such structural importance, its arrival is often delayed and dramatized to a great degree.
 
 Thematically, the S theme is much looser than the P theme. It is typical to find extended continuations and expanded cadential passages, all as a means towards dramatizing the eventual arrival at the EEC.
 
