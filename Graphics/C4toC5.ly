@@ -1,4 +1,4 @@
-\version "2.14.2"
+\version "2.16.2"
 
 \header {
   title = ""
@@ -23,15 +23,12 @@ simple = \relative c' {
 }
 
 \score {
-  <<
-    \new Staff \with {
-      \remove "Time_signature_engraver"
-      \override TextScript #'font-name = #"Neuton Bold"
-      \override TextScript #'staff-padding = #3
-    }
-    {
-      \simple
-    }
-  >>
+  \new Staff \with {
+    \remove "Time_signature_engraver"
+    \override TextScript #'font-name = #"Neuton Bold"
+    \override TextScript #'staff-padding = #3
+  }
+  {
+    \simple
   }
 }
