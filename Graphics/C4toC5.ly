@@ -19,13 +19,15 @@
 
 simple = \relative c' {
   \clef treble
-  c1_"C4" d_"D4" e_"E4" f_"F4" g_"G4" a_"A4" b_"B4" c_"C5"
+  \time 8/1
+  c1_"C4" d_"D4" e_"E4" f_"F4" g_"G4" a_"A4" b_"B4" c_"C5" \bar "||"
 }
 
 \score {
   \new Staff \with {
     \remove "Time_signature_engraver"
     \override TextScript #'font-name = #"Neuton Bold"
+    \override TextScript #'font-size = #2
     \override TextScript #'staff-padding = #3
   }
   {
