@@ -1,24 +1,21 @@
 \version "2.14.2"
 
-%% #(set-default-paper-size "letter")
-%% #(set-global-staff-size 20)
-
 \header {
-    title = ""
-    tagline = ""
-    }
+  title = ""
+  tagline = ""
+}
 
 \paper {
-    indent = 0\mm
-    top-margin = 0\mm
-    bottom-margin = 0\mm
-    left-margin = 0\mm
-    right-margin = 0\mm
-    evenFooterMarkup = ""
-    oddFooterMarkup = ""
-    evenHeaderMarkup = ""
-    oddHeaderMarkup = ""
-  }
+  indent = 0\mm
+  top-margin = 0\mm
+  bottom-margin = 0\mm
+  left-margin = 0\mm
+  right-margin = 0\mm
+  evenFooterMarkup = ""
+  oddFooterMarkup = ""
+  evenHeaderMarkup = ""
+  oddHeaderMarkup = ""
+}
 
 simple = \relative c' {
   \clef treble
@@ -27,26 +24,14 @@ simple = \relative c' {
 
 \score {
   <<
-  \new Staff \with {
-    \remove "Time_signature_engraver"
-    \override TextScript #'font-name = #"Neuton Bold"
-    \override TextScript #'staff-padding = #3
-  }
-  {
-    \simple
-  }
-%{
-  \new Lyrics {
-    \override LyricText #'font-name = #"Neuton Bold"
-    \lyricmode {
-      "C4" "D4" "E4" "F4" "G4" "A4" "B4" "C5"
+    \new Staff \with {
+      \remove "Time_signature_engraver"
+      \override TextScript #'font-name = #"Neuton Bold"
+      \override TextScript #'staff-padding = #3
     }
-  }
-%}
+    {
+      \simple
+    }
   >>
-  \layout {
-    indent = 30\mm
   }
-  %% \context { \Score \remove "Bar_number_engraver" }
-  %% \context { \Staff \remove "Time_signature_engraver" }
 }
