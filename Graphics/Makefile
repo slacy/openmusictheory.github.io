@@ -11,7 +11,7 @@ DEFAULT: $(PDF)
 VPATH = OUT
 
 %.png : %.ly
-	lilypond -left-padding=33 -dresolution=200 -dbackend=eps --png $^
+	lilypond -left-padding=33 -dresolution=200 -dpixmap-format=pngalpha -dbackend=eps --png $^
 
 %.svg : %.ly
 	lilypond -left-padding=33 -dresolution=200 -dbackend=svg $^
