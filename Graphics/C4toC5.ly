@@ -20,7 +20,8 @@
 simple = \relative c' {
   \clef treble
   \time 8/1
-  c1_"C4" d_"D4" e_"E4" f_"F4" g_"G4" a_"A4" b_"B4" c_"C5" \bar "||"
+  c1_"C4" d_"D4" e_"E4" f_"F4" g_"G4" a_"A4" b_"B4" c_"C5"
+  \bar "|."
 }
 
 \score {
