@@ -10,11 +10,11 @@ DEFAULT: $(PDF)
 
 VPATH = OUT
 
-%.png : %.ly
-	lilypond -left-padding=33 -dresolution=200 -dbackend=eps --png $^
+%.png : %.ly Makefile
+	lilypond -left-padding=33 -dresolution=300 -dbackend=eps --png $<
 
-%.svg : %.ly
-	lilypond -left-padding=33 -dresolution=200 -dbackend=svg $^
+%.svg : %.ly Makefile
+	lilypond -left-padding=33 -dresolution=300 -dbackend=svg $<
 
 clean:
 	rm -f $(PDF)

@@ -7,7 +7,7 @@ description:      "an open, interactive, online textbook for college music theor
 # url: http://192.168.1.1:4000
 #baseurl: http://192.168.1.1:4000
 url: http://localhost:4000
-baseurl: /
+# baseurl: /
 
 
 # Owner/author information
