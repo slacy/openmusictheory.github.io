@@ -2,21 +2,25 @@ title:            Open Music Theory
 tagline:          Hybrid Pedagogy Publishing
 description:      "an open, interactive, online textbook for college music theory"
 #Comment out url when working locally to resolve base urls correctly
-url: http://openmusictheory.com
-baseurl: http://openmusictheory.com
+# url: http://openmusictheory.com
+# baseurl: http://openmusictheory.com
+# url: http://192.168.1.1:4000
+#baseurl: http://192.168.1.1:4000
+url: http://localhost:4000
+baseurl: /
 
 
 # Owner/author information
 owner:
   name:           Hybrid Pedagogy Publishing
-  avatar:         
-  bio:            
+  avatar:
+  bio:
   email:          kris@hybridpedagogy.org
-  twitter:        HybridPub        
-  github:         hybrid-pedagogy       
-  instagram:           
-  dribbble:       
-  disqus:         
+  twitter:        HybridPub
+  github:         hybrid-pedagogy
+  instagram:
+  dribbble:
+  disqus:
   location:       "Boulder, CO"
   # Plug in your disqus shortname!
 
@@ -52,7 +56,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
