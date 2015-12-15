@@ -8,3 +8,7 @@ Thumbs.db
 
 _site/
 .sass-cache/
+*.eps
+*.count
+*.tex
+*.texi
