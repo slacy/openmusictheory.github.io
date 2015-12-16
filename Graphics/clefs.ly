@@ -21,13 +21,13 @@ simple = \relative c' {
   \clef treble
   \time 8/1
 
-  c1^\markup "Treble" s1
+  c1^\markup \center-align "Treble" s2
   \clef bass
-  c1^"Bass" s1
+  c1^\markup \center-align "Bass" s2
   \clef alto
-  c1^"Alto" s1
+  c1^\markup \center-align "Alto" s2
   \clef tenor
-  c1^"Tenor" s1
+  c1^\markup \center-align "Tenor" s2
   \bar "|."
 }
 
