@@ -6,4 +6,8 @@
 ehthumbs.db
 Thumbs.db
 
-_site/
+_site/*.eps
+*.count
+*.tex
+*.texi
+*.eps

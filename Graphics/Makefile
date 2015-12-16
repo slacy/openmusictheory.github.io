@@ -1,4 +1,4 @@
-.SUFFIXES: .pdf .ly .png .midi
+.SUFFIXES: .pdf .ly .png .midi .svg
 .PHONY: clean
 
 LY=$(wildcard *.ly)
@@ -6,7 +6,7 @@ PDF=$(patsubst %.ly,%.pdf,$(LY))
 PNG=$(patsubst %.ly,%.png,$(LY))
 SVG=$(patsubst %.ly,%.svg,$(LY))
 
-DEFAULT: $(PDF)
+DEFAULT: $(PNG)
 
 VPATH = OUT
 
@@ -17,4 +17,4 @@ VPATH = OUT
 	lilypond -left-padding=33 -dresolution=200 -dbackend=svg $^
 
 clean:
-	rm -f $(PDF)
+	rm -f $(PDF) $(PNG) $(SVG)
