@@ -17,10 +17,10 @@
   oddHeaderMarkup = ""
 }
 
-simple = \relative c' {
+simple = \relative c {
   \clef alto
-  \time 8/1
-  f g a b c d e f g
+  \time 9/1
+  f1_"F3" g_"G3" a_"A3" b_"B3" c_"C4" d_"D4" e_"E4" f_"F4" g_"G4"
   \bar "|."
 }
 
@@ -29,7 +29,7 @@ simple = \relative c' {
     \remove "Time_signature_engraver"
     \override TextScript #'font-name = #"Neuton Bold"
     \override TextScript #'font-size = #2
-    \override TextScript #'staff-padding = #3
+    \override TextScript #'staff-padding = #2
   }
   {
     \simple

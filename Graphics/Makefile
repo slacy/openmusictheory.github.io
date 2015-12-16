@@ -11,10 +11,10 @@ DEFAULT: $(PNG)
 VPATH = OUT
 
 %.png : %.ly Makefile
-	lilypond -left-padding=33 -dresolution=300 -dbackend=eps --png $<
+	lilypond -dresolution=300 -dbackend=eps --png $<
 
 %.svg : %.ly Makefile
-	lilypond -left-padding=33 -dresolution=300 -dbackend=svg $<
+	lilypond -dresolution=300 -dbackend=svg $<
 
 clean:
 	rm -f $(PDF) $(PNG) $(SVG)
