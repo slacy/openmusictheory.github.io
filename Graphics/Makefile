@@ -12,6 +12,7 @@ VPATH = OUT
 
 %.png : %.ly Makefile
 	lilypond -dresolution=300 -dbackend=eps --png $<
+	mogrify -bordercolor white -border 30 $@
 
 %.svg : %.ly Makefile
 	lilypond -dresolution=300 -dbackend=svg $<
