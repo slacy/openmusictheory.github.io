@@ -18,9 +18,16 @@
 }
 
 simple = \relative c' {
-  \clef bass
+  \clef treble
   \time 8/1
-  c1_"C4" b_"B3" a_"A3" g_"G3" f_"F3" e_"E3" d_"D3" c_"C3"
+
+  c1^\markup "Treble" s1
+  \clef bass
+  c1^"Bass" s1
+  \clef alto
+  c1^"Alto" s1
+  \clef tenor
+  c1^"Tenor" s1
   \bar "|."
 }
 

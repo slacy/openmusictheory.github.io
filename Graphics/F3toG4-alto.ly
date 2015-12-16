@@ -27,7 +27,7 @@ simple = \relative c {
 \score {
   \new Staff \with {
     \remove "Time_signature_engraver"
-    \override TextScript #'font-name = #"Neuton Bold"
+    \override TextScript #'font-name = #"Neuton"
     \override TextScript #'font-size = #2
     \override TextScript #'staff-padding = #2
   }
